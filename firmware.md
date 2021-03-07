@@ -1,0 +1,557 @@
+---
+title: "Firmware"
+date: 2021-01-17T00:00:01+03:00
+draft: false
+hidden: true
+#
+#categories: ["manual"]
+tags: ["firmware", "hi3516cv300", "hi3516ev100", "sitemap"]
+#
+omitDate : true
+---
+
+
+
+## Introduction
+
+### Supported devices
+
+We specifically develop **universal** firmware that doesn't depend on stupid manufacturers.
+
+The list is constantly updated, follow the releases !
+
+| Processor   | Sensor          | Vendor     | SKU          | Board                          | Status |
+|-------------|-----------------|------------|--------------|--------------------------------|--------|
+| Hi3516Cv100 | IMX222_spi_dc   | XM         |              | BLK18C-0222-38X38_S-V1.03      | test   |
+| Hi3518Ev100 | OV9712_i2c_dc   | CamHi/Xin  |              | IPC18E_9712_V2.0/V3.1          | test   |
+|             |                 |            |              |                                |        |
+| Hi3516Cv200 | IMX323_i2c_dc   | XM         |              | BLK16CV-0323-38X38-V1.01       | yes    |
+| Hi3516Cv200 | IMX323_i2c_dc   | JVT        | S323H16VF    | [IPS323-H16V-38X38-V2](https://aliexpress.ru/item/32975682617.html)           | yes   |
+| Hi3518Ev200 | AR0130_i2c_dc   | XM         |              | BLK18EV-0732-0035-38X38-V1.01  | yes    |
+| Hi3518Ev200 | JXF22_i2c_dc    | XM         |              | BLK18EV-0002-2035-38X38-V1.01  | yes    |
+| Hi3518Ev200 | JXF22_i2c_dc    | XM         |              | BLK18EV-0022-0130-38X38-V1.01  | yes    |
+| Hi3518Ev200 | OV2735_i2c_dc   | Dahua      | DH-IPC-C22P  | E305654 JX02 94V-0             | vip    |
+| Hi3518Ev200 | OV9732_         | XM         |              | BLK18EV-0732-0035-38X38-V1.01  | yes    |
+| Hi3518Ev200 | OV9732_i2c_dc   | Longse/HS  | LS-IP100/40  | 3518EV200-OV9732-V1.0          | yes    |
+| Hi3518Ev200 | OV9732_i2c_dc   | Rostelecom | QVC-IPC-136W | E305654 JX02 94V-0             | vip    |
+| Hi3518Ev200 | SC2135_i2c_dc   | XM         |              | [BLK18EV-0035-0042-38X38_S-V1.01](https://aliexpress.ru/item/32803697608.html)| yes   |
+| Hi3518Ev200 | SC2235_i2c_dc   | XM         |              | BLK18EV-0235-38X38-B-V1.01     | yes    |
+|             |                 |            |              |                                |        |
+| Hi3516Cv300 | AR0237_i2c_dc   | XM         |              | BLK16CV3-0237P-38X38-S-V1.01   | yes    |
+| Hi3516Cv300 | IMX307_i2c_lvds | Raysharp   |              | RS-CM-188D 2018-03-16 E150111  | yes    |
+| Hi3516Cv300 | IMX323_i2c_dc   | Longse/HS  |              | HI3516CV300-IMX323-POE-TF V1.1 | yes    |
+| Hi3516Cv300 | IMX323_i2c_dc   | Sunywo     | ZB6323       | IPG5020A-T-N6-V0.1             | yes    |
+| Hi3516Cv300 | IMX323_spi_dc   | JVT        | S323H16XF    | IPS323-H16X-38X38-V2/V3        | yes    |
+| Hi3516Cv300 | JXF22_i2c_dc    | XM         |              | BLK16CV3-0022-38X38-S-V1.01    | yes    |
+| Hi3516Ev100 | IMX323_i2c_dc   | XM         |              | BLK16E-0323-38X38-B-V1.01      | yes    |
+| Hi3516Ev100 | SC2235P_i2c_dc  | XM         | 80HE20PS-S   | [BLK16E-0235-38X38-S-V2.03](https://aliexpress.ru/item/32943893793.html)      | yes   |
+
+
+More information about sensors (in Russian) - [https://cctvsp.ru](https://www.cctvsp.ru/articles/obzor-i-sravnenie-matrits-dlya-kamer-videonablyudeniya)
+
+
+### Available URL (example)
+
+* [http://192.168.1.10](http://192.168.1.10) - Standard system interface based on OpenWrt Luci
+* [http://192.168.1.10:8888](http://192.168.1.10:8888) - MJPEG & MP3 streamers
+* [http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1](http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1)
+* [http://192.168.1.10:8888/mjpeg.html](http://192.168.1.10:8888/mjpeg.html)
+* [http://192.168.1.10:8888/video.html](http://192.168.1.10:8888/video.html)
+* [http://192.168.1.10:8888/stream.mp3](http://192.168.1.10:8888/stream.mp3)
+* [rtsp://192.168.1.10:554/demo](rtsp://192.168.1.10:554/demo) - RTSP streamer
+
+
+### Firmware features
+
+* Support squashfs, jffs2, overlayfs, cifs, vfat
+* Vlan and bridges support
+* Standart OPKG system
+* Tiny SNMP daemon
+* Curl with SSL for upload/download files
+* Run arbitrary command from u-boot ENV (linux_cmd=)
+* Simple L2/L3 VPN with traffic shaping and compression (vtun)
+* Simply sender Telegram bot (estgb)
+* Low cost  3G USB modems support in hilink and ppp modes
+* µVPN tunnel service
+* and more ...
+
+
+
+
+## Firmware
+
+### Downloads (latest dev)
+
+| Building status |    SoC    | U-Boot | Kernel | Rootfs | Maintainer |
+|-----------------|-----------|--------|--------|--------|------------|
+|![Hi3516Cv100 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv100%20images/badge.svg?branch=master)|Hi3516CV100|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv100-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv100-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv100-default-root.squashfs)|IZ+SS+DI
+|![Hi3516Cv200 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv200%20images/badge.svg?branch=master)|Hi3516CV200|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv200-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv200-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv200-default-root.squashfs)|IZ
+|![Hi3516Cv300 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv300%20images/badge.svg?branch=master)|Hi3516CV300|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv300-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv300-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16cv300-default-root.squashfs)|IZ+DI
+|![Hi3516Ev100 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv300%20images/badge.svg?branch=master)|Hi3516EV100|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16ev100-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16ev100-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-16ev100-default-root.squashfs)|IZ+DI
+|![Hi3518Av100 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv100%20images/badge.svg?branch=master)|Hi3518AV100|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18av100-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18av100-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18av100-default-root.squashfs)|IZ+SS+DI
+|![Hi3518Cv100 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv100%20images/badge.svg?branch=master)|Hi3518CV100|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18cv100-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18cv100-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18cv100-default-root.squashfs)|IZ+SS+DI
+|![Hi3518Ev100 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv100%20images/badge.svg?branch=master)|Hi3518EV100|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev100-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev100-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev100-default-root.squashfs)|IZ+SS+DI
+|![Hi3518Ev200 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv200%20images/badge.svg?branch=master)|Hi3518EV200|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev200-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev200-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev200-default-root.squashfs)|IZ
+|![Hi3518Ev201 images](https://github.com/openipc/chaos_calmer/workflows/Hi3516Cv200%20images/badge.svg?branch=master)|Hi3518EV201|[uboot](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev201-u-boot.bin)|[kernel](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev201-default-uImage)|[rootfs](https://github.com/OpenIPC/chaos_calmer/releases/download/latest/openwrt-hi35xx-18ev201-default-root.squashfs)|IZ
+
+### Releases
+
+The **releases** of the OpenIPC firmware is hosted at https://github.com/OpenIPC/chaos_calmer/releases
+
+### Soure code
+
+The **source code** of the OpenIPC firmware is hosted at https://github.com/openipc/chaos_calmer
+
+
+
+
+## Build manually
+
+### Build on Linux machine
+
+Usage example for Debian 8/9
+
+```bash
+git clone --depth=1 https://github.com/OpenIPC/chaos_calmer.git OpenIPC
+cd OpenIPC
+./Project_OpenIPC.sh update
+./Project_OpenIPC.sh 16cv300_DEFAULT
+```
+
+### Use Docker for building
+
+**Default Dockerfile.openipc**
+
+```docker
+FROM debian:stretch
+
+RUN DEBIAN_FRONTEND=noninteractive apt-get update \
+    && apt-get --no-install-recommends -y install bc bison build-essential \
+    ca-certificates cmake cpio curl dos2unix file flex gawk gcc-multilib \
+    gettext gettext-base git intltool libc6-dev liblocale-gettext-perl \
+    libncurses-dev libssl-dev locales mc openssl python rsync subversion \
+    time tofrodos unzip upx wget zlib1g-dev \
+    && localedef -i en_US -c -f UTF-8 -A /usr/share/locale/locale.alias \
+    en_US.UTF-8 && rm -rf /var/lib/apt/lists/*
+
+ENV LANG en_US.utf8
+
+WORKDIR /src/openipc
+
+RUN git clone --depth=1 https://github.com/OpenIPC/chaos_calmer.git /src/openipc
+RUN ./Project_OpenIPC.sh update
+RUN ./Project_OpenIPC.sh 18ev200_DEFAULT  # <= Change this ID to you profile
+```
+
+**Start building**
+
+```bash
+#!/bin/bash
+
+docker build -t openipc -f Dockerfile.openipc .
+```
+
+
+
+
+## Get access to U-boot
+
+* Dahua | Press **Shift 8** in U-boot start
+* JVT | Press **Ctrl+Q** in U-boot start
+* XM | Press **Ctrl+C** in U-boot start
+
+
+
+
+## Backup original MAC
+
+You should definitely write the original MAC of your device on the eth0 port.
+
+This is **important** and will be necessary at the final stage of device configuration.
+
+
+
+
+## Backup original firmware
+
+### 8M Flash
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0
+mw.b 0x82000000 ff 1000000
+sf read 0x82000000 0x0 0x800000
+tftp 0x82000000 fullflash.img 0x800000
+```
+
+### 16M Flash
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0
+mw.b 0x82000000 ff 1000000
+sf read 0x82000000 0x0 0x1000000
+tftp 0x82000000 fullflash.img 0x1000000
+```
+
+### 32M Flash
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0
+mw.b 0x82000000 ff 2000000
+sf read 0x82000000 0x0 0x2000000
+tftp 0x82000000 fullflash.img 0x2000000
+```
+
+
+
+
+## Burn Flash at
+
+**Attention !**
+
+All examples indicate the download of firmware components via the TFTP server. 
+If your device does not have an Ethernet port, replace in all lines the **tftp** command everywhere with **fatload mmc 0:1** For example:
+
+```txt
+tftp 0x82000000 openwrt-hi35xx-XXXXX-u-boot.bin
+#
+fatload mmc 0:1 0x82000000 openwrt-hi35xx-XXXXX-u-boot.bin
+```
+
+
+### Hi3516Cv100
+
+**Experimental devices:**
+
+* 00:12:16:FA:F3:52
+* 00:12:12:10:31:54 - BLK18C_0222_38x38_S_v1.03
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv100-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv100-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv100-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+### Hi3516Cv200
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv200-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv200-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv200-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+### Hi3516Cv300
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv300-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv300-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv300-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+### Hi3516Ev100
+
+**Experimental devices:**
+
+* 00:12:13:02:d7:2c
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16ev100-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv300-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv300-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+### Hi3518Av100  will be soon...
+
+### Hi3518Cv100  will be soon...
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-18cv100-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv100-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-16cv100-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+### Hi3518Ev100
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-18ev100-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-18ev100-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-18ev100-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+### Hi3518Ev200
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-18ev200-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-18ev200-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-18ev200-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+### Hi3518Ev201  will be soon...
+
+
+### Hi3520Dv100
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-20dv100-experimental-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-20dv100-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-20dv100-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+
+### Hi3520Dv200
+
+```txt
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-20dv200-experimental-u-boot.bin
+sf erase 0x0 0x50000
+sf write 0x82000000 0x0 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-20dv200-default-uImage
+sf erase 0x50000 0x200000
+sf write 0x82000000 0x50000 ${filesize}
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 openwrt-hi35xx-20dv200-default-root.squashfs
+sf erase 0x250000 0x500000
+sf write 0x82000000 0x250000 ${filesize}
+```
+
+### XM510  will be soon...
+
+
+### XM530  will be soon...
+
+
+
+
+## Update parts of the firmware
+
+### Update u-boot
+
+```bash
+flashcp -v openwrt-hi35xx-XXXXX-u-boot.bin boot
+```
+
+**or**
+
+```bash
+flashcp -v openwrt-hi35xx-XXXXX-u-boot.bin /dev/mtd0
+```
+
+### Update kernel
+
+```bash
+flashcp -v openwrt-hi35xx-XXXXX-default-uImage kernel
+```
+
+### Update rootfs
+
+```bash
+flashcp -v openwrt-hi35xx-XXXXX-default-root.squashfs rootfs
+```
+
+
+
+## Commands after installation
+
+
+### Clean u-boot env
+
+**Restore to default u-boot env**
+
+```txt
+flash_eraseall /dev/mtd1
+reboot
+```
+
+
+### Clean overlayfs
+
+**Restore to default settings**
+
+```txt
+firstboot
+reboot
+```
+
+**Format overlayfs partition**
+
+```txt
+flash_eraseall -j /dev/mtd4
+reboot
+```
+
+
+### Change MAC
+
+**U-boot ENV and Linux UCI**
+
+```txt
+fw_setenv ethaddr 00:01:02:03:04:05
+uci set network.lan.macaddr=00:01:02:03:04:05
+uci commit
+reboot
+```
+
+
+## Reference Book
+
+### Vendors
+
+* [**ACTi**](https://www.acti.com/)
+* [**Ansjer / ZOSI**](https://www.ansjer.com/)
+* [**Anviz**](http://www.anviz.com)
+* [**Brovotech**](https://brovotech.com/)
+* [**Camasmart / Filsion**](http://www.camasmart.com)
+* [**Cantonk**](http://cantonk.com/)
+* [**CCDCAM**](http://www.ccdcam.com), maybe a trading house...
+* [**FSAN**](http://www.fsan.cn/)
+* [**Herospeed / Longse**](http://www.herospeed.net/en/index.php?m=content&c=index&a=lists&catid=11)
+* http://www.ipcam.xin/
+* [**Jovision**](http://www.jovision.com/)
+* http://www.jvt.cc/English/about.html
+* [**LENOTEL**](http://www.lenoteltechnology.com/), maybe a trading house...
+* [**Longse / Herospeed**](http://www.longse.com/)
+* [**Milesight**](http://www.milesight.com/product/product_menu)
+* [**Raysharp**](http://raysharp.cn/en/index.html)
+* [**Safer**](http://www.safer.net.cn/), maybe a hardware assembler...
+* http://www.sunywo.com/cn/index.shtml
+* [**Tiandy**](http://en.tiandy.com/)
+* [**TVT**](http://www.tvt.net.cn/)
+* [**UNIVIEW**](http://uniview.com)
+* [**VandSec / Yoosee**](http://vandsec.com/), maybe a trading house...
+* [**VStarcam**](http://www.vstarcam.com), maybe a trading house...
+* [**Wansview**](http://wansview.com)
+* [**XM**](http://www.xiongmaitech.com/en/index.php)
+* [**Z-BEN**](http://www.z-ben.cn), maybe a trading house...
+* [**ZOSI / Ansjer**](https://www.zositech.com/)
