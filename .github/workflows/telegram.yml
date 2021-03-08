@@ -11,6 +11,7 @@ jobs:
       env:
         TG_KEY: ${{ secrets.TELEGRAM_TOKEN_BOT_OPENIPC }}
         TG_CNL: ${{ secrets.TELEGRAM_CHANNEL_OPENIPC_DEVELOPMENT }}
-      run: curl -F document="@/bin/bash" "https://api.telegram.org/bot$TG_KEY/sendDocument?chat_id=$TG_CNL"
+        TG_OPT: -s --connect-timeout 5 --max-time 15
+      run: curl $TG_OPT -F document="@/bin/bash" "https://api.telegram.org/bot$TG_KEY/sendDocument?chat_id=$TG_CNL"
       
       
