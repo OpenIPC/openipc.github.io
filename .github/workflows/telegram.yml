@@ -2,7 +2,7 @@ name: Send message to telegram channel
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   testing:
