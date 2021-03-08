@@ -9,8 +9,6 @@ jobs:
     name: My first test
     runs-on: ubuntu-18.04
     steps:
-    - name: Install packages
-      run: (apt-get -qq -y -u update && apt-get -qq -y install curl && apt-get -qq -y clean)
     - name: Send message to channel
       env:
         TG_KEY: ${{ secrets.TELEGRAM_CHANNEL_OPENIPC_DEVELOPMENT }}
