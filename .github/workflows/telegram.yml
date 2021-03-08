@@ -9,7 +9,7 @@ jobs:
     steps:
     - name: Send message to channel
       env:
-        TG_KEY: ${{ secrets.TELEGRAM_CHANNEL_OPENIPC_DEVELOPMENT }}
+        TG_KEY: ${{ secrets.TELEGRAM_TOKEN_BOT_OPENIPC }}
         TG_CNL: ${{ secrets.TELEGRAM_CHANNEL_OPENIPC_DEVELOPMENT }}
-      run: curl -X POST "https://api.telegram.org/bot$TG_KEY/sendMessage?chat_id=$TG_CNL&text=Alarm"
+      run: curl -X POST "https://api.telegram.org/bot$TG_KEY/sendMessage?chat_id=$TG_CNL&text=DemoMessage"
       
