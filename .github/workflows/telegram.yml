@@ -1,8 +1,6 @@
 name: Send message to telegram channel
 
-on:
-  schedule:
-    - cron: '*/5 * * * *'
+on: [push, pull_request]
 
 jobs:
   testing:
