@@ -1,0 +1,19 @@
+name: Send message to telegram channel
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  testing:
+    name: My first test
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Install packages
+      run: (apt-get -qq -y -u update && apt-get -qq -y install curl && apt-get -qq -y clean)
+    - name: Send message to channel
+      env:
+        TG_KEY: ${{ secrets.TELEGRAM_CHANNEL_OPENIPC_DEVELOPMENT }}
+        TG_CNL: ${{ secrets.TELEGRAM_CHANNEL_OPENIPC_DEVELOPMENT }}
+      run: curl -X POST "https://api.telegram.org/bot$TG_KEY/sendMessage?chat_id=$TG_CNL&text=Alarm"
+      
