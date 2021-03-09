@@ -1,7 +1,8 @@
 
 **All information is available on the website [https://openipc.org](https://openipc.org)**
 
-
+<html>
+  
 <style type="text/css">
   table.tableizer-table {
     font-size: 10px;
@@ -36,3 +37,5 @@
     <tr><td>Hi3516Cv200</td><td>IMX323_i2c_dc</td><td>XM</td><td>?</td><td>BLK16CV-0323-38X38-V1.01</td><td>00:00:01:...</td><td>ircut:46/46, wifi:51</td><td>?</td><td>Igor Zalatov</td><td><font color="black">Study of documentation</font></td></tr>
   </tbody>
 </table>
+
+</html>
