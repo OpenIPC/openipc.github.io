@@ -1,2 +1,2 @@
 
-All information is available on the website [https://openipc.org](https://openipc.org)
+**All information is available on the website [https://openipc.org](https://openipc.org)**
