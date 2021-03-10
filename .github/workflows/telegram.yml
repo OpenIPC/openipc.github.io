@@ -1,6 +1,6 @@
 name: Send message to telegram channel
 
-on: [push, pull_request]
+on: [pull_request]
 
 jobs:
   testing:
