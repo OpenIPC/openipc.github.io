@@ -3,4 +3,4 @@
 
 ----
 
-* Experiments with [tables](/example_tables.html)
+* Experiments with [tables](https://openipc.github.io/example_tables.html)
