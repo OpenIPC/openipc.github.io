@@ -3,4 +3,4 @@
 
 ----
 
-Experiments with [tables](/example_tables.html)
+* Experiments with [tables](/example_tables.html)
