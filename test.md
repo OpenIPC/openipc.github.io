@@ -41,9 +41,5 @@
 
 ### Finance contributions
 
-[opencollective](https://opencollective.com/openipc/contribute/backer-14335/checkout) | [paypal](https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS) | [yoomoney](https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=Поддержать%20OpenIPC.org&default-sum=500&button-text=12&payment-type-choice=on&comment=on&successURL=https%3A%2F%2Fopenipc.org&quickpay=shop&account=410016809510978)
-
-----
-
-**Thank you !** :smiley:
+[opencollective](https://opencollective.com/openipc/contribute/backer-14335/checkout) | [paypal](https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS) | [yoomoney](https://openipc.org/donation/yoomoney.html)
 
