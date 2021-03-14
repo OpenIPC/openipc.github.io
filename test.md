@@ -6,7 +6,7 @@
 
 ### Telegram channels and groups (public)
 
-[start (en)](https://t.me/openipc) | [modding](https://t.me/joinchat/Sl2GPoR9G2iJAOCr) | .....
+[start (en)](https://t.me/openipc) | [modding](https://t.me/joinchat/Sl2GPoR9G2iJAOCr) | [software](https://t.me/joinchat/FhtyHwrU0fwfQlAkvoeVJA) | [repairing](https://t.me/ExIPCam) | [advice](https://t.me/joinchat/FhtyHxAvHZzucndiZ55muA) | [iranian](https://t.me/joinchat/T_GwQUBTJdfXJrFb) | .....
 
 ### GitHub repositories
 
