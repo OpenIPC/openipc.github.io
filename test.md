@@ -5,7 +5,7 @@
 
 ### Official site
 
-[openipc.org](https://openipc.org)
+[openipc.org](https://openipc.org) | [firmware](https://openipc.org/firmware/) | [todo](https://openipc.org/todo_ru/)
 
 ----
 
