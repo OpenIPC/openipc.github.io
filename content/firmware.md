@@ -51,17 +51,46 @@ The list is constantly updated, follow the releases !
 More information about sensors (in Russian) - [https://cctvsp.ru](https://www.cctvsp.ru/articles/obzor-i-sravnenie-matrits-dlya-kamer-videonablyudeniya)
 
 
-### Available URL (example)
+### Web interface
 
 * [http://192.168.1.10](http://192.168.1.10) - Standard system interface based on OpenWrt Luci
+
+### Minihttp config
+
+MiniHttp is the streamer
+Unneded options can be turned off for better security and performance in config:
+
+/etc/minihttp.ini
+
+To run minihttp in debug mode:
+
+```
+killall -sigint minihttp; export SENSOR=`ipctool --sensor_id`; minihttp
+```
+
+To run minihttp in production mode restart the camera or run command:
+
+```
+killall -sigint minihttp; export SENSOR=`ipctool --sensor_id`; minihttp 2>&1 | logger -p daemon.info -t minihttp &
+```
+
+### Camera related URLs 
+
+**NB!** h265 might not be supported by your browser and thus you will not see h265 video.
+
 * [http://192.168.1.10:8888](http://192.168.1.10:8888) - MJPEG & MP3 streamers
-* [http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1](http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1)
-* [http://192.168.1.10:8888/image.dng](http://192.168.1.10:8888/image.dng) - to get snapshot in RAW format (only for 16cv300/16ev100 and UP processors)
+* [http://192.168.1.10:8888/image.jpg](http://192.168.1.10:8888/image.jpg)
+ * [http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1](http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1)
+* [http://192.168.1.10:8888/image.dng](http://192.168.1.10:8888/image.dng) - snapshot in RAW format (only for 16cv300/16ev100 and UP processors)
 * [http://192.168.1.10:8888/mjpeg.html](http://192.168.1.10:8888/mjpeg.html)
 * [http://192.168.1.10:8888/video.html](http://192.168.1.10:8888/video.html)
+ * http://192.168.1.10:8888/video.mp4
 * [http://192.168.1.10:8888/stream.mp3](http://192.168.1.10:8888/stream.mp3)
-* [rtsp://192.168.1.10/stream=0](rtsp://192.168.1.10/stream=0) - RTSP streamer (main)
-* [rtsp://192.168.1.10/stream=1](rtsp://192.168.1.10/stream=1) - RTSP streamer (extra)
+* [rtsp://192.168.1.10:554/demo](rtsp://192.168.1.10:554/demo) - RTSP stream (currently does not cary audio stream!)
+ * [rtsp://192.168.1.10:554/stream=0](rtsp://192.168.1.10:554/stream=0) - Main channel of RTSP stream (section [video_0] in config )
+ * [rtsp://192.168.1.10:554/stream=1](rtsp://192.168.1.10:554/stream=1) - Second channel RTSP streamer (section [video_1] in config )
+
+
 
 
 ### Firmware features
