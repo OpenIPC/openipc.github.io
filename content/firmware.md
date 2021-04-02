@@ -60,7 +60,8 @@ More information about sensors (in Russian) - [https://cctvsp.ru](https://www.cc
 * [http://192.168.1.10:8888/mjpeg.html](http://192.168.1.10:8888/mjpeg.html)
 * [http://192.168.1.10:8888/video.html](http://192.168.1.10:8888/video.html)
 * [http://192.168.1.10:8888/stream.mp3](http://192.168.1.10:8888/stream.mp3)
-* [rtsp://192.168.1.10:554/demo](rtsp://192.168.1.10:554/demo) - RTSP streamer
+* [rtsp://192.168.1.10/stream=0](rtsp://192.168.1.10/stream=0) - RTSP streamer (main)
+* [rtsp://192.168.1.10/stream=1](rtsp://192.168.1.10/stream=1) - RTSP streamer (extra)
 
 
 ### Firmware features
