@@ -80,15 +80,15 @@ killall -sigint minihttp; export SENSOR=`ipctool --sensor_id`; minihttp 2>&1 | l
 
 * [http://192.168.1.10:8888](http://192.168.1.10:8888) - MJPEG & MP3 streamers
 * [http://192.168.1.10:8888/image.jpg](http://192.168.1.10:8888/image.jpg)
- * [http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1](http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1)
+* [http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1](http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1)
 * [http://192.168.1.10:8888/image.dng](http://192.168.1.10:8888/image.dng) - snapshot in RAW format (only for 16cv300/16ev100 and UP processors)
 * [http://192.168.1.10:8888/mjpeg.html](http://192.168.1.10:8888/mjpeg.html)
 * [http://192.168.1.10:8888/video.html](http://192.168.1.10:8888/video.html)
- * http://192.168.1.10:8888/video.mp4
+* http://192.168.1.10:8888/video.mp4
 * [http://192.168.1.10:8888/stream.mp3](http://192.168.1.10:8888/stream.mp3)
 * [rtsp://192.168.1.10:554/demo](rtsp://192.168.1.10:554/demo) - RTSP stream (currently does not cary audio stream!)
- * [rtsp://192.168.1.10:554/stream=0](rtsp://192.168.1.10:554/stream=0) - Main channel of RTSP stream (section [video_0] in config )
- * [rtsp://192.168.1.10:554/stream=1](rtsp://192.168.1.10:554/stream=1) - Second channel RTSP streamer (section [video_1] in config )
+* [rtsp://192.168.1.10:554/stream=0](rtsp://192.168.1.10:554/stream=0) - Main channel of RTSP stream (section [video_0] in config )
+* [rtsp://192.168.1.10:554/stream=1](rtsp://192.168.1.10:554/stream=1) - Second channel RTSP streamer (section [video_1] in config )
 
 
 
