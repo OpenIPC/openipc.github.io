@@ -572,7 +572,7 @@ flashcp -v openwrt-hi35xx-XXXXX-default-root.squashfs rootfs
 **Must be executed on first run**
 
 ```txt
-flash_eraseall -j /dev/mtd4
+flash_eraseall -j /dev/$(awk -F ':' '/rootfs_data/ {print $1}' /proc/mtd)
 reboot
 ```
 
@@ -612,7 +612,7 @@ reboot
 **Restore to default u-boot env**
 
 ```txt
-flash_eraseall /dev/mtd1
+flash_eraseall -j /dev/$(awk -F ':' '/env/ {print $1}' /proc/mtd)
 reboot
 ```
 
