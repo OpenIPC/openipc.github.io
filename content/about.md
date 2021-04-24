@@ -26,9 +26,9 @@ The OpenIPC is a Linux operating system based on OpenWrt Project and targeting e
 
 **We would be grateful for the feedback and suggestions**
 
-Igor Zalatov - project owner and development coordinator
+Igor Zalatov - project founder and development coordinator
 
-Dmitry Ilyin, Maxim Chertov, Sergey Sharshunov - main participants and co-owners of the project
+Dmitry Ilyin, Maxim Chertov, Sergey Sharshunov - main participants and co-founders of the project
 
 
 ----
@@ -38,16 +38,15 @@ Dmitry Ilyin, Maxim Chertov, Sergey Sharshunov - main participants and co-owners
 
 ### Telegram chat groups
 
-* [OpenIPC.org](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [ComBot](https://combot.org/c/1166652144)
-* [OpenIPC official](https://t.me/zftlab_openipc) (EN/RU) - Firmware & Software updates information channel
-* [OpenIPC development](https://t.me/openipc_dev) (EN) - Firmware & Software development channel
-* [OpenIPC modding](https://t.me/joinchat/FhtyHxDpQsv8HlRliQDgqw) (RU) - general issues on modifying IPCam device firmware | [ComBot](https://combot.org/c/-1001247643198)
-* [OpenIPC software](https://t.me/joinchat/FhtyHwrU0fwfQlAkvoeVJA) (RU) - HiSilicon, XM porting in OpenWrt and programmer issues | [ComBot](https://combot.org/c/-1001196905312)
-* [OpenIPC advice](https://t.me/joinchat/FhtyHxAvHZzucndiZ55muA) (RU) - problems, finding solutions, long conversations | [ComBot](https://combot.org/c/1385065634)
+* [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [ComBot](https://combot.org/c/1166652144)
+* [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [ComBot](https://combot.org/c/-1001247643198)
+* [OpenIPC software](https://t.me/openipc_software) (RU) - HiSilicon, XM porting in OpenWrt and programmer issues | [ComBot](https://combot.org/c/-1001196905312)
+* [OpenIPC advice](https://t.me/openipc_advice) (RU) - problems, finding solutions, long conversations | [ComBot](https://combot.org/c/1385065634)
 * [OpenIPC Iranian](https://t.me/joinchat/T_GwQUBTJdfXJrFb) (IR) - special group for Iranian users /  تیم OpenIPC برای کاربران ایرانی | [ComBot](https://combot.org/c/-1001341239361)
-* [OpenIPC demo](https://t.me/joinchat/FhtyHw3wQVxqhWEE05sYKA)  (EN/RU) - test bot with buttons, after connecting, give the "/menu" | [ComBot](https://combot.org/c/1414887196)
-* [ExIPCam](https://t.me/ExIPCam) (RU) - ExIPCam program and hardware/software repairing devices | [ComBot](https://combot.org/c/1213889378)
-* [µVPN](https://t.me/micro_vpn) - development of a micro-tunnel system from Maxim
+* [OpenIPC demo](https://t.me/openipc_demo)  (EN/RU) - test bot with buttons, after connecting, give the "/menu" | [ComBot](https://combot.org/c/1414887196)
+* [OpenIPC ExIPCam](https://t.me/ExIPCam) (RU) - ExIPCam program and hardware/software repairing devices | [ComBot](https://combot.org/c/1213889378)
+* [OpenIPC updatesl](https://t.me/s/openipc_updates) (RU) - Firmware & Software updates information channel
+* [OpenIPC development](https://t.me/s/openipc_dev) (EN) - Firmware & Software development channel
 
 ### All IPCam SDK archive
 

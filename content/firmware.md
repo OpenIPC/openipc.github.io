@@ -55,23 +55,23 @@ More information about sensors (in Russian) - [https://cctvsp.ru](https://www.cc
 
 * [http://192.168.1.10](http://192.168.1.10) - Standard system interface based on OpenWrt Luci
 
-### Minihttp config
+### Majestic config
 
-MiniHttp is the streamer
+Majestic is the streamer
 Unneded options can be turned off for better security and performance in config:
 
-/etc/minihttp.ini
+/etc/majestic.yaml
 
-To run minihttp in debug mode:
-
-```
-killall -sigint minihttp; export SENSOR=`ipctool --sensor_id`; minihttp
-```
-
-To run minihttp in production mode restart the camera or run command:
+To run majestic in debug mode:
 
 ```
-killall -sigint minihttp; export SENSOR=`ipctool --sensor_id`; minihttp 2>&1 | logger -p daemon.info -t minihttp &
+killall -sigint majestic; export SENSOR=$(ipctool --sensor_id); majestic
+```
+
+To run majestic in production mode restart the camera or run command:
+
+```
+killall -sigint majestic; export SENSOR=$(ipctool --sensor_id); majestic 2>&1 | logger -p daemon.info -t majestic &
 ```
 
 ### Camera related URLs 
@@ -144,7 +144,7 @@ killall -sigint minihttp; export SENSOR=`ipctool --sensor_id`; minihttp 2>&1 | l
 
 The **releases** of the OpenIPC firmware is hosted at https://github.com/OpenIPC/chaos_calmer/releases
 
-### Soure code
+### Source code
 
 The **source code** of the OpenIPC firmware is hosted at https://github.com/openipc/chaos_calmer
 
@@ -205,7 +205,7 @@ docker build -t openipc -f Dockerfile.openipc .
 * Dahua | Press **Shift 8** in U-boot start
 * JVT | Press **Ctrl+Q** in U-boot start
 * XM | Press **Ctrl+C** in U-boot start
-
+* SigmaStar | Press **Ctrl+B** in U-boot start
 
 
 
@@ -628,6 +628,7 @@ reboot
 ### Vendors
 
 * [**ACTi**](https://www.acti.com/)
+* [**Anjvision**](http://www.anjvision.com/) | http://icamra.cn/
 * [**Ansjer / ZOSI**](https://www.ansjer.com/)
 * [**Anviz**](http://www.anviz.com)
 * [**Brovotech**](https://brovotech.com/)
@@ -646,6 +647,7 @@ reboot
 * [**Safer**](http://www.safer.net.cn/), maybe a hardware assembler...
 * http://www.sunywo.com/cn/index.shtml
 * [**Tiandy**](http://en.tiandy.com/)
+* [**Topsee**](http://www.en.tpsee.com/)
 * [**TVT**](http://www.tvt.net.cn/)
 * [**UNIVIEW**](http://uniview.com)
 * [**VandSec / Yoosee**](http://vandsec.com/), maybe a trading house...
