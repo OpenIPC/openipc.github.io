@@ -16,9 +16,13 @@ omitDate : true
 
 ## Introduction
 
-**Open sources [firmware](/firmware) for devices based on HiSilicon HI35xx SoC’s**
+**Open source [firmware](/firmware) for IP cameras**
 
-The OpenIPC is a Linux operating system based on OpenWrt Project and targeting embedded devices.
+The OpenIPC is a Linux operating system based on OpenWrt/Buildroot projects
+and targeting IP cameras with chipsets from different vendors, starting with
+HiSilicon Hi35xx and XiongmaiTech XM5xx.
+
+Example of OpenWRT-based web management interface:
 
 ![OpenIPC interface](https://zftlab.org/images/2018020902.jpg)
 
@@ -56,20 +60,21 @@ Dmitry Ilyin, Maxim Chertov, Sergey Sharshunov - main participants and co-founde
 
 ### OpenIPC sources on GitHub
 
-* https://github.com/OpenIPC/chaos_calmer/releases
-* ~
-* https://github.com/OpenIPC/chaos_calmer
-* https://github.com/ZigFisher/Glutinium
+* https://github.com/OpenIPC/ - Github organization, most projects are hosted here
+* https://github.com/OpenIPC/chaos_calmer/releases - OpenWRT-based releases
+* https://github.com/OpenIPC/chaos_calmer - OpenWRT-based distro
+* https://github.com/OpenIPC/openipc-2.1 - Buildroot-based distro
+* https://github.com/ZigFisher/Glutinium - Additional OpenWRT packages
 
 ### OpenCollective community
 
-* https://opencollective.com/openipc
+* https://opencollective.com/openipc - Please help us sustain the development!
 
 ### Docker containers for building
 
 * https://hub.docker.com/u/openipc
 
-### OpenWrt Wiki about our project
+### OpenWrt pages about our project
 
 * https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx
 * https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515
