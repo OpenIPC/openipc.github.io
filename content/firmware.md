@@ -14,11 +14,32 @@ omitDate : true
 
 ## Introduction
 
+This page describes OpenWRT-based firmware variant.
+
+### Firmware features
+
+* RTSP, ONVIF, NETIP
+* Native ipeye service support
+* Support squashfs, jffs2, overlayfs, cifs, vfat
+* Vlan and bridges support
+* Standard OPKG package system
+* Tiny SNMP daemon
+* Curl with SSL for upload/download files
+* Run arbitrary command from u-boot ENV (linux_cmd=)
+* Simple L2/L3 VPN with traffic shaping and compression (vtun)
+* Simply sender Telegram bot (estgb)
+* Low cost  3G USB modems support in hilink and ppp modes
+* µVPN tunnel service
+* and more ...
+
 ### Supported devices
 
-We specifically develop **universal** firmware that doesn't depend on stupid manufacturers.
+We aim to develop **universal**, portable firmware supporting wide range of
+manufacturers and delivering updates and fixes which vendors oftentimes
+unable to deliver.
 
-The list is constantly updated, follow the releases !
+The list is constantly updated, please visit often and/or follow our
+Telegram groups for new release notifications.
 
 | Processor   | Sensor          | Vendor     | SKU          | Board                          | Status |
 |-------------|-----------------|------------|--------------|--------------------------------|--------|
@@ -55,30 +76,34 @@ More information about sensors (in Russian) - [https://cctvsp.ru](https://www.cc
 
 * [http://192.168.1.10](http://192.168.1.10) - Standard system interface based on OpenWrt Luci
 
-### Majestic config
+### Majestic streamer
 
-Majestic is the streamer
-Unneded options can be turned off for better security and performance in config:
+Majestic is a video streaming application, the heart of our firmware (in
+relation to camera/video surveillance functionality). It's configurable
+via file `/etc/majestic.yaml` and by default has many features/services
+enabled. Unneded options can be turned off for better security and
+performance.
 
-/etc/majestic.yaml
-
-To run majestic in debug mode:
+To run `majestic` in debug mode:
 
 ```
 killall -sigint majestic; export SENSOR=$(ipctool --sensor_id); majestic
 ```
 
-To run majestic in production mode restart the camera or run command:
+To run `majestic` in production mode restart the camera or run command:
 
 ```
 killall -sigint majestic; export SENSOR=$(ipctool --sensor_id); majestic 2>&1 | logger -p daemon.info -t majestic &
 ```
 
-### Camera related URLs 
+### Camera related URLs in firmware
+
+With firmware running, you can access the camera using URLs below
+(192.168.1.10 is the default IP address):
 
 **NB!** h265 might not be supported by your browser and thus you will not see h265 video.
 
-* [http://192.168.1.10:8888](http://192.168.1.10:8888) - MJPEG & MP3 streamers
+* [http://192.168.1.10:8888](http://192.168.1.10:8888) - MJPEG & MP3 streaming
 * [http://192.168.1.10:8888/image.jpg](http://192.168.1.10:8888/image.jpg)
 * [http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1](http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1)
 * [http://192.168.1.10:8888/image.dng](http://192.168.1.10:8888/image.dng) - snapshot in RAW format (only for 16cv300/16ev100 and UP processors)
@@ -91,28 +116,7 @@ killall -sigint majestic; export SENSOR=$(ipctool --sensor_id); majestic 2>&1 | 
 * [rtsp://192.168.1.10:554/stream=1](rtsp://192.168.1.10:554/stream=1) - Second channel RTSP streamer (section [video_1] in config )
 
 
-
-
-### Firmware features
-
-* RTSP, ONVIF, NETIP
-* Native ipeye service support
-* Support squashfs, jffs2, overlayfs, cifs, vfat
-* Vlan and bridges support
-* Standart OPKG system
-* Tiny SNMP daemon
-* Curl with SSL for upload/download files
-* Run arbitrary command from u-boot ENV (linux_cmd=)
-* Simple L2/L3 VPN with traffic shaping and compression (vtun)
-* Simply sender Telegram bot (estgb)
-* Low cost  3G USB modems support in hilink and ppp modes
-* µVPN tunnel service
-* and more ...
-
-
-
-
-## Firmware
+## Getting firmware
 
 ### Downloads (latest dev)
 
@@ -150,8 +154,7 @@ The **source code** of the OpenIPC firmware is hosted at https://github.com/open
 
 
 
-
-## Build manually
+## Building from source
 
 ### Build on Linux machine
 
@@ -199,8 +202,11 @@ docker build -t openipc -f Dockerfile.openipc .
 
 
 
+## Installation
 
-## Get access to U-boot
+### Get access to U-boot
+
+Serial (UART) connection to your camera device is required.
 
 * Dahua | Press **Shift 8** in U-boot start
 * JVT | Press **Ctrl+Q** in U-boot start
@@ -209,7 +215,7 @@ docker build -t openipc -f Dockerfile.openipc .
 
 
 
-## Backup original MAC
+### Backup original MAC
 
 You should definitely write the original MAC of your device on the eth0 port.
 
@@ -218,9 +224,9 @@ This is **important** and will be necessary at the final stage of device configu
 
 
 
-## Backup original firmware
+### Backup original firmware
 
-### 8M Flash
+#### 8M Flash
 
 ```txt
 setenv ipaddr 192.168.1.10
@@ -231,7 +237,7 @@ sf read 0x82000000 0x0 0x800000
 tftp 0x82000000 fullflash.img 0x800000
 ```
 
-### 16M Flash
+#### 16M Flash
 
 ```txt
 setenv ipaddr 192.168.1.10
@@ -242,7 +248,7 @@ sf read 0x82000000 0x0 0x1000000
 tftp 0x82000000 fullflash.img 0x1000000
 ```
 
-### 32M Flash
+#### 32M Flash
 
 ```txt
 setenv ipaddr 192.168.1.10
@@ -256,11 +262,11 @@ tftp 0x82000000 fullflash.img 0x2000000
 
 
 
-## Technical information
+### Flash and memory layout
 
 We have developed a universal partition system on flash drives and it is now available as standard for all types of devices.
 
-### OpenIPC flash layout
+#### OpenIPC flash layout
 
 ```txt
 0x000000000000-0x000000040000 : "boot"
@@ -270,7 +276,7 @@ We have developed a universal partition system on flash drives and it is now ava
 0x000000750000-0x000001000000 : "rootfs_data"
 ```
 
-### Memory Load Addresses
+#### Memory Load Addresses
 
 ```txt
 loadaddr-$(CONFIG_TARGET_hi35xx_16cv100) := 0x80008000
@@ -292,7 +298,7 @@ loadaddr-$(CONFIG_TARGET_hi35xx_20dv200) := 0x80008000
 
 
 
-## Burn Flash at
+## Flashing new firmware
 
 **Attention !**
 
@@ -306,7 +312,7 @@ fatload mmc 0:1 0x82000000 openwrt-hi35xx-XXXXX-u-boot.bin
 ```
 
 
-### Hi3516Cv100
+#### Hi3516Cv100
 
 **This type of board has additional Ethernet control systems via GPIO and registers. Consult with experts !**
 
@@ -336,7 +342,7 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-### Hi3516Cv200
+#### Hi3516Cv200
 
 ```txt
 setenv ipaddr 192.168.1.10
@@ -359,7 +365,7 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-### Hi3516Cv300
+#### Hi3516Cv300
 
 ```txt
 setenv ipaddr 192.168.1.10
@@ -382,7 +388,7 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-### Hi3516Ev100
+#### Hi3516Ev100
 
 **Experimental devices:**
 
@@ -409,9 +415,9 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-### Hi3518Av100  will be soon...
+#### Hi3518Av100  to be added soon...
 
-### Hi3518Cv100  will be soon...
+#### Hi3518Cv100
 
 **This type of board has additional Ethernet control systems via GPIO and registers. Consult with experts !**
 
@@ -484,7 +490,7 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-### Hi3518Ev201  will be soon...
+### Hi3518Ev201  to be added soon...
 
 
 ### Hi3520Dv100
@@ -534,15 +540,20 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-### XM510  will be soon...
+### XM510  to be added soon...
 
 
-### XM530  will be soon...
+### XM530  to be added soon...
+
+
+### XM550  to be added soon...
 
 
 
+### Updating parts of the firmware
 
-## Update parts of the firmware
+If you already have OpenIPC firmware installed, you can update individual
+flash partitions from shell command line:
 
 ### Update u-boot
 
@@ -570,7 +581,7 @@ flashcp -v openwrt-hi35xx-XXXXX-default-root.squashfs rootfs
 
 
 
-## Commands after installation
+## Configuring system after installation
 
 
 ### Format overlayfs partition
@@ -603,6 +614,10 @@ fw_setenv sensor imx291_i2c_lvds
 ```
 
 
+## Resetting configuration
+
+If something went wrong, you can reset configuration to defaults.
+
 ### Clean overlayfs (reset)
 
 **Restore to default Linux settings**
@@ -624,6 +639,8 @@ reboot
 
 
 ## Reference Book
+
+To be written...
 
 ### Vendors
 
