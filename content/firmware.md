@@ -303,7 +303,7 @@ fatload mmc 0:1 0x82000000 openwrt-hi35xx-XXXXX-u-boot.bin
 ```
 
 
-#### Hi3516Cv100
+### Hi3516Cv100
 
 **This type of board has additional Ethernet control systems via GPIO and registers. Consult with experts !**
 
@@ -333,7 +333,7 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-#### Hi3516Cv200
+### Hi3516Cv200
 
 ```txt
 setenv ipaddr 192.168.1.10
@@ -356,7 +356,7 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-#### Hi3516Cv300
+### Hi3516Cv300
 
 ```txt
 setenv ipaddr 192.168.1.10
@@ -379,7 +379,7 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-#### Hi3516Ev100
+### Hi3516Ev100
 
 **Experimental devices:**
 
@@ -406,9 +406,7 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-#### Hi3518Av100  to be added soon...
-
-#### Hi3518Cv100
+### Hi3518Cv100
 
 **This type of board has additional Ethernet control systems via GPIO and registers. Consult with experts !**
 
@@ -481,9 +479,6 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-### Hi3518Ev201  to be added soon...
-
-
 ### Hi3520Dv100
 
 ```txt
@@ -507,7 +502,6 @@ sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
 
-
 ### Hi3520Dv200
 
 ```txt
@@ -530,15 +524,6 @@ tftp 0x82000000 openwrt-hi35xx-20dv200-default-root.squashfs
 sf erase 0x250000 0x500000
 sf write 0x82000000 0x250000 ${filesize}
 ```
-
-### XM510  to be added soon...
-
-
-### XM530  to be added soon...
-
-
-### XM550  to be added soon...
-
 
 
 ### Updating parts of the firmware
