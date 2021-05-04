@@ -526,7 +526,7 @@ sf write 0x82000000 0x250000 ${filesize}
 ```
 
 
-### Updating parts of the firmware
+## Updating parts of the firmware
 
 If you already have OpenIPC firmware installed, you can update individual
 flash partitions from shell command line:
