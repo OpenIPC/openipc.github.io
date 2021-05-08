@@ -193,7 +193,7 @@ docker build -t openipc -f Dockerfile.openipc .
 
 
 
-## Installation
+## Preparing to install
 
 ### Get access to U-boot
 
@@ -255,7 +255,9 @@ tftp 0x82000000 fullflash.img 0x2000000
 
 ### Flash and memory layout
 
-We have developed a universal partition system on flash drives and it is now available as standard for all types of devices.
+We have developed a universal partition system for camera flash chips
+and it is now available as standard for all types of devices. (Note
+that it means it likely doesn't match vendor flash layout.)
 
 #### OpenIPC flash layout
 
@@ -267,7 +269,7 @@ We have developed a universal partition system on flash drives and it is now ava
 0x000000750000-0x000001000000 : "rootfs_data"
 ```
 
-#### Memory Load Addresses
+#### Kernel Memory Load Addresses
 
 ```txt
 loadaddr-$(CONFIG_TARGET_hi35xx_16cv100) := 0x80008000
