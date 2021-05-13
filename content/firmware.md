@@ -113,15 +113,13 @@ killall -sigint majestic; export SENSOR=$(ipctool --sensor_id); majestic 2>&1 | 
 With firmware running, you can access the camera using URLs below
 (192.168.1.10 is the default IP address):
 
-**NB!** h265 might not be supported by your browser and thus you will not see h265 video.
-
-* [http://192.168.1.10:8888](http://192.168.1.10:8888) - HLS streaming
+* [http://192.168.1.10:8888](http://192.168.1.10:8888) - HLS streaming (H265 might not be [supported by your browser](https://caniuse.com/hevc) and thus you will not see H265 video).
 * [http://192.168.1.10:8888/image.jpg](http://192.168.1.10:8888/image.jpg)
 * [http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1](http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1)
-* [http://192.168.1.10:8888/image.dng](http://192.168.1.10:8888/image.dng) - snapshot in RAW format (only for 16cv300/16ev100 and UP processors)
+* [http://192.168.1.10:8888/image.dng](http://192.168.1.10:8888/image.dng) - snapshot from sensor in RAW (Adobe DNG) format (only for v2/v3 HiSilicon processors)
 * [http://192.168.1.10:8888/mjpeg.html](http://192.168.1.10:8888/mjpeg.html) - MJPEG & MP3 streaming
-* [http://192.168.1.10:8888/video.mp4](http://192.168.1.10:8888/video.mp4)
-* [http://192.168.1.10:8888/stream.mp3](http://192.168.1.10:8888/stream.mp3)
+* [http://192.168.1.10:8888/video.mp4](http://192.168.1.10:8888/video.mp4) - fMP4 video
+* [http://192.168.1.10:8888/audio.mp3](http://192.168.1.10:8888/audio.mp3) - MP3 audio stream
 * [http://192.168.1.10:8888/audio.pcm](http://192.168.1.10:8888/audio.pcm) - Raw PCM audio stream
 * [rtsp://192.168.1.10:554/stream=0](rtsp://192.168.1.10:554/stream=0) - Main channel of RTSP stream (section "video0:" in config )
 * [rtsp://192.168.1.10:554/stream=1](rtsp://192.168.1.10:554/stream=1) - Second channel RTSP streamer (section "video1:" in config )
