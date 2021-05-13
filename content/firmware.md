@@ -41,13 +41,15 @@ unable to deliver.
 The list is constantly updated, please visit often and/or follow our
 Telegram groups for new release notifications.
 
+#### OpenIPC 1.0 (OpenWRT based)
+
 | Processor   | Sensor          | Vendor     | SKU          | Board                          | Status |
 |-------------|-----------------|------------|--------------|--------------------------------|--------|
-| Hi3516Cv100 | IMX222_spi_dc   | XM         |              | BLK18C-0222-38X38_S-V1.03      | test   |
+| Hi3516Cv100 | IMX222_spi_dc   | XM         |              | [BLK18C-0222-38X38_S-V1.03](https://aliexpress.com/item/32493067946.html)  | test   |
 | Hi3518Ev100 | OV9712_i2c_dc   | CamHi/Xin  |              | IPC18E_9712_V2.0/V3.1          | test   |
 |             |                 |            |              |                                |        |
 | Hi3516Cv200 | IMX323_i2c_dc   | XM         |              | BLK16CV-0323-38X38-V1.01       | yes    |
-| Hi3516Cv200 | IMX323_i2c_dc   | JVT        | S323H16VF    | [IPS323-H16V-38X38-V2](https://aliexpress.ru/item/32975682617.html)           | yes   |
+| Hi3516Cv200 | IMX323_i2c_dc   | JVT        | S323H16VF    | IPS323-H16V-38X38-V2           | yes    |
 | Hi3516Cv200 | IMX323_i2c_mipi | XM         |              |                                | ?      |
 | Hi3518Ev200 | AR0130_i2c_dc   | XM         |              | BLK18EV-0732-0035-38X38-V1.01  | yes    |
 | Hi3518Ev200 | JXF22_i2c_dc    | XM         |              | BLK18EV-0002-2035-38X38-V1.01  | yes    |
@@ -56,20 +58,30 @@ Telegram groups for new release notifications.
 | Hi3518Ev200 | OV9732_         | XM         |              | BLK18EV-0732-0035-38X38-V1.01  | yes    |
 | Hi3518Ev200 | OV9732_i2c_dc   | Longse/HS  | LS-IP100/40  | 3518EV200-OV9732-V1.0          | yes    |
 | Hi3518Ev200 | OV9732_i2c_dc   | Rostelecom | QVC-IPC-136W | E305654 JX02 94V-0             | wip    |
-| Hi3518Ev200 | SC2135_i2c_dc   | XM         |              | [BLK18EV-0035-0042-38X38_S-V1.01](https://aliexpress.ru/item/32803697608.html)| yes   |
+| Hi3518Ev200 | SC2135_i2c_dc   | XM         |              | BLK18EV-0035-0042-38X38_S-V1.01| yes    |
 | Hi3518Ev200 | SC2235_i2c_dc   | XM         |              | BLK18EV-0235-38X38-B-V1.01     | yes    |
 |             |                 |            |              |                                |        |
 | Hi3516Cv300 | AR0237_i2c_dc   | XM         |              | BLK16CV3-0237P-38X38-S-V1.01   | yes    |
 | Hi3516Cv300 | IMX307_i2c_lvds | Raysharp   |              | RS-CM-188D 2018-03-16 E150111  | yes    |
 | Hi3516Cv300 | IMX323_i2c_dc   | Longse/HS  |              | HI3516CV300-IMX323-POE-TF V1.1 | yes    |
 | Hi3516Cv300 | IMX323_i2c_dc   | Sunywo     | ZB6323       | IPG5020A-T-N6-V0.1             | yes    |
+| Hi3516Cv300 | IMX323_i2c_dc   | XM         |              | [IVG-HP201Y-AE](https://aliexpress.com/item/32851596596.html)             | yes    |
+| Hi3516Cv300 | IMX291_i2c_lvds | XM         |              | [IVG-HP203Y-AE](https://aliexpress.com/item/32306602871.html)             | yes    |
 | Hi3516Cv300 | IMX323_spi_dc   | JVT        | S323H16XF    | IPS323-H16X-38X38-V2/V3        | yes    |
 | Hi3516Cv300 | JXF22_i2c_dc    | XM         |              | BLK16CV3-0022-38X38-S-V1.01    | yes    |
 | Hi3516Ev100 | IMX323_i2c_dc   | XM         |              | BLK16E-0323-38X38-B-V1.01      | yes    |
-| Hi3516Ev100 | SC2235P_i2c_dc  | XM         | 80HE20PS-S   | [BLK16E-0235-38X38-S-V2.03](https://aliexpress.ru/item/32943893793.html)      | yes   |
+| Hi3516Ev100 | SC2235P_i2c_dc  | XM         | 80HE20PS-S   | BLK16E-0235-38X38-S-V2.03      | yes    |
 
+#### OpenIPC 2.1 (Buildroot based)
 
-More information about sensors (in Russian) - [https://cctvsp.ru](https://www.cctvsp.ru/articles/obzor-i-sravnenie-matrits-dlya-kamer-videonablyudeniya)
+| Processor   | Sensor          | Vendor     | SKU          | Board                          | Status |
+|-------------|-----------------|------------|--------------|--------------------------------|--------|
+| Hi3516Ev200 | IMX307_i2c_mipi | XM         |              | IVG-85HF20PY-S               |  yes   |
+| Hi3516Ev200 | SC4239P_i2c_mipi | XM        |              | [IVG-85HF30PS-S](https://aliexpress.com/item/4000119561119.html)               |  yes   |
+| Hi3516Ev300 | IMX335_i2c_mipi | XM         |              | [IVG-85HG50PYA-S](https://aliexpress.com/item/4000054902736.html)  | yes |
+| SSC335      | SC3335          |            |              | [Unknown](https://aliexpress.com/item/1005001934045796.html)  | yes |
+
+More information about sensors (translated from Russian automatically) - [https://cctvsp.ru](https://translate.google.com/translate?sl=ru&tl=en&u=https://www.cctvsp.ru/articles/obzor-i-sravnenie-matrits-dlya-kamer-videonablyudeniya)
 
 
 ### Web interface
