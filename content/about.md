@@ -16,15 +16,12 @@ omitDate : true
 
 ## Introduction
 
-**Open source [firmware](/firmware) for IP cameras**
+**Alternative [firmware](/firmware) for IP cameras**
 
-The OpenIPC is a Linux operating system based on OpenWrt/Buildroot projects
-and targeting IP cameras with chipsets from different vendors, starting with
-HiSilicon Hi35xx and XiongmaiTech XM5xx.
+The OpenIPC is a Linux operating system based on OpenWrt/Buildroot projects and targeting IP cameras with 
+chipsets from different vendors, starting with HiSilicon Hi35xx, XiongmaiTech XM5xx and SigmaStar SSC335.
 
-Example of OpenWRT-based web management interface:
-
-![OpenIPC interface](https://zftlab.org/images/2018020902.jpg)
+Everyone is welcome and can use/contribute to project in any way they find useful.
 
 ### Feedback
 
