@@ -3,10 +3,13 @@
 
 **All information is available on the our website [openipc.org](https://openipc.org)**
 
-* [**ipctool**](https://openipc.github.io/ipctool) -
-
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/openipc.github.io)
 ![GitHub issues](https://img.shields.io/github/issues/OpenIPC/openipc.github.io)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenIPC/openipc.github.io)
 [![License](https://img.shields.io/github/license/OpenIPC/openipc.github.io)](https://opensource.org/licenses/MIT)
+
+-----
+
+**The Open PC project is a kind of umbrella and chassis for other projects that are components of our system**
+
+* [**ipctool**](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
