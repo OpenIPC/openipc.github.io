@@ -10,6 +10,6 @@
 
 -----
 
-**The OpenIPC is a kind of umbrella/chassis for other projects that are components of our system**
+**The OpenIPC is a kind of umbrella for other projects that are components of our system**
 
 * [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
