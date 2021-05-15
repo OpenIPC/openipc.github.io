@@ -3,6 +3,8 @@
 
 **All information is available on the our website [openipc.org](https://openipc.org)**
 
+**Everyone is welcome and can use/contribute to project in any way they find useful !**
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/openipc.github.io)
 ![GitHub issues](https://img.shields.io/github/issues/OpenIPC/openipc.github.io)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenIPC/openipc.github.io)
