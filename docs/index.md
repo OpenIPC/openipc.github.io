@@ -1,6 +1,4 @@
 
-![OpenIPC logo](https://openipc.org/img/logo_openipc.png "OpenIPC logo")
-
 ### All information is available on the our website [openipc.org](https://openipc.org)
 
 **Everyone is welcome and can use/contribute to project in any way they find useful !**
