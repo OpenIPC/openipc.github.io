@@ -1,7 +1,7 @@
 
 ![OpenIPC logo](https://openipc.org/img/logo_openipc.png "OpenIPC logo")
 
-**All information is available on the our website [openipc.org](https://openipc.org)**
+### All information is available on the our website [openipc.org](https://openipc.org)
 
 **Everyone is welcome and can use/contribute to project in any way they find useful !**
 
@@ -12,8 +12,11 @@
 
 -----
 
-**The OpenIPC is a kind of umbrella for other projects that are components of our system**
+### The OpenIPC is a kind of umbrella for other projects that are components of our system
 
 * [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
 * [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
 
+-----
+
+### Our partners and colleagues
