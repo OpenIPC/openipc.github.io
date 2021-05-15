@@ -19,4 +19,8 @@
 
 -----
 
-### Our partners and colleagues
+### Our partners
+
+![GOODCAM logo](images/partner_goodcam.png "GOODCAM logo")
+
+![YUCCA logo](images/partner_yucca.png "YUCCA logo")
