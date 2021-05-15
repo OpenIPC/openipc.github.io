@@ -14,4 +14,6 @@
 
 **The OpenIPC is a kind of umbrella for other projects that are components of our system**
 
+* [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
 * [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
+
