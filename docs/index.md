@@ -27,3 +27,5 @@
 [![GOODCAM logo](https://openipc.github.io/images/partner_goodcam.png "GOODCAM logo")](https://www.goodcam.io/)
 
 [![YUCCA logo](https://openipc.github.io/images/partner_yucca.png "YUCCA logo")](https://yucca.app/en)
+
+[![OPENIPC logo](https://openipc.github.io/images/partner_openipc.png "OPENIPC logo")](https://openipc.org)
