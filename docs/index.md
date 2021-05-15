@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/OpenIPC/openipc.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+![OpenIPC logo](https://openipc.org/img/logo_openipc.png "OpenIPC logo")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**All information is available on the our website [openipc.org](https://openipc.org)**
 
-### Markdown
+**Everyone is welcome and can use/contribute to project in any way they find useful !**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/openipc.github.io)
+![GitHub issues](https://img.shields.io/github/issues/OpenIPC/openipc.github.io)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenIPC/openipc.github.io)
+[![License](https://img.shields.io/github/license/OpenIPC/openipc.github.io)](https://opensource.org/licenses/MIT)
 
-```markdown
-Syntax highlighted code block
+-----
 
-# Header 1
-## Header 2
-### Header 3
+**The OpenIPC is a kind of umbrella for other projects that are components of our system**
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenIPC/openipc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
