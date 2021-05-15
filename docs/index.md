@@ -15,12 +15,15 @@
 ### The OpenIPC is a kind of umbrella for other projects that are components of our system
 
 * [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
+* [chaos_calmer](https://github.com/OpenIPC/chaos_calmer) - Firmware development and creation system based on OpenWrt 15.05
 * [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
+* ...
+* A list of all projects can be found on our [GitHub](https://github/com/OpenIPC) account
 
 -----
 
 ### Our partners
 
-![GOODCAM logo](images/partner_goodcam.png "GOODCAM logo")
+![GOODCAM logo](https://openipc.github.io/images/partner_goodcam.png "GOODCAM logo")
 
-![YUCCA logo](images/partner_yucca.png "YUCCA logo")
+![YUCCA logo](https://openipc.github.io/images/partner_yucca.png "YUCCA logo")
