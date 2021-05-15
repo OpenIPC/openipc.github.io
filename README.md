@@ -1,4 +1,6 @@
 
+![OpenIPC logo](https://openipc.org/img/logo_openipc.png "OpenIPC logo")
+
 **All information is available on the website [https://openipc.org](https://openipc.org)**
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/openipc.github.io)
