@@ -1,5 +1,5 @@
 ---
-title: "Contributions are a good idea.."
+title: "Sponsors are welcome.."
 date: 2021-01-30T00:00:01+03:00
 draft: false
 hidden: true
