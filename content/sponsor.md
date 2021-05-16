@@ -12,7 +12,7 @@ omitDate : true
 
 
 
-![Что-бы Бобр был всегда к нам всем добр ! ;)](/img/piggybank.jpg)
+![pic](/img/piggybank.jpg)
 
 
 ----
