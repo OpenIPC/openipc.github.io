@@ -29,3 +29,4 @@
 [![WEBGLAZOK logo](https://openipc.github.io/images/partner_webglazok.png "WEBGLAZOK logo")](https://webglazok.com/)
 
 [![OPENIPC logo](https://openipc.github.io/images/partner_openipc.png "OPENIPC logo")](https://openipc.org)
+
