@@ -648,6 +648,7 @@ To be written...
 * [**Longse / Herospeed**](http://www.longse.com/)
 * [**Milesight**](http://www.milesight.com/product/product_menu)
 * [**Raysharp**](http://raysharp.cn/en/index.html)
+* [**Ruision**](http://www.ruision.com/col/70560?lang=en)
 * [**Safer**](http://www.safer.net.cn/), maybe a hardware assembler...
 * http://www.sunywo.com/cn/index.shtml
 * [**Tiandy**](http://en.tiandy.com/)
