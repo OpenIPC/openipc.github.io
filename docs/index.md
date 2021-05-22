@@ -28,5 +28,9 @@
 
 [![WEBGLAZOK logo](https://openipc.github.io/images/partner_webglazok.png "WEBGLAZOK logo")](https://webglazok.com/)
 
+[![SPUTNIK logo](https://openipc.github.io/images/partner_sputnik.png "SPUTNIK logo")](https://sputnik.systems/)
+
+[![BINARY_MACHINES logo](https://openipc.github.io/images/partner_binary-machines.png "BINARY_MACHINES logo")](#)
+
 [![OPENIPC logo](https://openipc.github.io/images/partner_openipc.png "OPENIPC logo")](https://openipc.org)
 
