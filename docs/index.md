@@ -33,7 +33,7 @@
 
 [![GOODCAM logo](https://openipc.github.io/images/partner_goodcam_mini.png "GOODCAM logo")](https://www.goodcam.io)
 
-[![MEGACAM logo](https://openipc.github.io/images/partner_megacam_mini.png "MEGACAM logo")](https://megacam.kz)
+[![MEGACAM logo](https://openipc.github.io/images/partner_megacam_mini.png "MEGACAM logo")](http://megacam.kz)
 
 [![OPENIPC logo](https://openipc.github.io/images/partner_openipc_mini.png "OPENIPC logo")](https://openipc.org)
 
