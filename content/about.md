@@ -115,29 +115,4 @@ Dmitry Ilyin, Maxim Chertov, Sergey Sharshunov - main participants and co-founde
 
 ## Partners
 
-### AlarmSystem
-
-**The first store with OpenIPC camera sales**
-
-* https://alarmsystem-cctv.ru/product-category/cctv-products/cctv-cameras/ip-cameras-cctv/?swoof=1&product_brands=openipc&really_curr_tax=189-product_cat
-* https://alarmsystem-cctv.ru/openipc-готовые-камеры-на-базе-hisilicon/
-
-----
-
-### Yucca
-
-**Simple server for managing video cameras**
-
-* https://yucca.app/en/
-* https://t.me/yuccastream
-* https://gitlab.com/yuccastream/yucca/-/issues?state=opened
-
-----
-
-
-## Sponsors
-
-![https://alarmsystem-cctv.ru/](/img/banner_alarmsystem.gif)
-
-![https://zftlab.org](/img/banner_zftlab_blue.gif)
-
+[![All partners](https://openipc.github.io/images/partners_all.png "All partners")](https://openipc.github.io)
