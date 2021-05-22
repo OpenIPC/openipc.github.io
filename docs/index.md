@@ -22,15 +22,15 @@
 
 ### Our partners
 
-[![GOODCAM logo](https://openipc.github.io/images/partner_goodcam.png "GOODCAM logo")](https://www.goodcam.io/)
+[![GOODCAM logo](https://openipc.github.io/images/partner_goodcam_mini.png "GOODCAM logo")](https://www.goodcam.io/)
 
-[![YUCCA logo](https://openipc.github.io/images/partner_yucca.png "YUCCA logo")](https://yucca.app/en)
+[![YUCCA logo](https://openipc.github.io/images/partner_yucca_mini.png "YUCCA logo")](https://yucca.app/en)
 
-[![WEBGLAZOK logo](https://openipc.github.io/images/partner_webglazok.png "WEBGLAZOK logo")](https://webglazok.com/)
+[![WEBGLAZOK logo](https://openipc.github.io/images/partner_webglazok_mini.png "WEBGLAZOK logo")](https://webglazok.com/)
 
-[![SPUTNIK logo](https://openipc.github.io/images/partner_sputnik.png "SPUTNIK logo")](https://sputnik.systems/)
+[![SPUTNIK logo](https://openipc.github.io/images/partner_sputnik_mini.png "SPUTNIK logo")](https://sputnik.systems/)
 
-[![BINARY_MACHINES logo](https://openipc.github.io/images/partner_binary-machines.png "BINARY_MACHINES logo")](#)
+[![BINARY_MACHINES logo](https://openipc.github.io/images/partner_binary-machines_mini.png "BINARY_MACHINES logo")](http://bmachines.ru)
 
-[![OPENIPC logo](https://openipc.github.io/images/partner_openipc.png "OPENIPC logo")](https://openipc.org)
+[![OPENIPC logo](https://openipc.github.io/images/partner_openipc_mini.png "OPENIPC logo")](https://openipc.org)
 
