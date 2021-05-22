@@ -23,21 +23,17 @@ chipsets from different vendors, starting with HiSilicon Hi35xx, XiongmaiTech XM
 
 Everyone is welcome and can use/contribute to project in any way they find useful.
 
-### Feedback
-
 **We would be grateful for the feedback and suggestions**
 
-Igor Zalatov - project founder and development coordinator
+[Igor Zalatov](https://web.telegram.org/#/im?p=@FlyRouter) - project founder and development coordinator
 
-Dmitry Ilyin, Maxim Chertov, Sergey Sharshunov - main participants and co-founders of the project
-
+[Dmitry Ilyin](https://web.telegram.org/#/im?p=@widgetii), Maxim Chertov, Sergey Sharshunov - main participants and co-founders of the project
 
 ----
 
+## Resources and links
 
-## Resources
-
-### Telegram chat groups
+**Telegram chat groups**
 
 * [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [ComBot](https://combot.org/c/1166652144)
 * [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [ComBot](https://combot.org/c/-1001247643198)
@@ -49,70 +45,34 @@ Dmitry Ilyin, Maxim Chertov, Sergey Sharshunov - main participants and co-founde
 * [OpenIPC updatesl](https://t.me/s/openipc_updates) (RU) - Firmware & Software updates information channel
 * [OpenIPC development](https://t.me/s/openipc_dev) (EN) - Firmware & Software development channel
 
-### All IPCam SDK archive
+**Other links**
 
-**We have created a large collection of SDKs in our team's archive**
-
-* https://dl.openipc.org/SDK/
-
-### OpenIPC sources on GitHub
-
-* https://github.com/OpenIPC/ - Github organization, most projects are hosted here
-* https://github.com/OpenIPC/chaos_calmer/releases - OpenWRT-based releases
-* https://github.com/OpenIPC/chaos_calmer - OpenWRT-based distro
-* https://github.com/OpenIPC/openipc-2.1 - Buildroot-based distro
+* [openipc_sdk_archive](https://dl.openipc.org/SDK/) - We have created a large collection of SDKs in our team's archive
+* https://opencollective.com/openipc - OpenCollective community
+* https://hub.docker.com/u/openipc - Docker containers for building
+* https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx - OpenWrt pages about our project
+* https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515
 * https://github.com/ZigFisher/Glutinium - Additional OpenWRT packages
 
-### OpenCollective community
-
-* https://opencollective.com/openipc - Please help us sustain the development!
-
-### Docker containers for building
-
-* https://hub.docker.com/u/openipc
-
-### OpenWrt pages about our project
-
-* https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx
-* https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515
-
 ----
-
 
 ## Team developments
 
-### OpenIPC
+**The OpenIPC is a kind of umbrella for other projects that are components of our system**
 
-**Firmware**
-
-* https://openipc.org/firmware/
-
-### ExIpCam
-
-**Windows software**
-
-* http://team.openipc.org/exipcam/
-
-### IPCam DMS
-
-**Windows software**
-
-* http://team.openipc.org/ipcam_dms/
-* https://github.com/yuccastream/IPcam_DMS-installer
-
-![IPCam Device Management System (for Windows)](/img/software__ipcamdms_01.jpg "IPCam Device Management System (for Windows)")
-
-### ZFT Lab.
-
-**Simple snapshot dashboard**
-
-* http://ipcam.octonix.net/
-* https://github.com/ZigFisher/IPCam_monitor
-
+* [openipc_on_github](https://github.com/OpenIPC/) - Github organization, most projects are hosted here
+* ...
+* [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
+* [chaos_calmer](https://github.com/OpenIPC/chaos_calmer) - Firmware development and creation system based on OpenWrt 15.05
+* [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
+* ...
+* [exipcam](http://team.openipc.org/exipcam/) - Cool utility for repairing IPCam (For Windows, work in Linux via Wine)
+* [ipcam_dms](http://team.openipc.org/ipcam_dms/) - IPCam Device Management System (For Windows, work in Linux via Wine)
+* ...
+* A list of all projects can be found on our [GitHub](https://github/com/OpenIPC) account
 
 ----
 
-
-## Partners
+## Our partners
 
 [![All partners](https://openipc.github.io/images/partners_all.png "All partners")](https://openipc.github.io)

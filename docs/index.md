@@ -10,11 +10,18 @@
 
 -----
 
-### The OpenIPC is a kind of umbrella for other projects that are components of our system
+### Team developments
 
+**The OpenIPC is a kind of umbrella for other projects that are components of our system**
+
+* [openipc_on_github](https://github.com/OpenIPC/) - Github organization, most projects are hosted here
+* ...
 * [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
 * [chaos_calmer](https://github.com/OpenIPC/chaos_calmer) - Firmware development and creation system based on OpenWrt 15.05
 * [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
+* ...
+* [exipcam](http://team.openipc.org/exipcam/) - Cool utility for repairing IPCam (For Windows, work in Linux via Wine)
+* [ipcam_dms](http://team.openipc.org/ipcam_dms/) - IPCam Device Management System (For Windows, work in Linux via Wine)
 * ...
 * A list of all projects can be found on our [GitHub](https://github/com/OpenIPC) account
 
@@ -24,17 +31,19 @@
 
 [![BINARY_MACHINES logo](https://openipc.github.io/images/partner_binary-machines_mini.png "BINARY_MACHINES logo")](http://bmachines.ru)
 
-[![GOODCAM logo](https://openipc.github.io/images/partner_goodcam_mini.png "GOODCAM logo")](https://www.goodcam.io/)
+[![GOODCAM logo](https://openipc.github.io/images/partner_goodcam_mini.png "GOODCAM logo")](https://www.goodcam.io)
+
+[![MEGACAM logo](https://openipc.github.io/images/partner_megacam_mini.png "MEGACAM logo")](https://megacam.kz)
 
 [![OPENIPC logo](https://openipc.github.io/images/partner_openipc_mini.png "OPENIPC logo")](https://openipc.org)
 
-[![SPUTNIK logo](https://openipc.github.io/images/partner_sputnik_mini.png "SPUTNIK logo")](https://sputnik.systems/)
+[![SPUTNIK logo](https://openipc.github.io/images/partner_sputnik_mini.png "SPUTNIK logo")](https://sputnik.systems)
 
 [![TECHNO_SHIELD logo](https://openipc.github.io/images/partner_techno-shield_mini.png "TECHNO_SCHIELD logo")](#)
 
 [![YUCCA logo](https://openipc.github.io/images/partner_yucca_mini.png "YUCCA logo")](https://yucca.app/en)
 
-[![WEBGLAZOK logo](https://openipc.github.io/images/partner_webglazok_mini.png "WEBGLAZOK logo")](https://webglazok.com/)
+[![WEBGLAZOK logo](https://openipc.github.io/images/partner_webglazok_mini.png "WEBGLAZOK logo")](https://webglazok.com)
 
 
 
