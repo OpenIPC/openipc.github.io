@@ -211,7 +211,7 @@ Serial (UART) connection to your camera device is required.
 * Dahua | Press **Shift 8** in U-boot start
 * JVT | Press **Ctrl+Q** in U-boot start
 * XM | Press **Ctrl+C** in U-boot start
-* SigmaStar | Press **Ctrl+B** in U-boot start
+* SigmaStar | Press **Ctrl+B** (UNIV) or **Enter** (Anjvision) in U-boot start
 
 
 
