@@ -37,6 +37,8 @@
 
 [![MEGACAM logo](https://openipc.github.io/images/partner_megacam_mini.png "MEGACAM logo")](http://megacam.kz)
 
+[![MYWIFI-CC logo](https://openipc.github.io/images/partner_mywifi-cc_mini.png "MYWIFI-CC logo")](https://xn--80aaaf0bh2e7a5c.xn--p1ai/)
+
 [![OPENIPC logo](https://openipc.github.io/images/partner_openipc_mini.png "OPENIPC logo")](https://openipc.org)
 
 [![SPUTNIK logo](https://openipc.github.io/images/partner_sputnik_mini.png "SPUTNIK logo")](https://sputnik.systems)
