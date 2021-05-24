@@ -69,7 +69,7 @@ Everyone is welcome and can use/contribute to project in any way they find usefu
 * [exipcam](http://team.openipc.org/exipcam/) - Cool utility for repairing IPCam (For Windows, work in Linux via Wine)
 * [ipcam_dms](http://team.openipc.org/ipcam_dms/) - IPCam Device Management System (For Windows, work in Linux via Wine)
 * ...
-* A list of all projects can be found on our [GitHub](https://github/com/OpenIPC) account
+* A list of all projects can be found on our [GitHub](https://github.com/OpenIPC) account
 
 ----
 

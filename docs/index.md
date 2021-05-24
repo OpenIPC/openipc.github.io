@@ -23,7 +23,7 @@
 * [exipcam](http://team.openipc.org/exipcam/) - Cool utility for repairing IPCam (For Windows, work in Linux via Wine)
 * [ipcam_dms](http://team.openipc.org/ipcam_dms/) - IPCam Device Management System (For Windows, work in Linux via Wine)
 * ...
-* A list of all projects can be found on our [GitHub](https://github/com/OpenIPC) account
+* A list of all projects can be found on our [GitHub](https://github.com/OpenIPC) account
 
 -----
 
@@ -32,6 +32,8 @@
 [![ALARMSYSTEM logo](https://openipc.github.io/images/partner_alarmsystem_mini.png "ALARMSYSTEM logo")](https://alarmsystem-cctv.ru/product-category/cctv-products/cctv-cameras/ip-cameras-cctv/?swoof=1&product_brands=openipc&really_curr_tax=189-product_cat)
 
 [![BINARY_MACHINES logo](https://openipc.github.io/images/partner_binary-machines_mini.png "BINARY_MACHINES logo")](http://bmachines.ru)
+
+[![DOZOR logo](https://openipc.github.io/images/partner_dozor_mini.png "DOZOR logo")](https://dozor-smart.ru/)
 
 [![GOODCAM logo](https://openipc.github.io/images/partner_goodcam_mini.png "GOODCAM logo")](https://www.goodcam.io)
 
