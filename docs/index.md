@@ -49,9 +49,11 @@
 
 [![TECHNO_SHIELD logo](https://openipc.github.io/images/partner_techno-shield_mini.png "TECHNO_SCHIELD logo")](https://msvoko.ru)
 
-[![YUCCA logo](https://openipc.github.io/images/partner_yucca_mini.png "YUCCA logo")](https://yucca.app/en)
+[![VIXAND logo](https://openipc.github.io/images/partner_vixand_mini.png "VIXAND logo")](http://vixand.ru)
 
 [![WEBGLAZOK logo](https://openipc.github.io/images/partner_webglazok_mini.png "WEBGLAZOK logo")](https://webglazok.com)
+
+[![YUCCA logo](https://openipc.github.io/images/partner_yucca_mini.png "YUCCA logo")](https://yucca.app/en)
 
 
 
