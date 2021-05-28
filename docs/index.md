@@ -33,7 +33,9 @@
 
 [![BINARY_MACHINES logo](https://openipc.github.io/images/partner_binary-machines_mini.png "BINARY_MACHINES logo")](http://bmachines.ru)
 
-[![DOZOR logo](https://openipc.github.io/images/partner_dozor_mini.png "DOZOR logo")](https://dozor-smart.ru/)
+[![DOZOR logo](https://openipc.github.io/images/partner_dozor_mini.png "DOZOR logo")](https://dozor-smart.ru)
+
+[![DVOR24 logo](https://openipc.github.io/images/partner_dvor24_mini.png "DVOR24 logo")](https://dvor24.ru)
 
 [![GOODCAM logo](https://openipc.github.io/images/partner_goodcam_mini.png "GOODCAM logo")](https://www.goodcam.io)
 
