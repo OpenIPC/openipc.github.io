@@ -113,8 +113,9 @@ killall -sigint majestic; export SENSOR=$(ipctool --sensor_id); majestic 2>&1 | 
 With firmware running, you can access the camera using URLs below
 (192.168.1.10 is the default IP address):
 
-* [http://192.168.1.10:8888](http://192.168.1.10:8888) - HLS streaming (H265 might not be [supported by your browser](https://caniuse.com/hevc) and thus you will not see H265 video).
-* [http://192.168.1.10:8888/image.jpg](http://192.168.1.10:8888/image.jpg)
+* [http://192.168.1.10:8888](http://192.168.1.10:8888) - HLS live streaming
+* [http://192.168.1.10:8888/image.jpg](http://192.168.1.10:8888/image.jpg) - JPEG image shapshot
+* [http://192.168.1.10:8888/image.heif](http://192.168.1.10:8888/image.heif) - [HEIF](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format) image snapshot
 * [http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1](http://192.168.1.10:8888/image.jpg?width=640&height=360&qfactor=73&color2gray=1)
 * [http://192.168.1.10:8888/image.dng](http://192.168.1.10:8888/image.dng) - snapshot from sensor in RAW (Adobe DNG) format (only for v2/v3 HiSilicon processors)
 * [http://192.168.1.10:8888/mjpeg.html](http://192.168.1.10:8888/mjpeg.html) - MJPEG & MP3 streaming
