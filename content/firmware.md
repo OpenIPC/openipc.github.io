@@ -626,6 +626,14 @@ reboot
 ```
 
 
+### Statistical data
+
+Software might do product usage data collection including SoC and sensor model name to gather statistics used in QA process. 
+
+We guaranty that the data is fully anonymized, and does not contain anything that can arguably be considered data about an individual, that could be considered end-user data; or that could be sensitive or confidential to users.
+
+
+
 ## Reference Book
 
 To be written...
