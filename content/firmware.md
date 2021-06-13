@@ -126,6 +126,14 @@ With firmware running, you can access the camera using URLs below
 * [rtsp://192.168.1.10:554/stream=1](rtsp://192.168.1.10:554/stream=1) - Second channel RTSP streamer (section "video1:" in config )
 
 
+### Statistical data
+
+Software might do product usage data collection including SoC and sensor model name to gather statistics used in QA process. 
+
+We guaranty that the data is fully anonymized, and does not contain anything that can arguably be considered data about an individual, that could be considered end-user data; or that could be sensitive or confidential to users.
+
+
+
 ## Getting firmware
 
 ### Downloads (latest dev)
@@ -624,14 +632,6 @@ reboot
 flash_eraseall -j /dev/$(awk -F ':' '/env/ {print $1}' /proc/mtd)
 reboot
 ```
-
-
-### Statistical data
-
-Software might do product usage data collection including SoC and sensor model name to gather statistics used in QA process. 
-
-We guaranty that the data is fully anonymized, and does not contain anything that can arguably be considered data about an individual, that could be considered end-user data; or that could be sensitive or confidential to users.
-
 
 
 ## Reference Book
