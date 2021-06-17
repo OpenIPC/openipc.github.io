@@ -41,6 +41,8 @@
 
 [![IPEYE logo](https://openipc.github.io/images/partner_ipeye_mini.png "IPEYE logo")](https://ipeye.ru)
 
+[![LIFECONTROL logo](https://openipc.github.io/images/partner_lifecontrol_mini.png "LIFECONTROL logo")](https://lifecontrol.ru/)
+
 [![MEGACAM logo](https://openipc.github.io/images/partner_megacam_mini.png "MEGACAM logo")](http://megacam.kz)
 
 [![MYWIFI-CC logo](https://openipc.github.io/images/partner_mywifi-cc_mini.png "MYWIFI-CC logo")](https://xn--80aaaf0bh2e7a5c.xn--p1ai/)
