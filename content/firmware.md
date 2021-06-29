@@ -66,7 +66,7 @@ Telegram groups for new release notifications.
 | Hi3516Cv300 | IMX323_i2c_dc   | Longse/HS  |              | HI3516CV300-IMX323-POE-TF V1.1 | yes    |
 | Hi3516Cv300 | IMX323_i2c_dc   | Sunywo     | ZB6323       | IPG5020A-T-N6-V0.1             | yes    |
 | Hi3516Cv300 | IMX323_i2c_dc   | XM         |              | [IVG-HP201Y-AE](https://aliexpress.com/item/32851596596.html)             | yes    |
-| Hi3516Cv300 | IMX291_i2c_lvds | XM         |              | [IVG-HP203Y-AE](https://aliexpress.com/item/32306602871.html)             | yes    |
+| Hi3516Cv300 | IMX291_i2c_lvds | XM         |              | [IVG-HP203Y-AE](https://aliexpress.com/item/1005002315913099.html)             | yes    |
 | Hi3516Cv300 | IMX323_spi_dc   | JVT        | S323H16XF    | IPS323-H16X-38X38-V2/V3        | yes    |
 | Hi3516Cv300 | JXF22_i2c_dc    | XM         |              | BLK16CV3-0022-38X38-S-V1.01    | yes    |
 | Hi3516Ev100 | IMX323_i2c_dc   | XM         |              | BLK16E-0323-38X38-B-V1.01      | yes    |
@@ -76,7 +76,7 @@ Telegram groups for new release notifications.
 
 | Processor   | Sensor          | Vendor     | SKU          | Board                          | Status |
 |-------------|-----------------|------------|--------------|--------------------------------|--------|
-| Hi3516Ev200 | IMX307_i2c_mipi | XM         |              | IVG-85HF20PY-S               |  yes   |
+| Hi3516Ev200 | IMX307_i2c_mipi | XM         |              | [IVG-85HF20PY-S](https://aliexpress.com/item/1005002298832047.html) |  yes   |
 | Hi3516Ev200 | SC4239P_i2c_mipi | XM        |              | [IVG-85HF30PS-S](https://aliexpress.com/item/4000119561119.html)               |  yes   |
 | Hi3516Ev300 | IMX335_i2c_mipi | XM         |              | [IVG-85HG50PYA-S](https://aliexpress.com/item/4000054902736.html)  | yes |
 | SSC335      | SC3335          |            |              | [Unknown](https://aliexpress.com/item/1005001934045796.html)  | yes |
