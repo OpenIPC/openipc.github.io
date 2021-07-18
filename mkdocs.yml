@@ -57,7 +57,7 @@ nav:
   - "Welcome": index.md
   - Our projects:
     - "Systems":
-      - "OpenIPC 2.1 (Buildroot)": openipc-2.1.md
+      - "OpenIPC 2.1 (Buildroot)": systems_openipc-2.1.md
       - "OpenIPC 1.0 (OpenWrt)": https://openipc.org
     - "Tools":
       - "coupler": https://github.com/OpenIPC/coupler
