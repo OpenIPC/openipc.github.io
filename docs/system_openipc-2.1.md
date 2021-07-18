@@ -1,4 +1,12 @@
 
+## Source code
+
+**At the moment, we are working on creating a high-quality repository with source code.**
+
+**Please be patient because we want to provide a completely beautiful and ready-made project.**
+
+-----
+
 ### Quick build from sources
 
 Install some packages to system and clone OpenIPC repo
