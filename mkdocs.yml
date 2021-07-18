@@ -1,8 +1,8 @@
 site_name: OpenIPC docs
-site_url: https://docs.openipc.org/en/
-repo_url: https://github.com/ZigFisher/experiment/tree/main/docs
-repo_name: zigfisher/experiment/docs
-edit_uri: -/tree/master/en/docs
+site_url: https://openipc.github.io/
+repo_url: https://github.com/OpenIPC/openipc.github.io/tree/main/docs
+repo_name: openipc/docs
+edit_uri: -/tree/master/docs
 copyright: Copyright &copy; <a href="https://openipc.org"  target="_blank" rel="noopener">OpenIPC team</a>, 2021
 
 
@@ -55,10 +55,12 @@ extra_css:
 
 nav:
   - index.md
-  - Projects:
-    - "OpenIPC 2.1 (buildroot)": projects/openipc-2.1.md
-    - "OpenIPC 1.0 (OpenWrt)": projects/openipc-1.0.md
   - Menu 1:
     - Menu 2:
-      - "Menu 3": test/menu3.md
-  - Русский: /ru/
+      - "Menu 3":
+  - Our projects:
+    - "OpenIPC 2.1 (buildroot)":
+    - "OpenIPC 1.0 (OpenWrt)": https://openipc.org
+  - Language support:
+    - English: /en/
+    - Русский: /ru/
