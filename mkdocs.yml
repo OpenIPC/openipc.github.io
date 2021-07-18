@@ -2,7 +2,7 @@ site_name: OpenIPC docs
 site_url: https://openipc.github.io/
 repo_url: https://github.com/OpenIPC/openipc.github.io
 repo_name: openipc.github.io/docs
-edit_uri: -/blob/main/docs
+edit_uri: blob/main/docs
 copyright: Copyright &copy; <a href="https://openipc.org"  target="_blank" rel="noopener">OpenIPC team</a>, 2021
 
 
