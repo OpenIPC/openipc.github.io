@@ -56,10 +56,13 @@ extra_css:
 nav:
   - "Welcome": index.md
   - Our projects:
-    - "OpenIPC 2.1 (Buildroot)": https://github.com/OpenIPC/openipc-2.1/wiki
-    - "OpenIPC 1.0 (OpenWrt)": https://openipc.org
+    - "Platforms":
+      - "OpenIPC 2.1 (Buildroot)": https://github.com/OpenIPC/openipc-2.1/wiki
+      - "OpenIPC 1.0 (OpenWrt)": https://openipc.org
+    - "Tools":
+      - "coupler": https://github.com/OpenIPC/coupler
     - "Utilities":
       - "ipctool": https://github.com/OpenIPC/ipctool
   - Language support:
-    - "English": /en/
+    - "English": /
     - "Русский": /ru/
