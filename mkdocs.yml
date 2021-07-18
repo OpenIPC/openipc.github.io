@@ -57,10 +57,10 @@ nav:
   - "Welcome": index.md
   - "Menu 1":
     - "Menu 2":
-      - "Menu 3":
+      - "Menu 3": index.md
   - Our projects:
-    - "OpenIPC 2.1 (buildroot)":
-    - "OpenIPC 1.0 (OpenWrt)":
+    - "OpenIPC 2.1 (buildroot)": index.md
+    - "OpenIPC 1.0 (OpenWrt)": index.md
   - Language support:
     - "English": /en/
     - "Русский": /ru/
