@@ -57,12 +57,13 @@ nav:
   - "Welcome": index.md
   - Our projects:
     - "Platforms":
-      - "OpenIPC 2.1 (Buildroot)": https://github.com/OpenIPC/openipc-2.1/wiki
+      - "OpenIPC 2.1 (Buildroot)": openipc-2.1.md
       - "OpenIPC 1.0 (OpenWrt)": https://openipc.org
     - "Tools":
       - "coupler": https://github.com/OpenIPC/coupler
     - "Utilities":
       - "ipctool": https://github.com/OpenIPC/ipctool
+      - "yaml-cli": https://github.com/OpenIPC/yaml-cli
   - Language support:
     - "English": /
     - "Русский": /ru/
