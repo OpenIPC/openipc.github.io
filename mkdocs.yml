@@ -56,7 +56,7 @@ extra_css:
 nav:
   - "Welcome": index.md
   - Our projects:
-    - "Platforms":
+    - "Systems":
       - "OpenIPC 2.1 (Buildroot)": openipc-2.1.md
       - "OpenIPC 1.0 (OpenWrt)": https://openipc.org
     - "Tools":
