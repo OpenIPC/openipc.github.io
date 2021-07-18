@@ -20,7 +20,7 @@ make prepare
 make BOARD=unknown_unknown_hi3516ev200_openipc all
 ```
 
-**Hi3516Ev300**
+#### Hi3516Ev300
 
 ```
 export PLATFORM=hisilicon
@@ -28,10 +28,28 @@ make prepare
 make BOARD=unknown_unknown_hi3516ev300_openipc all
 ```
 
-**Hi3518Ev300**
+#### Hi3518Ev300
 
 ```
 export PLATFORM=hisilicon
 make prepare
 make BOARD=unknown_unknown_hi3518ev300_openipc all
 ```
+
+#### SSC335
+
+```
+export PLATFORM=sigmastar
+make prepare
+make BOARD=unknown_unknown_ssc335_openipc all
+```
+
+#### XM530
+
+```
+export PLATFORM=xiongmai
+make prepare
+make BOARD=unknown_unknown_xm530_openipc all
+```
+
+-----
