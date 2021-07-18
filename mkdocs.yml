@@ -54,13 +54,13 @@ extra_css:
 
 
 nav:
-  - index.md
-  - Menu 1:
-    - Menu 2:
+  - "Welcome": index.md
+  - "Menu 1":
+    - "Menu 2":
       - "Menu 3":
   - Our projects:
     - "OpenIPC 2.1 (buildroot)":
-    - "OpenIPC 1.0 (OpenWrt)": https://openipc.org
+    - "OpenIPC 1.0 (OpenWrt)":
   - Language support:
-    - English: /en/
-    - Русский: /ru/
+    - "English": /en/
+    - "Русский": /ru/
