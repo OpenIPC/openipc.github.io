@@ -1,5 +1,7 @@
 
-### All information is available on the our website [openipc.org](https://openipc.org)
+### Main site
+
+All information is available on the our website [openipc.org](https://openipc.org)
 
 **Everyone is welcome and can use/contribute to project in any way they find useful !**
 

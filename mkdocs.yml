@@ -59,8 +59,8 @@ nav:
     - "Menu 2":
       - "Menu 3": index.md
   - Our projects:
-    - "OpenIPC 2.1 (buildroot)": index.md
-    - "OpenIPC 1.0 (OpenWrt)": index.md
+    - "OpenIPC 2.1 (buildroot)": https://github.com/OpenIPC/openipc-2.1/wiki
+    - "OpenIPC 1.0 (OpenWrt)": https://openipc.org
   - Language support:
     - "English": /en/
     - "Русский": /ru/
