@@ -10,8 +10,20 @@ theme:
   name: material
   language: en
   favicon: media/favicon.ico
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+        primary: teal
+        accent: red
   features:
-    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 
 plugins:
