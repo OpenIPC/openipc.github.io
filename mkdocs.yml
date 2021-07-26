@@ -68,6 +68,7 @@ extra_css:
 
 nav:
   - index.md
+    - "Support OpenSource": sponsor.md
   - Our projects:
     - "Firmware":
       - "OpenIPC 2.1 (Buildroot)": firmware_openipc-2.1.md

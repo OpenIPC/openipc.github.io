@@ -12,11 +12,9 @@ omitDate : true
 
 
 
-![pic](/img/piggybank.jpg)
-
+![pic](https://openipc.org/img/piggybank.jpg)
 
 ----
-
 
 ### Let's support opensource cameras together !
 
@@ -35,9 +33,7 @@ We're committed to open and transparent accounting and are grateful for any supp
 
 If you have issues getting access or download files, feel free to contact us on our [Telegram channel](https://t.me/openipc).
 
-
 ----
-
 
 ### Supporting
 
