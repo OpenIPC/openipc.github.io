@@ -73,6 +73,6 @@ Everyone is welcome and can use/contribute to project in any way they find usefu
 
 ----
 
-## Our partners
+## OpenIPC alliance
 
-[![All partners](https://openipc.github.io/images/partners_all.png "All partners")](https://openipc.github.io)
+[![OpenIPC alliance](https://openipc.github.io/images/partners_all.png "All partners")](https://openipc.github.io)
