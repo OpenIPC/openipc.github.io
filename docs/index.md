@@ -14,7 +14,7 @@ Everyone is welcome and can use/contribute to project in any way they find usefu
 
 [Igor Zalatov](https://web.telegram.org/#/im?p=@FlyRouter) - project founder and development coordinator
 
-[Dmitry Ilyin](https://web.telegram.org/#/im?p=@widgetii), Maxim Chertov, Sergey Sharshunov - main participants and co-founders of the project
+[Dmitry Ilyin](https://web.telegram.org/#/im?p=@widgetii), [Maxim Chertov](https://web.telegram.org/#/im?p=@mAX3773), [Sergey Sharshunov](https://web.telegram.org/#/im?p=@USSSSSH) - main participants and co-founders of the project
 
 -----
 
