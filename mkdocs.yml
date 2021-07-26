@@ -67,7 +67,8 @@ extra_css:
 
 
 nav:
-  - index.md
+  - "Welcome": index.md
+    - "About": about.md
     - "Support OpenSource": sponsor.md
   - Our projects:
     - "Firmware":
