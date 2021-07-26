@@ -22,24 +22,24 @@ Everyone is welcome and can use/contribute to project in any way they find usefu
 
 **Telegram chat groups**
 
-* [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [ComBot](https://combot.org/c/1166652144)
-* [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [ComBot](https://combot.org/c/-1001247643198)
-* [OpenIPC software](https://t.me/openipc_software) (RU) - HiSilicon, XM porting in OpenWrt and programmer issues | [ComBot](https://combot.org/c/-1001196905312)
-* [OpenIPC advice](https://t.me/openipc_advice) (RU) - problems, finding solutions, long conversations | [ComBot](https://combot.org/c/1385065634)
-* [OpenIPC Iranian](https://t.me/joinchat/T_GwQUBTJdfXJrFb) (IR) - special group for Iranian users /  تیم OpenIPC برای کاربران ایرانی | [ComBot](https://combot.org/c/-1001341239361)
-* [OpenIPC demo](https://t.me/openipc_demo)  (EN/RU) - test bot with buttons, after connecting, give the "/menu" | [ComBot](https://combot.org/c/1414887196)
-* [OpenIPC ExIPCam](https://t.me/ExIPCam) (RU) - ExIPCam program and hardware/software repairing devices | [ComBot](https://combot.org/c/1213889378)
+* [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [*](https://combot.org/c/1166652144)
+* [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [*](https://combot.org/c/-1001247643198)
+* [OpenIPC software](https://t.me/openipc_software) (RU) - HiSilicon, XM porting in OpenWrt and programmer issues | [*](https://combot.org/c/-1001196905312)
+* [OpenIPC advice](https://t.me/openipc_advice) (RU) - problems, finding solutions, long conversations | [*](https://combot.org/c/1385065634)
+* [OpenIPC Iranian](https://t.me/joinchat/T_GwQUBTJdfXJrFb) (IR) - special group for Iranian users / تیم OpenIPC برای کاربران ایرانی | [*](https://combot.org/c/-1001341239361)
+* [OpenIPC demo](https://t.me/openipc_demo)  (EN/RU) - test bot with buttons, after connecting, give the "/menu" | [*](https://combot.org/c/1414887196)
+* [OpenIPC ExIPCam](https://t.me/ExIPCam) (RU) - ExIPCam program and hardware/software repairing devices | [*](https://combot.org/c/1213889378)
 * [OpenIPC updatesl](https://t.me/s/openipc_updates) (RU) - Firmware & Software updates information channel
 * [OpenIPC development](https://t.me/s/openipc_dev) (EN) - Firmware & Software development channel
 
 **Other links**
 
 * [openipc_sdk_archive](https://dl.openipc.org/SDK/) - We have created a large collection of SDKs in our team's archive
-* https://opencollective.com/openipc - OpenCollective community
-* https://hub.docker.com/u/openipc - Docker containers for building
-* https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx - OpenWrt pages about our project
-* https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515
-* https://github.com/ZigFisher/Glutinium - Additional OpenWRT packages
+* [https://opencollective.com/openipc](https://opencollective.com/openipc) - OpenCollective community
+* [https://hub.docker.com/u/openipc](https://hub.docker.com/u/openipc) - Docker containers for building
+* [https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx](https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx) - OpenWrt pages about our project
+* [https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515](https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515)
+* [https://github.com/ZigFisher/Glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT packages
 
 -----
 
