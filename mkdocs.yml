@@ -1,4 +1,4 @@
-site_name: OpenIPC docs
+site_name: OpenIPC
 site_url: https://openipc.github.io/
 repo_url: https://github.com/OpenIPC/openipc.github.io
 repo_name: openipc.github.io/docs
@@ -78,6 +78,6 @@ nav:
     - "Utilities":
       - "ipctool": https://github.com/OpenIPC/ipctool
       - "yaml-cli": https://github.com/OpenIPC/yaml-cli
-  - Language support:
-    - "English": /
-    - "Русский": /ru/
+#  - Language support:
+#    - "English": /
+#    - "Русский": /

@@ -1,4 +1,23 @@
 
+![OpenIPC logo](https://openipc.org/img/logo_openipc.png)
+
+### Introduction
+
+**Alternative [firmware](/firmware) for IP cameras**
+
+The OpenIPC is a Linux operating system based on OpenWrt/Buildroot projects and targeting IP cameras with.
+chipsets from different vendors, starting with HiSilicon Hi35xx, XiongmaiTech XM5xx and SigmaStar SSC335.
+
+Everyone is welcome and can use/contribute to project in any way they find useful.
+
+**We would be grateful for the feedback and suggestions**
+
+[Igor Zalatov](https://web.telegram.org/#/im?p=@FlyRouter) - project founder and development coordinator
+
+[Dmitry Ilyin](https://web.telegram.org/#/im?p=@widgetii), Maxim Chertov, Sergey Sharshunov - main participants and co-founders of the project
+
+-----
+
 ### Main site
 
 All information is available on the our website [openipc.org](https://openipc.org)
