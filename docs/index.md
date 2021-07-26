@@ -3,14 +3,14 @@
 
 ### Introduction
 
-**Alternative [firmware](/firmware) for IP cameras**
+Alternative [firmware](https://github.com/OpenIPC) for IP cameras
 
 The OpenIPC is a Linux operating system based on OpenWrt/Buildroot projects and targeting IP cameras with.
 chipsets from different vendors, starting with HiSilicon Hi35xx, XiongmaiTech XM5xx and SigmaStar SSC335.
 
 Everyone is welcome and can use/contribute to project in any way they find useful.
 
-**We would be grateful for the feedback and suggestions**
+We would be grateful for the feedback and suggestions
 
 [Igor Zalatov](https://web.telegram.org/#/im?p=@FlyRouter) - project founder and development coordinator
 
@@ -20,7 +20,7 @@ Everyone is welcome and can use/contribute to project in any way they find usefu
 
 ### Resources and links
 
-**Telegram chat groups**
+Telegram chat groups
 
 * [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [*](https://combot.org/c/1166652144)
 * [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [*](https://combot.org/c/-1001247643198)
@@ -32,12 +32,12 @@ Everyone is welcome and can use/contribute to project in any way they find usefu
 * [OpenIPC updatesl](https://t.me/s/openipc_updates) (RU) - Firmware & Software updates information channel
 * [OpenIPC development](https://t.me/s/openipc_dev) (EN) - Firmware & Software development channel
 
-**Other links**
+Other links
 
 * [openipc_sdk_archive](https://dl.openipc.org/SDK/) - We have created a large collection of SDKs in our team's archive
 * [https://opencollective.com/openipc](https://opencollective.com/openipc) - OpenCollective community
 * [https://hub.docker.com/u/openipc](https://hub.docker.com/u/openipc) - Docker containers for building
-* [https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx](https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx) - OpenWrt pages about our project
+* [https://openwrt.org/docs/.../soc.hisilicon.hi35xx](https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx) - OpenWrt pages about our project
 * [https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515](https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515)
 * [https://github.com/ZigFisher/Glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT packages
 
