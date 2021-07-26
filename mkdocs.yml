@@ -22,7 +22,8 @@ theme:
         primary: teal
         accent: red
   features:
-    - navigation.instant
+    - navigation.expand
+#    - navigation.instant
 
 
 plugins:
@@ -73,6 +74,9 @@ nav:
     - "Software":
       - "ExIPCam v2.0": https://team.openipc.org/exipcam/
       - "IPCam DMS": https://team.openipc.org/ipcam_dms/
+    - "Streamers":
+      - "majestic": https://github.com/OpenIPC/majestic_issues/issues
+      - "minihttp": https://github.com/OpenIPC/hi_minihttp
     - "Tools":
       - "coupler": https://github.com/OpenIPC/coupler
     - "Utilities":
