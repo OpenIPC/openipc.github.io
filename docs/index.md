@@ -16,6 +16,15 @@ We would be grateful for the feedback and suggestions
 
 [Dmitry Ilyin](https://web.telegram.org/#/im?p=@widgetii), [Maxim Chertov](https://web.telegram.org/#/im?p=@mAX3773), [Sergey Sharshunov](https://web.telegram.org/#/im?p=@USSSSSH) - main participants and co-founders of the project
 
+All information is available on the our website [openipc.org](https://openipc.org)
+
+Everyone is welcome and can use/contribute to project in any way they find useful !
+
+![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/openipc.github.io)
+![GitHub issues](https://img.shields.io/github/issues/OpenIPC/openipc.github.io)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenIPC/openipc.github.io)
+[![License](https://img.shields.io/github/license/OpenIPC/openipc.github.io)](https://opensource.org/licenses/MIT)
+
 -----
 
 ### Resources and links
@@ -43,22 +52,9 @@ Other links
 
 -----
 
-### Main site
-
-All information is available on the our website [openipc.org](https://openipc.org)
-
-**Everyone is welcome and can use/contribute to project in any way they find useful !**
-
-![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/openipc.github.io)
-![GitHub issues](https://img.shields.io/github/issues/OpenIPC/openipc.github.io)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenIPC/openipc.github.io)
-[![License](https://img.shields.io/github/license/OpenIPC/openipc.github.io)](https://opensource.org/licenses/MIT)
-
------
-
 ### Team developments
 
-**The OpenIPC is a kind of umbrella for other projects that are components of our system**
+The OpenIPC is a kind of umbrella for other projects that are components of our system
 
 * [openipc_on_github](https://github.com/OpenIPC/) - Github organization, most projects are hosted here
 * ...
