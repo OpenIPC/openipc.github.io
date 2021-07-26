@@ -70,6 +70,9 @@ nav:
     - "Firmware":
       - "OpenIPC 2.1 (Buildroot)": firmware_openipc-2.1.md
       - "OpenIPC 1.0 (OpenWrt)": https://openipc.org/firmware
+    - "Software":
+      - "ExIPCam v2.0": https://team.openipc.org/exipcam/
+      - "IPCam DMS": https://team.openipc.org/ipcam_dms/
     - "Tools":
       - "coupler": https://github.com/OpenIPC/coupler
     - "Utilities":
