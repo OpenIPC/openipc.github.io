@@ -1,6 +1,4 @@
 
-![OpenIPC logo](https://openipc.org/img/logo_openipc.png)
-
 ### Introduction
 
 Alternative [firmware](https://github.com/OpenIPC) for IP cameras

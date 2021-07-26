@@ -12,7 +12,7 @@ omitDate : true
 
 
 
-![OpenIPC logo](/img/logo_openipc.png)
+![OpenIPC logo](https://openipc.org/img/logo_openipc.png)
 
 ## Introduction
 
