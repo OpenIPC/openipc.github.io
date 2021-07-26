@@ -22,8 +22,9 @@ theme:
         primary: teal
         accent: red
   features:
-    - navigation.expand
 #    - navigation.instant
+    - navigation.expand
+    - toc.integrate
 
 
 plugins:
