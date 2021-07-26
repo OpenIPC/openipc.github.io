@@ -633,6 +633,63 @@ flash_eraseall -j /dev/$(awk -F ':' '/env/ {print $1}' /proc/mtd)
 reboot
 ```
 
+### Recover backup firmware
+
+If something goes horribly wrong and you want back your backed up firmware
+
+**Restore backup up firmware via serial**
+
+
+Install kermit using instructions [**here**](https://glasstty.com/?p=662) or similar.
+Here are the sample commands for 8MB Flash
+```
+kermit
+Linux Kermit> CONNECT
+Connecting to /dev/ttyUSB0, speed 115200
+ Escape character: Ctrl-\ (ASCII 28, FS): enabled
+Type the escape character followed by C to get back, 
+or followed by ? to see other options.
+----------------------------------------------------
+## Total Size      = 0x002fb3f1 = 3126257 Bytes
+## Start Addr      = 0x82000000
+OpenIPC # sf probe 0
+8192 KiB hi_sfc at 0:0 is now current device
+OpenIPC # mw.b 0x82000000 ff 1000000
+OpenIPC # loadb 0x82000000
+## Ready for binary (kermit) download to 0x82000000 at 115200 bps...
+
+(Back at alex-B85M-D3H)
+----------------------------------------------------
+Linux Kermit> SEND /srv/tftp/fullflash.img
+Linux Kermit> CONNECT
+Connecting to /dev/ttyUSB0, speed 115200
+ Escape character: Ctrl-\ (ASCII 28, FS): enabled
+Type the escape character followed by C to get back,
+or followed by ? to see other options.
+----------------------------------------------------
+## Total Size      = 0x00800000 = 8388608 Bytes
+## Start Addr      = 0x82000000
+OpenIPC # sf erase 0x0 0x00800000
+Erasing at 0x800000 -- 100% complete.
+OpenIPC # sf write 0x82000000 0x0 ${filesize}
+Writing at 0x800000 -- 100% complete.
+OpenIPC # 
+```
+**Restore backup up firmware via TFTP**
+
+Here are the commands for 8MB Flash
+
+```
+setenv ipaddr 192.168.1.10
+setenv serverip 192.168.1.254
+sf probe 0; sf lock 0
+
+mw.b 0x82000000 ff 1000000
+tftp 0x82000000 fullflash.img
+sf erase 0x0 0x00800000
+sf write 0x82000000 0x0 ${filesize}
+```
+
 
 ## Reference Book
 
