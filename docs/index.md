@@ -5,6 +5,8 @@
 
 Alternative [firmware](https://github.com/OpenIPC) for IP cameras
 
+The OpenIPC is a kind of umbrella for other projects that are components of our system
+
 The OpenIPC is a Linux operating system based on OpenWrt/Buildroot projects and targeting IP cameras with.
 chipsets from different vendors, starting with HiSilicon Hi35xx, XiongmaiTech XM5xx and SigmaStar SSC335.
 
@@ -18,6 +20,8 @@ We would be grateful for the feedback and suggestions
 
 All information is available on the our website [openipc.org](https://openipc.org)
 
+* A list of all projects can be found on our [GitHub](https://github.com/OpenIPC) account
+
 Everyone is welcome and can use/contribute to project in any way they find useful !
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/openipc.github.io)
@@ -29,7 +33,7 @@ Everyone is welcome and can use/contribute to project in any way they find usefu
 
 ### Resources and links
 
-Telegram chat groups
+#### Telegram chat groups
 
 * [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [*](https://combot.org/c/1166652144)
 * [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [*](https://combot.org/c/-1001247643198)
@@ -41,7 +45,16 @@ Telegram chat groups
 * [OpenIPC updatesl](https://t.me/s/openipc_updates) (RU) - Firmware & Software updates information channel
 * [OpenIPC development](https://t.me/s/openipc_dev) (EN) - Firmware & Software development channel
 
-Other links
+#### Team developments
+
+* [openipc_on_github](https://github.com/OpenIPC/) - Github organization, most projects are hosted here
+* [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
+* [chaos_calmer](https://github.com/OpenIPC/chaos_calmer) - Firmware development and creation system based on OpenWrt 15.05
+* [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
+* [exipcam](http://team.openipc.org/exipcam/) - Cool utility for repairing IPCam (For Windows, work in Linux via Wine)
+* [ipcam_dms](http://team.openipc.org/ipcam_dms/) - IPCam Device Management System (For Windows, work in Linux via Wine)
+
+#### Other links
 
 * [openipc_sdk_archive](https://dl.openipc.org/SDK/) - We have created a large collection of SDKs in our team's archive
 * [https://opencollective.com/openipc](https://opencollective.com/openipc) - OpenCollective community
@@ -49,23 +62,6 @@ Other links
 * [https://openwrt.org/docs/.../soc.hisilicon.hi35xx](https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx) - OpenWrt pages about our project
 * [https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515](https://forum.openwrt.org/t/openwrt-on-hisilicon-socs-hi35xxx/41515)
 * [https://github.com/ZigFisher/Glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT packages
-
------
-
-### Team developments
-
-The OpenIPC is a kind of umbrella for other projects that are components of our system
-
-* [openipc_on_github](https://github.com/OpenIPC/) - Github organization, most projects are hosted here
-* ...
-* [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
-* [chaos_calmer](https://github.com/OpenIPC/chaos_calmer) - Firmware development and creation system based on OpenWrt 15.05
-* [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
-* ...
-* [exipcam](http://team.openipc.org/exipcam/) - Cool utility for repairing IPCam (For Windows, work in Linux via Wine)
-* [ipcam_dms](http://team.openipc.org/ipcam_dms/) - IPCam Device Management System (For Windows, work in Linux via Wine)
-* ...
-* A list of all projects can be found on our [GitHub](https://github.com/OpenIPC) account
 
 -----
 
