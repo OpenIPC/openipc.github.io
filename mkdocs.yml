@@ -83,6 +83,8 @@ nav:
     - "Utilities":
       - "ipctool": https://github.com/OpenIPC/ipctool
       - "yaml-cli": https://github.com/OpenIPC/yaml-cli
+    - "Devices":
+      - "Switcam HS303 (ru)": device_hs303.md
 #  - Language support:
 #    - "English": /
 #    - "Русский": /
