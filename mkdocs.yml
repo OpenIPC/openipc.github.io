@@ -10,7 +10,7 @@ theme:
   name: material
   language: en
   favicon: images/favicon.png
-  logo: assets/logo.png
+  logo: images/favicon.png
   palette:
     - scheme: default
       toggle:
