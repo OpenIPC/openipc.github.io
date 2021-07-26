@@ -22,8 +22,7 @@ theme:
         primary: teal
         accent: red
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.instant
 
 
 plugins:
