@@ -9,7 +9,7 @@ copyright: Copyright &copy; <a href="https://openipc.org"  target="_blank" rel="
 theme:
   name: material
   language: en
-  favicon: media/favicon.ico
+  favicon: images/favicon.png
   palette:
     - scheme: default
       toggle:
