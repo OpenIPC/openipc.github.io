@@ -1,26 +1,17 @@
 
 ### Introduction
 
-Alternative [firmware](https://github.com/OpenIPC) for IP cameras
+The OpenIPC is a alternative [firmware](https://github.com/OpenIPC) for IP cameras and kind of umbrella for other projects that are components of our system.
 
-The OpenIPC is a kind of umbrella for other projects that are components of our system
-
-The OpenIPC is a Linux operating system based on OpenWrt/Buildroot projects and targeting IP cameras with.
-chipsets from different vendors, starting with HiSilicon Hi35xx, XiongmaiTech XM5xx and SigmaStar SSC335.
-
-Everyone is welcome and can use/contribute to project in any way they find useful.
-
-We would be grateful for the feedback and suggestions
+The OpenIPC is a Linux operating system based on OpenWrt/Buildroot projects and targeting IP cameras with chipsets from different vendors, starting with HiSilicon Hi35xx, XiongmaiTech XM5xx and SigmaStar SSC335.
 
 [Igor Zalatov](https://web.telegram.org/#/im?p=@FlyRouter) - project founder and development coordinator
 
 [Dmitry Ilyin](https://web.telegram.org/#/im?p=@widgetii), [Maxim Chertov](https://web.telegram.org/#/im?p=@mAX3773), [Sergey Sharshunov](https://web.telegram.org/#/im?p=@USSSSSH) - main participants and co-founders of the project
 
-All information is available on the our website [openipc.org](https://openipc.org)
-
-* A list of all projects can be found on our [GitHub](https://github.com/OpenIPC) account
-
 Everyone is welcome and can use/contribute to project in any way they find useful !
+
+We would be grateful for the feedback and suggestions.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/OpenIPC/openipc.github.io)
 ![GitHub issues](https://img.shields.io/github/issues/OpenIPC/openipc.github.io)
