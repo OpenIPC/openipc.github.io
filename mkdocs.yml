@@ -71,15 +71,18 @@ nav:
     - "Introduction": index.md
     - "Support OpenSource": sponsor.md
   - "Documentation":
+    - "Firmware":
+      - "OpenIPC 2.1 (Buildroot)": firmware/openipc-2.1.md
+      - "OpenIPC 1.0 (OpenWrt)": firmware/openipc-1.0.md
     - "Devices":
       - "Switcam HS303 (ru)": devices/hs303.md
   - "Our projects":
     - "Firmware":
-      - "OpenIPC 2.1 (Buildroot)": firmware_openipc-2.1.md
-      - "OpenIPC 1.0 (OpenWrt)": https://openipc.org/firmware
+      - "OpenIPC 2.1 (Buildroot)": https://github.com/OpenIPC/openipc-2.1
+      - "OpenIPC 1.0 (OpenWrt)": https://github.com/OpenIPC/chaos_calmer
     - "Software":
-      - "ExIPCam v2.0": https://team.openipc.org/exipcam/
-      - "IPCam DMS": https://team.openipc.org/ipcam_dms/
+      - "exipcam": https://team.openipc.org/exipcam
+      - "ipcam_dms": https://team.openipc.org/ipcam_dms
     - "Streamers":
       - "majestic": https://github.com/OpenIPC/majestic_issues/issues
       - "minihttp": https://github.com/OpenIPC/hi_minihttp
