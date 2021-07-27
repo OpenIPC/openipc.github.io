@@ -70,6 +70,9 @@ nav:
   - "Welcome":
     - "Introduction": index.md
     - "Support OpenSource": sponsor.md
+  - "Documentation":
+    - "Devices":
+      - "Switcam HS303 (ru)": devices/hs303.md
   - "Our projects":
     - "Firmware":
       - "OpenIPC 2.1 (Buildroot)": firmware_openipc-2.1.md
@@ -85,8 +88,6 @@ nav:
     - "Utilities":
       - "ipctool": https://github.com/OpenIPC/ipctool
       - "yaml-cli": https://github.com/OpenIPC/yaml-cli
-    - "Devices":
-      - "Switcam HS303 (ru)": device_hs303.md
 #  - Language support:
 #    - "English": /
 #    - "Русский": /
