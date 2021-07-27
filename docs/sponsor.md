@@ -1,22 +1,11 @@
----
-title: "Sponsors are welcome.."
-date: 2021-01-30T00:00:01+03:00
-draft: false
-hidden: true
-#
-#categories: ["development"]
-tags: ["about", "community", "sitemap"]
-#
-omitDate : true
----
-
-
 
 ![pic](https://openipc.org/img/piggybank.jpg)
 
-----
+---------------------------------------------------------------------------------
 
-### Let's support opensource cameras together !
+## Sponsors are welcome
+
+**Let's support opensource cameras together !**
 
 OpenIPC is asking for your help to support development cost and long-term maintenance of what we believe will serve a fundamental role in the advancement of a stable, flexible and most importantly, Open IP Network Camera Framework for users worldwide.
 
@@ -33,9 +22,9 @@ We're committed to open and transparent accounting and are grateful for any supp
 
 If you have issues getting access or download files, feel free to contact us on our [Telegram channel](https://t.me/openipc).
 
-----
+---------------------------------------------------------------------------------
 
-### Supporting
+## Donations
 
 If you like our work, please consider supporting us on [Opencollective](https://opencollective.com/openipc/contribute/backer-14335/checkout) or [PayPal](https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS) or [YooMoney](https://openipc.org/donation/yoomoney.html)
 
