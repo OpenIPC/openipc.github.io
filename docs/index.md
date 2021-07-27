@@ -20,17 +20,15 @@ We would be grateful for the feedback and suggestions.
 
 ---------------------------------------------------------------------------------
 
-## Resources and links
-
-### Official links
+## Official links
 
 * [OpenIPC on GitHub](https://github.com/OpenIPC/) - GitHub organization, most projects are hosted here
 * [OpenIPC on OpenCollective](https://opencollective.com/openipc) - OpenCollective community
 * [OpenIPC on Docker Hub](https://hub.docker.com/u/openipc) - Docker containers for building
 
------
+---------------------------------------------------------------------------------
 
-### Telegram chat groups
+## Telegram chat groups
 
 * [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [*](https://combot.org/c/1166652144)
 * [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [*](https://combot.org/c/-1001247643198)
@@ -42,9 +40,9 @@ We would be grateful for the feedback and suggestions.
 * [OpenIPC updatesl](https://t.me/s/openipc_updates) (RU) - Firmware & Software updates information channel
 * [OpenIPC development](https://t.me/s/openipc_dev) (EN) - Firmware & Software development channel
 
------
+---------------------------------------------------------------------------------
 
-### Team developments
+## Team developments
 
 * [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
 * [chaos_calmer](https://github.com/OpenIPC/chaos_calmer) - Firmware development and creation system based on OpenWrt 15.05
@@ -53,9 +51,9 @@ We would be grateful for the feedback and suggestions.
 * [ipcam_dms](http://team.openipc.org/ipcam_dms/) - IPCam Device Management System (For Windows, work in Linux via Wine)
 * [glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT packages
 
------
+---------------------------------------------------------------------------------
 
-### Other links
+## Other links
 
 * [openipc_sdk_archive](https://dl.openipc.org/SDK/) - We have created a large collection of SDKs in our team's archive
 * [https://openwrt.org/docs/.../soc.hisilicon.hi35xx](https://openwrt.org/docs/techref/hardware/soc/soc.hisilicon.hi35xx) - OpenWrt pages about our project
