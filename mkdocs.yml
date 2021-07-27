@@ -67,8 +67,8 @@ extra_css:
 
 
 nav:
-  - "Welcome": index.md
-  - "More info":
+  - "Welcome":
+    - "Introduction": index.md
     - "About": about.md
     - "Support OpenSource": sponsor.md
   - "Our projects":
