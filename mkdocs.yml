@@ -67,10 +67,11 @@ extra_css:
 
 
 nav:
-  - index.md
+  - "Welcome": index.md
+  - "More info":
     - "About": about.md
     - "Support OpenSource": sponsor.md
-  - Our projects:
+  - "Our projects":
     - "Firmware":
       - "OpenIPC 2.1 (Buildroot)": firmware_openipc-2.1.md
       - "OpenIPC 1.0 (OpenWrt)": https://openipc.org/firmware
