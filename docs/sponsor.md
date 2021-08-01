@@ -1,6 +1,4 @@
 
-![pic](/images/piggybank.jpg)
-
 <div style="text-align:center"><img src="/images/piggybank.jpg" /></div>
 
 ---------------------------------------------------------------------------------
