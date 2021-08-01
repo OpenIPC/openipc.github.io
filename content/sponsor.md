@@ -1,1 +1,0 @@
-../docs/sponsor.md

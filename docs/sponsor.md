@@ -1,5 +1,5 @@
 
-![pic](https://openipc.org/img/piggybank.jpg)
+![pic](https://openipc.org/images/piggybank.jpg)
 
 ---------------------------------------------------------------------------------
 
