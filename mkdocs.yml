@@ -67,7 +67,7 @@ extra_css:
 
 
 extra_javascript:
-    - 'script/yandex_counter.js'
+    - 'assets/js/yandex.js'
 
 
 nav:
