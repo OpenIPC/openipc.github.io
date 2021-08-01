@@ -66,6 +66,10 @@ extra_css:
   - stylesheets/extra.css
 
 
+extra_javascript:
+    - 'script/yandex_counter.js'
+
+
 nav:
   - "Welcome":
     - "Introduction": index.md
