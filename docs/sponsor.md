@@ -1,7 +1,9 @@
 
 <div style="text-align:center"><img src="/images/piggybank.jpg" /></div>
 
-![piggybank](/images/piggybank.jpg#right)
+![A picture of a cat](/images/piggybank.jpg){: .floatright}
+
+<img style="float: right;" src="/images/piggybank.jpg">
 
 ---------------------------------------------------------------------------------
 
