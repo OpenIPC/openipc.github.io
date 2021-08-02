@@ -1,6 +1,8 @@
 
 <div style="text-align:center"><img src="/images/piggybank.jpg" /></div>
 
+![piggybank](/images/piggybank.jpg#right)
+
 ---------------------------------------------------------------------------------
 
 ## Sponsors are welcome

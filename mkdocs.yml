@@ -62,12 +62,15 @@ extra:
       link: https://github.com/openipc
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/openipc
+
+
 extra_css:
   - stylesheets/extra.css
+  - 'assets/css/zftlab.css'
 
 
 extra_javascript:
-    - 'assets/js/yandex.js'
+  - 'assets/js/yandex.js'
 
 
 nav:
