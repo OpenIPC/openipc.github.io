@@ -1,4 +1,8 @@
 
+<div style="text-align:center"><img src="/images/logo_openipc.png" width="300" /></div>
+
+---------------------------------------------------------------------------------
+
 ## Basic information
 
 The OpenIPC is a alternative [firmware](https://github.com/OpenIPC) for IP cameras and kind of umbrella for other projects that are components of our system.
