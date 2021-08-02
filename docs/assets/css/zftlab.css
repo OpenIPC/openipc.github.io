@@ -1,10 +1,9 @@
 img[src*='#left'] {
-    float: left;
+    text-align: left;
 }
 img[src*='#right'] {
-    float: right;
+    text-align: right;
 }
 img[src*='#center'] {
-    display: block;
-    margin: auto;
+    text-align: center;
 }

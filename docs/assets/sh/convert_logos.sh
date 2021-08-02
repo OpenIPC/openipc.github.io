@@ -4,7 +4,7 @@
 # http://najomi.org/_nix/imagemagick
 
 
-cd ../images
+cd ../../images
 #
 for f in partner_*_orig.png; do echo $f; $(convert $f -resize x50 ${f%_orig.png}_mini.png); done
 #
