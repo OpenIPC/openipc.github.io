@@ -1,4 +1,34 @@
 
+## Supported devices
+
+### Processors
+
+* [**Fullhan**](https://www.fullhan.com/en/index.php) (see code in [br-ext-chip-fullhan](https://github.com/OpenIPC/openipc-2.1/tree/master/br-ext-chip-fullhan))
+  * **fh8852** - start of development
+  * **fh8856** - start of development
+
+* [**HiSilicon**](http://www.hisilicon.com/en/) (see code in [br-ext-chip-hisilicon](https://github.com/OpenIPC/openipc-2.1/tree/master/br-ext-chip-hisilicon))
+  * **hi3516ev200** - fully ready for use :100: :ok:
+  * **hi3516ev300** - fully ready for use :100: :ok:
+  * **hi3518ev300** - ready to use but need more usage reports :+1:
+  * we are also porting other processors from our [old project](https://openipc.org/firmware/#flashing-new-firmware)
+
+* [**SigmaStar**](http://www.sigmastarsemi.com/index.php) (see code in [br-ext-chip-sigmastar](https://github.com/OpenIPC/openipc-2.1/tree/master/br-ext-chip-sigmastar))
+  * **ssc335** - final stage of development :eye: 
+
+* [**Xiongmai**](http://www.xiongmaitech.com/en/)  (see code in [br-ext-chip-xiongmai](https://github.com/OpenIPC/openipc-2.1/tree/master/br-ext-chip-xiongmai))
+  * **xm530** - experimental stage of development :office_worker: 
+  * **xm550** - experimental stage of development :office_worker:
+
+**In the future, support processors is planned:**
+* Anyka
+* Goke
+* Grainmedia
+* Ingenic
+* and others...
+
+---------------------------------------------------------------------------------
+
 ## Source code
 
 **At the moment, we are working on creating a high-quality repository with source code.**
