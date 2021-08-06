@@ -109,6 +109,8 @@ With firmware running, you can access the camera using URLs below
 * [http://192.168.1.10:8888/video.mp4](http://192.168.1.10:8888/video.mp4) - fMP4 video
 * [http://192.168.1.10:8888/audio.mp3](http://192.168.1.10:8888/audio.mp3) - MP3 audio stream
 * [http://192.168.1.10:8888/audio.pcm](http://192.168.1.10:8888/audio.pcm) - Raw PCM audio stream
+* [http://192.168.1.10:8888/audio.opus](http://192.168.1.10:8888/audio.opus) - Experimentally in new versions
+* [http://192.168.1.10:8888/audio.m4a](http://192.168.1.10:8888/audio.m4a) - Experimentally in new versions
 * [rtsp://192.168.1.10:554/stream=0](rtsp://192.168.1.10:554/stream=0) - Main channel of RTSP stream (section "video0:" in config )
 * [rtsp://192.168.1.10:554/stream=1](rtsp://192.168.1.10:554/stream=1) - Second channel RTSP streamer (section "video1:" in config )
 
