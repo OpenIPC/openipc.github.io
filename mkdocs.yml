@@ -79,6 +79,8 @@ nav:
     - "Firmware":
       - "OpenIPC 2.1 (Buildroot)": firmware/openipc-2.1.md
       - "OpenIPC 1.0 (OpenWrt)": firmware/openipc-1.0.md
+    - "Streamers":
+      - "majestic": streamers/majestic.md
     - "Devices":
       - "Switcam HS303 (ru)": devices/hs303.md
   - "Our projects":
