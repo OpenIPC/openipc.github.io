@@ -1,5 +1,5 @@
 
-## Majestic streamer
+## Overview of features
 
 ### Changelog
 
