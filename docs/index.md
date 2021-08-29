@@ -29,6 +29,8 @@ We would be grateful for the feedback and suggestions.
 * [OpenIPC on GitHub](https://github.com/OpenIPC/) - GitHub organization, most projects are hosted here
 * [OpenIPC on OpenCollective](https://opencollective.com/openipc) - OpenCollective community
 * [OpenIPC on Docker Hub](https://hub.docker.com/u/openipc) - Docker containers for building
+* [OpenIPC on Twitter](https://www.youtube.com/channel/UCaXlbR2uGTRFh8jQ2lCFd2g) - Our main news
+* [OpenIPC on YouTube](https://www.youtube.com/channel/UCaXlbR2uGTRFh8jQ2lCFd2g) - Our instructions and streams
 * [OpenIPC SDK archive](https://opencollective.com/openipc/updates/restricting-public-access-to-dl-openipc-org-archive-files-from-1-august) - We have created a large collection of SDKs in our team's archive
 
 ---------------------------------------------------------------------------------
