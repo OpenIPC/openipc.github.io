@@ -206,11 +206,11 @@ docker build -t openipc -f Dockerfile.openipc .
 
 Serial (UART) connection to your camera device is required.
 
+* CamHi | Press **Ctrl+C** in U-boot start and access password - HI2105CHIP
 * Dahua | Press **Shift 8** in U-boot start
 * JVT | Press **Ctrl+Q** in U-boot start
 * XM | Press **Ctrl+C** in U-boot start
 * SigmaStar | Press **Ctrl+B** (UNIV) or **Enter** (Anjvision) in U-boot start
-
 
 
 ### Backup original MAC
