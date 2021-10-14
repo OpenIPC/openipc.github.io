@@ -3,6 +3,8 @@
 
 This page describes OpenWRT-based firmware variant.
 
+**Project not supported anymore. Please consider using OpenIPC 2.0 or higher!**
+
 ### Firmware features
 
 * RTSP, ONVIF, NETIP
