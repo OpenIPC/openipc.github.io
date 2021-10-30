@@ -66,7 +66,7 @@ Telegram groups for new release notifications.
 | Hi3516Ev200 | IMX307_i2c_mipi | XM         |              | [IVG-85HF20PY-S](https://aliexpress.com/item/1005002298832047.html) |  yes   |
 | Hi3516Ev200 | SC4239P_i2c_mipi | XM        |              | [IVG-85HF30PS-S](https://aliexpress.com/item/4000119561119.html)               |  yes   |
 | Hi3516Ev300 | IMX335_i2c_mipi | XM         |              | [IVG-85HG50PYA-S](https://aliexpress.com/item/4000054902736.html)  | yes |
-| SSC335      | SC3335          |            |              | [Unknown](https://aliexpress.com/item/1005001934045796.html)  | yes |
+| SSC335      | SC3335          |            |              | [Uniview](https://aliexpress.com/item/1005001933429701.html)  | yes |
 
 More information about sensors (translated from Russian automatically) - [https://cctvsp.ru](https://translate.google.com/translate?sl=ru&tl=en&u=https://www.cctvsp.ru/articles/obzor-i-sravnenie-matrits-dlya-kamer-videonablyudeniya)
 
