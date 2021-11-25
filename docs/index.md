@@ -55,7 +55,7 @@ We would be grateful for the feedback and suggestions.
 
 ### Firmware
 
-* [openipc-2.1](https://openipc.github.io/firmware) - Firmware development and creation system based on Buildroot
+* [openipc-2.1](https://github.com/OpenIPC/firmware) - Firmware development and creation system based on Buildroot
 * [openipc-1.0](https://github.com/OpenIPC/chaos_calmer) - Firmware development and creation system based on OpenWrt 15.05
 * [coupler](https://github.com/OpenIPC/coupler) - Seamless transition between video cameras firmware
 

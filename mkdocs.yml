@@ -77,8 +77,8 @@ extra_javascript:
 
 nav:
   - "Introduction": index.md
-  - "New OpenIPC 2.1 (Buildroot)": https://github.com/OpenIPC/firmware/wiki
-  - "Old OpenIPC 1.0 (OpenWrt)": firmware.md
+  - "Wiki for new OpenIPC 2.1 (BR)": https://github.com/OpenIPC/firmware/wiki
+  - "Notes for old OpenIPC 1.0 (Wrt)": manual.md
   - "Support OpenSource": sponsor.md
 #  - Language support:
 #    - "English": /
