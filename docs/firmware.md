@@ -1,1 +1,1 @@
-firmware/openipc-1.0.md
+manual/openipc-1.0.md
