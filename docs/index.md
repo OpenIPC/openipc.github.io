@@ -1,5 +1,5 @@
 
-<div style="text-align:center"><img src="https://openipc.org/images/images/logo_openipc.png" width="300" /></div>
+<div style="text-align:center"><img src="https://openipc.org/images/logo_openipc.png" width="300" /></div>
 
 ---------------------------------------------------------------------------------
 
