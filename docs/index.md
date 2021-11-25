@@ -54,18 +54,24 @@ We would be grateful for the feedback and suggestions.
 
 ## Team developments
 
-* [openipc-2.1](https://openipc.github.io/openipc-2.1) - Firmware development and creation system based on Buildroot
+### Firmware
+
+* [openipc-2.1](https://openipc.github.io/firmware) - Firmware development and creation system based on Buildroot
 * [openipc-1.0](https://github.com/OpenIPC/chaos_calmer) - Firmware development and creation system based on OpenWrt 15.05
 * [coupler](https://github.com/OpenIPC/coupler) - Seamless transition between video cameras firmware
-* [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
-* [glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT packages
 
 ### Streamers
 
 * [majestic](https://github.com/OpenIPC/majestic_issues/issues) - Universal IPCam streamer
-* [mini](https://github.com/OpenIPC/mini) - Mini and open IP camera streamer
+* [mini](https://github.com/OpenIPC/mini) - OpenSource Mini IP camera streamer
 
-#### Software
+### Tools
+
+* [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
+* [yaml-cli](https://github.com/OpenIPC/yaml-cli) - Simple yaml-cli for OpenIPC project
+* [glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT packages
+
+### Windows
 
 * [exipcam](http://team.openipc.org/exipcam) - Cool utility for repairing IPCam (For Windows, work in Linux via Wine)
 * [ipcam_dms](http://team.openipc.org/ipcam_dms) - IPCam Device Management System (For Windows, work in Linux via Wine)

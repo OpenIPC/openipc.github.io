@@ -81,13 +81,6 @@ nav:
     - "OpenIPC 2.1 (Buildroot)": manual/openipc-2.1.md
     - "OpenIPC 1.0 (OpenWrt)": manual/openipc-1.0.md
     - "Switcam HS303 (ru)": manual/device_hs303.md
-  - "Our projects":
-    - "Firmware":
-      - "OpenIPC 2.1 (Buildroot)": https://github.com/OpenIPC/openipc-2.1
-      - "OpenIPC 1.0 (OpenWrt)": https://github.com/OpenIPC/chaos_calmer
-    - "Utilities":
-      - "ipctool": https://github.com/OpenIPC/ipctool
-      - "yaml-cli": https://github.com/OpenIPC/yaml-cli
   - "Support OpenSource": sponsor.md
 #  - Language support:
 #    - "English": /
