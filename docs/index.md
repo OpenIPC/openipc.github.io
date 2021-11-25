@@ -7,7 +7,7 @@
 
 The OpenIPC is a alternative [firmware](https://github.com/OpenIPC) for IP cameras and kind of umbrella for other projects that are components of our system.
 
-The OpenIPC is a Linux operating system based on Buildroot/OpenWrt projects and targeting IP cameras with chipsets from different vendors, starting with HiSilicon Hi35xx, XiongmaiTech XM5xx and SigmaStar SSC335.
+The OpenIPC is a Linux operating system based on Buildroot/OpenWrt projects and targeting IP cameras with chipsets from different vendors, starting with Goke GK72xx, HiSilicon Hi35xx, SigmaStar SSC33x and XiongmaiTech XM5xx.
 
 [Igor Zalatov](https://web.telegram.org/#/im?p=@FlyRouter) - project founder and development coordinator.
 
@@ -61,7 +61,7 @@ We would be grateful for the feedback and suggestions.
 
 ### Streamers
 
-* [majestic](https://github.com/OpenIPC/majestic_issues/issues) - Universal IPCam streamer
+* [majestic](https://github.com/OpenIPC/firmware/wiki/majestic_streamer) - Universal IPCam streamer
 * [mini](https://github.com/OpenIPC/mini) - OpenSource Mini IP camera streamer
 
 ### Tools
