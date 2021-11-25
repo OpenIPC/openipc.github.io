@@ -32,8 +32,7 @@ We would be grateful for the feedback and suggestions.
 * [OpenIPC on OpenCollective](https://opencollective.com/openipc) - OpenCollective community
 * [OpenIPC on Docker Hub](https://hub.docker.com/u/openipc) - Docker containers for building
 * [OpenIPC on Twitter](https://twitter.com/openipc) - Our main news
-* [OpenIPC on YouTube](https://www.youtube.com/channel/UCaXlbR2uGTRFh8jQ2lCFd2g) - Our instructions and streams
-* [OpenIPC SDK archive](https://opencollective.com/openipc/updates/restricting-public-access-to-dl-openipc-org-archive-files-from-1-august) - We have created a large collection of SDKs in our team's archive
+* [OpenIPC on YouTube](https://www.youtube.com/channel/UCaXlbR2uGTRFh8jQ2lCFd2g) - Our instructions and streams (in the plans)
 
 ---------------------------------------------------------------------------------
 
@@ -41,9 +40,9 @@ We would be grateful for the feedback and suggestions.
 
 * [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [*](https://combot.org/c/1166652144)
 * [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [*](https://combot.org/c/-1001247643198)
-* [OpenIPC software](https://t.me/openipc_software) (RU) - HiSilicon, XM porting in OpenWrt and programmer issues | [*](https://combot.org/c/-1001196905312)
+* [OpenIPC development](https://t.me/openipc_software) (RU) - HiSilicon, XM porting in OpenWrt and programmer issues | [*](https://combot.org/c/-1001196905312)
 * [OpenIPC advice](https://t.me/openipc_advice) (RU) - problems, finding solutions, long conversations | [*](https://combot.org/c/1385065634)
-* [OpenIPC majestic](https://t.me/joinchat/YgHc5Bg4NOoxOTdi) (RU) - for majestic testers | [*](#)
+* [OpenIPC majestic](https://t.me/joinchat/YgHc5Bg4NOoxOTdi) (RU) - for Majestic streamer testers | [*](#)
 * [OpenIPC Iranian](https://t.me/joinchat/T_GwQUBTJdfXJrFb) (IR) - special group for Iranian users / تیم OpenIPC برای کاربران ایرانی | [*](https://combot.org/c/-1001341239361)
 * [OpenIPC demo](https://t.me/openipc_demo)  (EN/RU) - test bot with buttons, after connecting, give the "/menu" | [*](https://combot.org/c/1414887196)
 * [OpenIPC ExIPCam](https://t.me/ExIPCam) (RU) - ExIPCam program and hardware/software repairing devices | [*](https://combot.org/c/1213889378)

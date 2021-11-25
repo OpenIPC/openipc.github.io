@@ -77,10 +77,8 @@ extra_javascript:
 
 nav:
   - "Introduction": index.md
-  - "Documentation":
-    - "OpenIPC 2.1 (Buildroot)": manual/openipc-2.1.md
-    - "OpenIPC 1.0 (OpenWrt)": manual/openipc-1.0.md
-    - "Switcam HS303 (ru)": manual/device_hs303.md
+  - "New OpenIPC 2.1 (Buildroot)": https://github.com/OpenIPC/firmware/wiki
+  - "Old OpenIPC 1.0 (OpenWrt)": firmware.md
   - "Support OpenSource": sponsor.md
 #  - Language support:
 #    - "English": /
