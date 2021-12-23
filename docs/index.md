@@ -40,7 +40,7 @@ We would be grateful for the feedback and suggestions.
 
 * [New wiki (test)](https://openipc.org/wiki)
 * [Current wiki](https://github.com/OpenIPC/firmware/wiki)
-* [Notes for old OpenIPC 1.0](https://openipc.org/wiki/en/manual)
+* [Notes for old OpenIPC 1.0](https://openipc.org/wiki/en/old-manual)
 
 ---------------------------------------------------------------------------------
 
