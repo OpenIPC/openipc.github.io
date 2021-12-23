@@ -36,16 +36,26 @@ We would be grateful for the feedback and suggestions.
 
 ---------------------------------------------------------------------------------
 
+## Documentation
+
+* [New wiki (test)](https://openipc.org/wiki)
+* [Current wiki](https://github.com/OpenIPC/firmware/wiki)
+
+
+
+---------------------------------------------------------------------------------
+
 ## Telegram chat groups
 
 * [OpenIPC](https://t.me/openipc) (EN) - International channel to discuss the development of our project | [*](https://combot.org/c/1166652144)
-* [OpenIPC modding](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [*](https://combot.org/c/-1001247643198)
+* [OpenIPC users](https://t.me/openipc_modding) (RU) - general issues on modifying IPCam device firmware | [*](https://combot.org/c/-1001247643198)
 * [OpenIPC development](https://t.me/openipc_software) (RU) - HiSilicon, XM porting in OpenWrt and programmer issues | [*](https://combot.org/c/-1001196905312)
 * [OpenIPC advice](https://t.me/openipc_advice) (RU) - problems, finding solutions, long conversations | [*](https://combot.org/c/1385065634)
 * [OpenIPC majestic](https://t.me/joinchat/YgHc5Bg4NOoxOTdi) (RU) - for Majestic streamer testers | [*](#)
-* [OpenIPC Iranian](https://t.me/joinchat/T_GwQUBTJdfXJrFb) (IR) - special group for Iranian users / تیم OpenIPC برای کاربران ایرانی | [*](https://combot.org/c/-1001341239361)
-* [OpenIPC demo](https://t.me/openipc_demo)  (EN/RU) - test bot with buttons, after connecting, give the "/menu" | [*](https://combot.org/c/1414887196)
 * [OpenIPC ExIPCam](https://t.me/ExIPCam) (RU) - ExIPCam program and hardware/software repairing devices | [*](https://combot.org/c/1213889378)
+* [OpenIPC demo](https://t.me/openipc_demo)  (EN/RU) - test bot with buttons, after connecting, give the "/menu" | [*](https://combot.org/c/1414887196)
+* [OpenIPC paywall](https://paywall.pw/openipc) (EN/RU) - paid technical support group | [*](#)
+* [OpenIPC Iranian](https://t.me/joinchat/T_GwQUBTJdfXJrFb) (IR) - special group for Iranian users / تیم OpenIPC برای کاربران ایرانی | [*](https://combot.org/c/-1001341239361)
 * [OpenIPC updates](https://t.me/s/openipc_updates) (RU) - Firmware & Software updates information channel
 * [OpenIPC dev](https://t.me/s/openipc_dev) - Firmware & Software development channel
 
@@ -66,9 +76,12 @@ We would be grateful for the feedback and suggestions.
 
 ### Tools
 
-* [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
-* [yaml-cli](https://github.com/OpenIPC/yaml-cli) - Simple yaml-cli for OpenIPC project
-* [glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT packages
+* [ipctool](https://openipc.org/ipctool) - Simple utility to check hardware information for IP cameras
+* [yaml-cli](https://openipc.org/yaml-cli) - Simple yaml-cli for OpenIPC project
+
+### Packages
+
+* [glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT/OpenIPC packages
 
 ### Windows
 
