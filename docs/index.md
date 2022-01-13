@@ -13,7 +13,7 @@ The OpenIPC is a Linux operating system based on Buildroot/OpenWrt projects and 
 
 [Dmitry Ilyin](https://web.telegram.org/#/im?p=@widgetii), [Maxim Chertov](https://web.telegram.org/#/im?p=@mAX3773), [Sergey Sharshunov](https://web.telegram.org/#/im?p=@USSSSSH) - main participants and co-founders of the project.
 
-[Dmitry Ermakov](https://web.telegram.org/#/im?p=@dimerrr) - responsible developers
+[Dmitry Ermakov](https://web.telegram.org/#/im?p=@dimerrr), [Paul Philippov](https://web.telegram.org/#/im?p=@themactep) - responsible developers
 
 Everyone is welcome and can use/contribute to project in any way they find useful !
 
