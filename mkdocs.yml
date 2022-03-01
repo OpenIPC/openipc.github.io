@@ -54,7 +54,7 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: fontawesome/solid/mailbox
+    - icon: fontawesome/solid/mail-bulk
       link: mailto:dev@openipc.org
     - icon: fontawesome/brands/telegram
       link: https://t.me/openipc
