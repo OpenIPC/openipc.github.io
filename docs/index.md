@@ -67,10 +67,6 @@ We would be grateful for the feedback and suggestions.
 * [ipctool](https://openipc.org/ipctool) - Simple utility to check hardware information for IP cameras
 * [yaml-cli](https://openipc.org/yaml-cli) - Simple yaml-cli for OpenIPC project
 
-### Packages
-
-* [glutinium](https://github.com/ZigFisher/Glutinium) - Additional OpenWRT/OpenIPC packages
-
 ### Windows
 
 * [exipcam](http://team.openipc.org/exipcam) - Cool utility for repairing IPCam (For Windows, work in Linux via Wine)
