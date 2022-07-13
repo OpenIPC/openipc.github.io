@@ -1,5 +1,5 @@
 
-<div style="text-align:center"><img src="https://openipc.org/images/logo_openipc.png" width="300" /></div>
+<div style="text-align:center"><img src="https://openipc.github.io/images/logo_openipc.png" width="300" /></div>
 
 ---------------------------------------------------------------------------------
 
@@ -64,8 +64,8 @@ We would be grateful for the feedback and suggestions.
 
 ### Tools
 
-* [ipctool](https://openipc.org/ipctool) - Simple utility to check hardware information for IP cameras
-* [yaml-cli](https://openipc.org/yaml-cli) - Simple yaml-cli for OpenIPC project
+* [ipctool](https://openipc.github.io/ipctool) - Simple utility to check hardware information for IP cameras
+* [yaml-cli](https://openipc.github.io/yaml-cli) - Simple yaml-cli for OpenIPC project
 
 ### Windows
 
