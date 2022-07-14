@@ -28,44 +28,11 @@ We would be grateful for the feedback and suggestions.
 
 ## Official links
 
-* [OpenIPC on Wiki](https://openipc.github.io/wiki) - Collection of various documentation and instructions
 * [OpenIPC on GitHub](https://github.com/OpenIPC/) - GitHub organization, most projects are hosted here
-* [OpenIPC on OpenCollective](https://opencollective.com/openipc) - OpenCollective community
-* [OpenIPC on Twitter](https://twitter.com/openipc) - Our main news
-* [OpenIPC on YouTube](https://www.youtube.com/channel/UCaXlbR2uGTRFh8jQ2lCFd2g) - Our instructions and streams (in the plans)
-
----------------------------------------------------------------------------------
-
-## Telegram chat groups
-
-* [OpenIPC](https://t.me/openipc) - International channel to discuss the development of our project | [*](https://combot.org/c/1166652144)
-* [OpenIPC users](https://t.me/openipc_modding) - general issues on modifying IPCam device firmware | [*](https://combot.org/c/-1001247643198)
-* [OpenIPC development](https://t.me/openipc_software) - HiSilicon, XM porting in OpenWrt and programmer issues | [*](https://combot.org/c/-1001196905312)
-* [OpenIPC majestic](https://t.me/joinchat/YgHc5Bg4NOoxOTdi) - for Majestic streamer testers | [*](#)
-* [OpenIPC ExIPCam](https://t.me/ExIPCam) - ExIPCam program and hardware/software repairing devices | [*](https://combot.org/c/1213889378)
-* [OpenIPC demo](https://t.me/openipc_demo) - test bot with buttons, after connecting, give the "/menu" | [*](https://combot.org/c/1414887196)
-* [OpenIPC paywall](https://paywall.pw/openipc) - paid technical support group | [*](#)
-* [OpenIPC Iranian](https://t.me/joinchat/T_GwQUBTJdfXJrFb) - special group for Iranian users / تیم OpenIPC برای کاربران ایرانی | [*](https://combot.org/c/-1001341239361)
-* [OpenIPC dev](https://t.me/s/openipc_dev) - Firmware & Software development channel
 
 ---------------------------------------------------------------------------------
 
 ## Team developments
-
-### Firmware
-
-* [openipc-2.2](https://github.com/OpenIPC/firmware) - Firmware development and creation system based on Buildroot
-* [coupler](https://github.com/OpenIPC/coupler) - Seamless transition between video cameras firmware
-
-### Streamers
-
-* [majestic](https://github.com/OpenIPC/firmware/wiki/majestic_streamer) - Universal IPCam streamer
-* [mini](https://github.com/OpenIPC/mini) - OpenSource Mini IP camera streamer
-
-### Tools
-
-* [ipctool](https://openipc.org/ipctool) - Simple utility to check hardware information for IP cameras
-* [yaml-cli](https://openipc.org/yaml-cli) - Simple yaml-cli for OpenIPC project
 
 ### Windows
 
@@ -85,3 +52,4 @@ We would be grateful for the feedback and suggestions.
 | [![TECHNO_SHIELD logo](https://openipc.github.io/images/partner_techno-shield_mini.png "TECHNO_SCHIELD logo")](https://msvoko.ru) | [![VIXAND logo](https://openipc.github.io/images/partner_vixand_mini.png "VIXAND logo")](http://vixand.ru) | [![WEBGLAZOK logo](https://openipc.github.io/images/partner_webglazok_mini.png "WEBGLAZOK logo")](https://webglazok.com) | [![YUCCA logo](https://openipc.github.io/images/partner_yucca_mini.png "YUCCA logo")](https://yucca.app/en) |
 | [![S-VIDEO logo](https://openipc.github.io/images/partner_s-video_mini.png "S-Video logo")](https://www.cctvsp.ru/cctv/openipc) | [![LINUXCHENXING logo](https://openipc.github.io/images/partner_linuxchenxing_mini.png "LINUXCHENXING logo")](https://linux-chenxing.org)  | [![UFANET logo](https://openipc.github.io/images/partner_ufanet_mini.png "UFANET logo")](https://www.ufanet.ru/) | [![VTL logo](https://openipc.github.io/images/partner_vtl_mini.png "VTL logo")](https://vtl.su/#rec35109538) |
 | [![DOZOR logo](https://openipc.github.io/images/partner_dozor_mini.png "DOZOR logo")](https://dozor-smart.ru) |  [![ALARMSYSTEM logo](https://openipc.github.io/images/partner_alarmsystem_mini.png "ALARMSYSTEM logo")](https://alarmsystem-cctv.ru/product-category/cctv-products/cctv-cameras/ip-cameras-cctv/?swoof=1&product_brands=openipc&really_curr_tax=189-product_cat) | [![BINARY_MACHINES logo](https://openipc.github.io/images/partner_binary-machines_mini.png "BINARY_MACHINES logo")](http://bmachines.ru) | |
+
