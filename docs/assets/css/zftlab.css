@@ -1,9 +1,0 @@
-img[src*='#left'] {
-    text-align: left;
-}
-img[src*='#right'] {
-    text-align: right;
-}
-img[src*='#center'] {
-    text-align: center;
-}
