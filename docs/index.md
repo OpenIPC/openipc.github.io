@@ -3,6 +3,22 @@
 
 ---
 
+## OpenIPC firmware
+_(based on Buildroot)_
+
+OpenIPC is a rapidly developing open source alternative firmware for popular IP
+cameras from an [open community](https://opencollective.com/openipc).
+
+Historically, OpenIPC firmware only supported SoC manufactured by HiSilicon,
+but as the development continues, the list of supported processors expands.
+Today, it also includes chips from Ambarella, Anyka, Fullhan, Goke, GrainMedia,
+Ingenic, MStar, Novatek, SigmaStar, XiongMai, and is expected to grow further.
+
+More information about the project is available in our [wiki][wiki] and on the
+[website][website].
+
+---
+
 * [coupler](https://openipc.github.io/coupler/)
 * [firmware](https://openipc.github.io/firmware/)
 * [ipctool](https://openipc.github.io/ipctool/)
@@ -12,3 +28,7 @@
 * [telemetry](https://openipc.github.io/telemetry/)
 * [yaml-cli](https://openipc.github.io/yaml-cli/)
 * [wiki](https://openipc.github.io/wiki/)
+
+
+[wiki]: https://openipc.github.io/wiki/
+[website]: https://openipc.org/
