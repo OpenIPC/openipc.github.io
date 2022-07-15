@@ -1,8 +1,4 @@
 
-<div style="text-align:center"><img src="https://openipc.github.io/images/logo_openipc.png" width="300" /></div>
-
----
-
 ## OpenIPC firmware
 _(based on Buildroot)_
 
@@ -17,7 +13,8 @@ Ingenic, MStar, Novatek, SigmaStar, XiongMai, and is expected to grow further.
 More information about the project is available in our [wiki][wiki] and on the
 [website][website].
 
----
+
+## Our Projects
 
 * [coupler](https://openipc.github.io/coupler/)
 * [firmware](https://openipc.github.io/firmware/)
@@ -28,6 +25,7 @@ More information about the project is available in our [wiki][wiki] and on the
 * [telemetry](https://openipc.github.io/telemetry/)
 * [yaml-cli](https://openipc.github.io/yaml-cli/)
 * [wiki](https://openipc.github.io/wiki/)
+
 
 
 [wiki]: https://openipc.github.io/wiki/
