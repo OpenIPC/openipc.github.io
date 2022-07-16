@@ -1,5 +1,4 @@
-
-## OpenIPC firmware
+<h1>OpenIPC firmware</h1>
 _(based on Buildroot)_
 
 OpenIPC is a rapidly developing open source alternative firmware for popular IP
@@ -10,8 +9,8 @@ but as the development continues, the list of supported processors expands.
 Today, it also includes chips from Ambarella, Anyka, Fullhan, Goke, GrainMedia,
 Ingenic, MStar, Novatek, SigmaStar, XiongMai, and is expected to grow further.
 
-More information about the project is available in our [wiki][wiki] and on the
-[website][website].
+More information about the project is available in our [website][website] and 
+on the [wiki][wiki].
 
 
 ## Our Projects
