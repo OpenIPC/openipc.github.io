@@ -1,4 +1,4 @@
-## OpenIPC firmware   [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
+## OpenIPC firmware   [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]   [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)][paypal]
 _(based on Buildroot)_
 
 OpenIPC is a rapidly developing open source alternative [firmware][firmware] for 
@@ -13,8 +13,10 @@ expected to grow further.
 More information about the [project][project] is available in our [website][website]
 and on the [wiki][wiki].
 
+
 [firmware]: https://github.com/openipc/firmware/
 [gitter]: https://gitter.im/openipc
+[paypal]: https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS
 [project]: https://github.com/openipc/
 [website]: https://openipc.org/
 [wiki]: https://openipc.github.io/wiki/
