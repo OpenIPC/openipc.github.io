@@ -1,6 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="REFRESH" content="3;url=http://openipc.org">
+<meta charset="utf-8">
+<meta content="0;url=http://github.com/openipc/wiki" http-equiv="refresh">
+<meta content="no-store" name="cache-control">
+<title>OpenIPC wiki</title>
 </head>
-Redirect page..
+<body>
+</body>
 </html>
