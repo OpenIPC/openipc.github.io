@@ -1,6 +1,6 @@
 ![OpenIPC logo](images/logo_openipc.png)
 
-## Alternative open firmware for your IP camera  [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)][paypal]
+## Alternative open firmware for your IP camera  [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 _(based on Buildroot)_
 
 OpenIPC is an open source operating system from the [open community](opencollective)
@@ -32,10 +32,10 @@ and on the [wiki][wiki].
 
 
 [firmware]: https://github.com/openipc/firmware/
-[gitter]: https://gitter.im/openipc
 [mit]: https://opensource.org/license/mit/
 [opencollective]: https://opencollective.com/openipc
 [paypal]: https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS
 [project]: https://github.com/openipc/
+[telegram]: https://t.me/OpenIPC
 [website]: https://openipc.org/
 [wiki]: https://github.com/openipc/wiki/
