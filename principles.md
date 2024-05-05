@@ -25,8 +25,8 @@ The main headquarters of our international organization is located in Sanremo, I
 
 If you carefully read first page of our website and the welcome message on GitHub, then on the title page you will find all the phrases that explain the essence of our project (the fact that no one reads it is not our fault, sorry).
 
-- https://openipc.org/
-- https://github.com/openipc
+- [https://openipc.org](https://openipc.org)
+- [https://github.com/openipc](https://github.com/openipc)
 
 The essence of our project is to create an OPEN COMMUNITY (which we did all together) whose goal is the research and development of alternative OPEN firmware.
 
@@ -89,14 +89,12 @@ Any proposals to divide the code into dynamic libraries, unfortunately, will not
 As for telemetry, we do collect it and it is written on the wiki on the Majestic streamer page.
 When you turn on the device, an ANIMAL request is sent to the DNS server, transmitting data about the processor used, sensor and version of the streamer, only for statistics and analysis. 
 This is a kind of help for developers during research and debugging, nothing more.
-Telemetry can be disabled at any time in the configuration file /etc/majestic.yaml
+Telemetry can be disabled at any time in the configuration file `/etc/majestic.yaml`
 
 
 ### Source code of OpenIPC projects
 
-We support 85 repositories, which you can check out here:
-
-- https://github.com/orgs/OpenIPC/repositories?type=all
+We support 85 repositories, which you can check out [here](https://github.com/orgs/OpenIPC/repositories?type=all)
 
 Please note that many of them are original, meaning we generate new content.
 
@@ -104,25 +102,25 @@ We have more than a thousand likes (stars) and hundreds of forks of our reposito
 
 Many of our repositories have no analogues and take part in other projects. Here are some of them:
 
-- https://github.com/OpenIPC/ipctool
-- https://github.com/OpenIPC/smolrtsp
-- https://github.com/OpenIPC/mini
-- https://github.com/OpenIPC/openhisilicon
-- https://github.com/OpenIPC/silicon_research
-- https://github.com/OpenIPC/osd
-- https://github.com/OpenIPC/devourer
-- https://github.com/OpenIPC/configurator
-- https://github.com/OpenIPC/snander-mstar
-- https://github.com/OpenIPC/firmware
-- https://github.com/OpenIPC/builder
-- https://github.com/OpenIPC/coupler
+- [https://github.com/OpenIPC/ipctool](https://github.com/OpenIPC/ipctool)
+- [https://github.com/OpenIPC/smolrtsp](https://github.com/OpenIPC/smolrtsp)
+- [https://github.com/OpenIPC/mini](https://github.com/OpenIPC/mini)
+- [https://github.com/OpenIPC/openhisilicon](https://github.com/OpenIPC/openhisilicon)
+- [https://github.com/OpenIPC/silicon_research](https://github.com/OpenIPC/silicon_research)
+- [https://github.com/OpenIPC/osd](https://github.com/OpenIPC/osd)
+- [https://github.com/OpenIPC/devourer](https://github.com/OpenIPC/devourer)
+- [https://github.com/OpenIPC/configurator](https://github.com/OpenIPC/configurator)
+- [https://github.com/OpenIPC/snander-mstar](https://github.com/OpenIPC/snander-mstar)
+- [https://github.com/OpenIPC/firmware](https://github.com/OpenIPC/firmware)
+- [https://github.com/OpenIPC/builder](https://github.com/OpenIPC/builder)
+- [https://github.com/OpenIPC/coupler](https://github.com/OpenIPC/coupler)
 
 
 ### Hardware
 
 Our OpenIPC community found the strength to develop, make and release a test batch of URLLC video camera devices designed for robotics:
 
-- https://store.openipc.org
+- [https://store.openipc.org](https://store.openipc.org)
 
 We started with this direction because it was in enough demand to start and there were many enthusiasts there ready to try.
 But our next step is to establish partnerships with the factory and produce boards of standard size 38x38 on an ongoing basis.
