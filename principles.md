@@ -82,7 +82,10 @@ For those who have doubts, they can look at the source code of the Mini streamer
 
 Yes, yes, Mini is the younger brother of Majestic and if no one wants to put effort into its code, especially among colleagues who criticize our project, then I think they will not have the strength to deal with Majestic, since it is more complex.
 
-Majestic code consists of 65-70% of the volume of our open libraries, 20-25% of the proprietary SDK components, and 10-15% of this "glue" paid for by R&D sponsors.
+Majestic code consists of:
+- 65-70% of the volume of our open libraries,
+- 20-25% of the proprietary SDK components,
+- 10-15% of this "glue" paid for by R&D sponsors.
 
 Any proposals to divide the code into dynamic libraries, unfortunately, will not work, since it greatly increases the volume and we will not be able to get the firmware to work on NOR flash 8 M, and it also complicates the interaction scheme of components and code and worsens stability. We tried to go this route and were forced to abandon it based on testing results.
 
