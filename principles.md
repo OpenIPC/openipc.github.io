@@ -10,9 +10,13 @@ _(based on Buildroot)_
 
 The OpenIPC community brings together a large number of developers and interested users who contribute to improving existing and creating new firmware, adding functions, and supporting new processors.
 
-Our community is registered on the OpenCollective platform, on the source code site GitHub, as well as on social networks such as YouTube, Twitter, Facebook and others.
+Our community is registered as an organization on the OpenCollective platform, as an organization on  the GitHub, as well as on social networks such as YouTube, Twitter, Facebook and others.
 
-OpenIPC is officially represented in 11 countries, has multiple state registrations of our developments and protection of our brand name, which is already quite recognizable on the Internet.
+We give membership to the OpenIPC organization on GitHub if a person makes a few commits, PR, opens an Issue, and participates in our community.
+
+We give membership in the organization forever, regardless of whether the person continues to collaborate and develop the project or whether it was his temporary enthusiasm and initiative.
+
+OpenIPC is officially represented in 11 countries, has documented of our developments and protection of our brand name, which is already quite recognizable on the Internet.
 
 The main headquarters of our international organization is located in Sanremo, Italy.
 
@@ -90,9 +94,11 @@ Telemetry can be disabled at any time in the configuration file /etc/majestic.ya
 
 ### Source code of OpenIPC projects
 
-We support 85 repositories, which you can check out here - https://github.com/orgs/OpenIPC/repositories?type=all
+We support 85 repositories, which you can check out here:
 
-Please note that many of them are original, meaning we generate content and do not multiply forks like others do.
+- https://github.com/orgs/OpenIPC/repositories?type=all
+
+Please note that many of them are original, meaning we generate new content.
 
 We have more than a thousand likes (stars) and hundreds of forks of our repositories.
 
@@ -114,9 +120,13 @@ Many of our repositories have no analogues and take part in other projects. Here
 
 ### Hardware
 
-Our OpenIPC community found the strength to develop, make and release a test batch of URLLC video camera devices designed for robotics - https://store.openipc.org
+Our OpenIPC community found the strength to develop, make and release a test batch of URLLC video camera devices designed for robotics:
+
+- https://store.openipc.org
+
 We started with this direction because it was in enough demand to start and there were many enthusiasts there ready to try.
-But our next step is to establish partnerships with the factory and produce boards of standard size 38x38 on an ongoing basis. Some of the HARDWARE source code has already been published in our repository on GitHub.
+But our next step is to establish partnerships with the factory and produce boards of standard size 38x38 on an ongoing basis.
+Some of the HARDWARE source code has already been published in our repository on GitHub.
 
 We also have our own record and our video camera with OpenIPC firmware descended to a depth of 1415 meters. I think this is one of the deepest and most far-reaching uses of our system.
 
