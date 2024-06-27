@@ -1,4 +1,5 @@
-# All contributors' faces - 105
+![OpenIPC logo][logo]
+## All contributors' faces - 105
 
 [<img src="https://avatars.githubusercontent.com/u/88846?v=4" width="40px;"/>](https://github.com/ZigFisher)
 [<img src="https://avatars.githubusercontent.com/u/68112357?v=4" width="40px;"/>](https://github.com/flyrouter)
@@ -106,3 +107,4 @@
 [<img src="https://avatars.githubusercontent.com/u/41531939?v=4" width="40px;"/>](https://github.com/Lignium)
 [<img src="https://avatars.githubusercontent.com/u/93122869?v=4" width="40px;"/>](https://github.com/max-ermilov)
 
+[logo]: https://openipc.org/assets/openipc-logo-black.svg
