@@ -7,7 +7,7 @@ _(based on Buildroot)_
 
 ### Important
 
-This table will show orders placed in the OpenIPC store that have any problems.
+This table will show orders placed in the [OpenIPC store](https://store.openipc.org) that have any problems.
 
 If your order is not here, you can rest assured for now.
 
