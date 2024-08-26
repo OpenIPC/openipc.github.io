@@ -10,7 +10,7 @@ _(based on Buildroot)_
 >
 > If your order is not here, you can rest assured for now.
 > 
-> 2024.08.26
+> 2024.08.25
 
 
 | Order  | Country         | Existing problem                              | Current status                                | Actions taken or expected                                    |
@@ -21,7 +21,7 @@ _(based on Buildroot)_
 | 203    | India           | Parcel returned by China Post                 | We are waiting for a decision                 |                                                              |
 | 196    | United States   | No movement since Aug 14th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
 | 195    | United States   | No movement since Aug 14th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
-| 193    | Vietnam         | Returned by China Post                        | In motion, everything is fine at the moment   | AIO resent again by another service with a new track         |
+| 193    | Vietnam         | Parcel Returned by China Post                 | In motion, everything is fine at the moment   | AIO resent again by another service with a new track         |
 | 188    | United States   | No movement since Aug 13th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
 | 183    | United States   | No movement since Aug 14th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
 | 178    | France          | Failed to delivery                            | Forwarded to pickup point                     | The user must pick up the parcel himself                     |
