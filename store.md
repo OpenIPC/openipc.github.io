@@ -5,13 +5,15 @@ _(based on Buildroot)_
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
-> [!IMPORTANT]
-> This table will show orders placed in the OpenIPC store that have any problems.
->
-> If your order is not here, you can rest assured for now.
-> 
-> 2024.08.25
+### Important
 
+This table will show orders placed in the OpenIPC store that have any problems.
+
+If your order is not here, you can rest assured for now.
+
+Last updated - 2024.08.25
+
+### Statuses
 
 | Order  | Country         | Existing problem                              | Current status                                | Actions taken or expected                                    |
 |:------:|-----------------|-----------------------------------------------|-----------------------------------------------|--------------------------------------------------------------|
