@@ -15,17 +15,17 @@ Last updated - 2024.08.25
 
 ### Statuses
 
-| Order | Country         | Existing problem                | Current status                                | Actions taken or expected                              |
-|:-----:|-----------------|---------------------------------|-----------------------------------------------|--------------------------------------------------------|
-|       |                 |                                 |                                               |                                                        |
-| 257   | India           | Parcel returned by China Post   | We are waiting for a decision                 |                                                        |
-| 242   | Argentina       | Parcel returned by China Post   | We are waiting for a decision                 |                                                        |
-| 215   | India           | Parcel returned by China Post   | We are waiting for a decision                 |                                                        |
-| 203   | India           | Parcel returned by China Post   | We are waiting for a decision                 |                                                        |
-| 193   | Vietnam         | Parcel Returned by China Post   | In motion, everything is fine at the moment   | AIO resent again by another service with a new track   |
-| 178   | France          | Failed to delivery              | Forwarded to pickup point                     | The user must pick up the parcel himself               |
-| 137   | Indonesia       | No movement since Aug 12th      | Potential risks of losing a parcel            | Need to pay customs tax by user                        |
-| 126   | United States   | No movement since Aug 13th      | Potential risks of losing a parcel            | The user must contact the delivery service             |
+| Order | Country         | Existing problem        | Current status                     | Actions taken or expected                              |
+|:-----:|-----------------|-------------------------|------------------------------------|--------------------------------------------------------|
+|       |                 |                         |                                    |                                                        |
+| 257   | India           | Parcel returned by Post | We are waiting for a decision      |                                                        |
+| 242   | Argentina       | Parcel returned by Post | We are waiting for a decision      |                                                        |
+| 215   | India           | Parcel returned by Post | We are waiting for a decision      |                                                        |
+| 203   | India           | Parcel returned by Post | We are waiting for a decision      |                                                        |
+| 193   | Vietnam         | Parcel returned by Post | In motion with new track           | AIO resent again by another service with a new track   |
+| 178   | France          | Failed to delivery      | Forwarded to pickup point          | The user must pick up the parcel himself               |
+| 137   | Indonesia       | No movement / Aug 12th  | Potential risks of losing a parcel | Need to pay customs tax by user                        |
+| 126   | United States   | No movement / Aug 13th  | Potential risks of losing a parcel | The user must contact the delivery service             |
 
 
 
