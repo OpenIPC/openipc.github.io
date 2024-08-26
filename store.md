@@ -8,24 +8,26 @@ _(based on Buildroot)_
 > [!IMPORTANT]
 > This table will show orders placed in the OpenIPC store that have any problems.
 >
+> If your order is not here, you can rest assured for now.
+> 
 > 2024.08.26
 
 
-| Order  | Country         | Existing problem                              | Current status                  | Actions taken                                            |
-|:------:|-----------------|-----------------------------------------------|---------------------------------|----------------------------------------------------------|
-|        |                 |                                               |                                 |                                                          |
-| 242    | Argentina       | Parcel returned by China Post                 |                                 |                                                          |
-| 215    | India           | Parcel returned by China Post                 |                                 |                                                          |
-| 203    | India           | Parcel returned by China Post                 |                                 |                                                          |
-| 196    | United States   | No movement since Aug 14th                    |                                 |                                                          |
-| 195    | United States   | No movement since Aug 14th                    |                                 |                                                          |
-| 193    | Vietnam         | Returned by China Post                        |                                 | AIO resent again by another service with a new track     |
-| 188    | United States   | No movement since Aug 13th                    |                                 |                                                          |
-| 183    | United States   | No movement since Aug 14th                    |                                 |                                                          |
-| 178    | France          | Failed to delivery                            | Forwarded to pickup point       |                                                          |
-| 177    | United States   | No movement since Aug 14th                    |                                 |                                                          |
-| 137    | Indonesia       | No movement since Aug 12th                    |                                 | Need to pay customs tax by user                          |
-| 126    | United States   | No movement since Aug 13th                    |                                 |                                                          |
+| Order  | Country         | Existing problem                              | Current status                                | Actions taken or expected                                    |
+|:------:|-----------------|-----------------------------------------------|-----------------------------------------------|--------------------------------------------------------------|
+|        |                 |                                               |                                               |                                                              |
+| 242    | Argentina       | Parcel returned by China Post                 | We are waiting for a decision                 |                                                              |
+| 215    | India           | Parcel returned by China Post                 | We are waiting for a decision                 |                                                              |
+| 203    | India           | Parcel returned by China Post                 | We are waiting for a decision                 |                                                              |
+| 196    | United States   | No movement since Aug 14th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
+| 195    | United States   | No movement since Aug 14th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
+| 193    | Vietnam         | Returned by China Post                        | In motion, everything is fine at the moment   | AIO resent again by another service with a new track         |
+| 188    | United States   | No movement since Aug 13th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
+| 183    | United States   | No movement since Aug 14th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
+| 178    | France          | Failed to delivery                            | Forwarded to pickup point                     | The user must pick up the parcel himself                     |
+| 177    | United States   | No movement since Aug 14th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
+| 137    | Indonesia       | No movement since Aug 12th                    | Potential risks of losing a parcel at customs | Need to pay customs tax by user                              |
+| 126    | United States   | No movement since Aug 13th                    | Potential risks of losing a parcel at customs | The user must contact the delivery service or customs office |
 
 
 
