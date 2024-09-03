@@ -24,9 +24,6 @@ Last updated - 2024.08.31
 | 203   | India           | Parcel returned by Post | In motion with new track           | Resent again by another service with a new track / noted |
 | 193   | Vietnam         | Parcel returned by Post | In motion with new track           | Resent again by another service with a new track / noted |
 | 188   | United States   | No movement / Aug 13th  | Potential risks of losing a parcel | The user must contact the delivery service               |
-| 178   | France          | Failed to delivery      | Forwarded to pickup point          | The user must pick up the parcel himself / noted         |
-
-
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
