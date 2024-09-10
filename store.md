@@ -19,7 +19,6 @@ Last updated - 2024.08.31
 |:-----:|-----------------|-------------------------|------------------------------------|----------------------------------------------------------|
 |       |                 |                         |                                    |                                                          |
 | 257   | India           | Parcel returned by Post | In motion with new track           | Resent again by another service with a new track / noted |
-| 242   | Argentina       | Parcel returned by Post | In motion with new track           | Resent again by another service with a new track / noted |
 | 215   | India           | Parcel returned by Post | In motion with new track           | Resent again by another service with a new track / noted |
 | 203   | India           | Parcel returned by Post | In motion with new track           | Resent again by another service with a new track / noted |
 | 188   | United States   | No movement / Aug 13th  | Potential risks of losing a parcel | The user must contact the delivery service               |
