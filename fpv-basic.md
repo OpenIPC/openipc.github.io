@@ -14,7 +14,7 @@ _(based on Buildroot)_
 
 ## OpenIPC FPV Experts Administrative Board
 
-- Greg (cool fly and experiments)
+- Greg (cool flights and new features testing/experimentation)
 - Eduardo (technical support and documentation)
 - Joakim [steam-groundstations](https://github.com/OpenIPC/steam-groundstations)
 - Marios | [configurator](https://github.com/OpenIPC/configurator) | [telegram](https://t.me/Mario_FPV), [youtube](https://www.youtube.com/@mariofpv)
