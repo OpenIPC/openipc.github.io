@@ -42,7 +42,7 @@ _(based on Buildroot)_
 - [wfb-ng-openwrt](https://github.com/OpenIPC/wfb-ng-openwrt)
 - [devourer](https://github.com/OpenIPC/devourer)
 - [mavfwd](https://github.com/OpenIPC/mavfwd)
-- [msposd](https://github.com/OpenIPC/msposd)
+- [msposd](https://github.com/OpenIPC/msposd) - [issues](https://github.com/OpenIPC/msposd/issues), [roadmap](https://github.com/orgs/OpenIPC/projects/16/views/1)
 - [pyosd](https://github.com/OpenIPC/pyosd)
 - [pixelpilot_rk](https://github.com/OpenIPC/pixelpilot_rk)
 - [steam-groundstations](https://github.com/OpenIPC/steam-groundstations)
