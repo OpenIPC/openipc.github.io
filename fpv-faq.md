@@ -9,6 +9,7 @@ _(based on Buildroot)_
 
 - [Installing the calibration file for SSC338Q/SSC30KQ devices](#installing-the-calibration-file-for-ssc338qssc30kq-devices)
 - [Updating the device firmware from the SD card](#updating-the-device-firmware-from-the-sd-card)
+- [List of OpenIPC repositories used in FPV](#list-of-openipc-repositories-used-in-fpv)
 
 
 ## Installing the calibration file for SSC338Q/SSC30KQ devices
@@ -37,6 +38,25 @@ rm /mnt/mmcblk0p1/imx335_greg15.bin
 - If you did everything correctly, you will be able to see in UART how U-Boot will start updating the firmware when it starts.
 - You can thank the project via [OpenCollective](https://opencollective.com/openipc#category-CONTRIBUTE).
 
+## List of OpenIPC repositories used in FPV
+
+- [firmware](https://github.com/OpenIPC/firmware)
+- [builder](https://github.com/OpenIPC/builder)
+- [pixelpilot](https://github.com/OpenIPC/pixelpilot)
+- [fpv4win](https://github.com/OpenIPC/fpv4win)
+- [sbc-groundstations](https://github.com/OpenIPC/sbc-groundstations)
+- [configurator](https://github.com/OpenIPC/configurator)
+- [improver](https://github.com/OpenIPC/improver)
+- [wfb-ng-openwrt](https://github.com/OpenIPC/wfb-ng-openwrt)
+- [devourer](https://github.com/OpenIPC/devourer)
+- [mavfwd](https://github.com/OpenIPC/mavfwd)
+- [msposd](https://github.com/OpenIPC/msposd)
+- [pyosd](https://github.com/OpenIPC/pyosd)
+- [pixelpilot_rk](https://github.com/OpenIPC/pixelpilot_rk)
+- [steam-groundstations](https://github.com/OpenIPC/steam-groundstations)
+- [sensor-profiles](https://github.com/OpenIPC/sensor-profiles)
+- [silicon_research](https://github.com/OpenIPC/silicon_research)
+- [urllc-webui](https://github.com/OpenIPC/urllc-webui)
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [telegram]: https://openipc.org/our-channels
