@@ -22,6 +22,7 @@ _(based on Buildroot)_
 - Petru Soroaga [rubyfpv](https://rubyfpv.com) [telegram](https://t.me/PetruSoroaga)
 - @Sakalva (sensors)
 - Tipo Man | [msposd](https://github.com/OpenIPC/msposd) | [github](https://github.com/tipoman9), [telegram](https://t.me/tipoman), [youtube](https://www.youtube.com/@tipoman9317)
+- CC zhouruixi | 
 
 
 ## Enthusiasts who offer their help
