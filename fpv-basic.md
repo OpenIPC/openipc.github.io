@@ -51,10 +51,25 @@ _(based on Buildroot)_
 - [urllc-webui](https://github.com/OpenIPC/urllc-webui)
 
 
-| Repository                                 | Issues                                            | Roadmap                                                       | Curators                       |
-|:------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------:|
-|[msposd](https://github.com/OpenIPC/msposd) |[yes](https://github.com/OpenIPC/msposd/issues)    |[yes](https://github.com/orgs/OpenIPC/projects/16/views/1)     |[TipoMan](https://t.me/tipoman) |
-
+| Repository                                                             | Issues                                            | Roadmap                                                       | Curators                       |
+|:----------------------------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------:|
+|[firmware](https://github.com/OpenIPC/firmware)                         |
+|[builder](https://github.com/OpenIPC/builder)                           |
+|[pixelpilot](https://github.com/OpenIPC/pixelpilot)                     |
+|[fpv4win](https://github.com/OpenIPC/fpv4win)                           |
+|[sbc-groundstations](https://github.com/OpenIPC/sbc-groundstations)     |
+|[configurator](https://github.com/OpenIPC/configurator)                 |
+|[improver](https://github.com/OpenIPC/improver)                         |
+|[wfb-ng-openwrt](https://github.com/OpenIPC/wfb-ng-openwrt)             |
+|[devourer](https://github.com/OpenIPC/devourer)                         |
+|[mavfwd](https://github.com/OpenIPC/mavfwd)                             |
+|[msposd](https://github.com/OpenIPC/msposd)                             |[yes](https://github.com/OpenIPC/msposd/issues)    |[yes](https://github.com/orgs/OpenIPC/projects/16/views/1)     |[TipoMan](https://t.me/tipoman) |
+|[pyosd](https://github.com/OpenIPC/pyosd)                               |
+|[pixelpilot_rk](https://github.com/OpenIPC/pixelpilot_rk)               |
+|[steam-groundstations](https://github.com/OpenIPC/steam-groundstations) |
+|[sensor-profiles](https://github.com/OpenIPC/sensor-profiles)           |
+|[silicon_research](https://github.com/OpenIPC/silicon_research)         |
+|[urllc-webui](https://github.com/OpenIPC/urllc-webui)                   |
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [telegram]: https://openipc.org/our-channels
