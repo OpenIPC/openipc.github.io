@@ -51,5 +51,10 @@ _(based on Buildroot)_
 - [urllc-webui](https://github.com/OpenIPC/urllc-webui)
 
 
+| Repository                                 | Issues                                            | Roadmap                                                       | Curators                       |
+|:------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------------------:|:------------------------------:|
+|[msposd](https://github.com/OpenIPC/msposd) |[yes](https://github.com/OpenIPC/msposd/issues)    |[yes](https://github.com/orgs/OpenIPC/projects/16/views/1)     |[TipoMan](https://t.me/tipoman) |
+
+
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [telegram]: https://openipc.org/our-channels
