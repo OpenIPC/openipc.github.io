@@ -5,6 +5,12 @@ _(based on Buildroot)_
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
+## Table of contents
+
+- [Installing the calibration file for SSC338Q/SSC30KQ devices](#installing-the-calibration-file-for-ssc338qssc30kq-devices)
+- [Updating the device firmware from the SD card](#updating-the-device-firmware-from-the-sd-card)
+
+
 ## Installing the calibration file for SSC338Q/SSC30KQ devices
 
 - Take an SD card, delete all partitions on it, create one partition of 1 Gigabyte and format it as FAT32/VFAT.
