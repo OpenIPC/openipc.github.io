@@ -37,7 +37,7 @@ rm /mnt/mmcblk0p1/imx335_greg15.bin
 - Place three files on the SD card and insert it into the device and reboot it.
 - If you did everything correctly, you will be able to see in UART how U-Boot will start updating the firmware when it starts.
 - You can thank the project via [OpenCollective](https://opencollective.com/openipc#category-CONTRIBUTE).
-- 
+
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [telegram]: https://openipc.org/our-channels
