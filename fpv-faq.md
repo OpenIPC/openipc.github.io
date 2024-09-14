@@ -15,7 +15,7 @@ _(based on Buildroot)_
 
 - Take an SD card, delete all partitions on it, create one partition of 1 Gigabyte and format it as FAT32/VFAT.
 - Go to the OpenIPC repository [sensor-profiles](https://github.com/OpenIPC/sensor-profiles/) and download the file you need, for example [imx335_greg15.bin](https://github.com/OpenIPC/sensor-profiles/raw/master/files/imx335_greg15.bin).
-- Create a file named autoconfig.sh in Notepad++ for Windows or text editor in Linux with the following content:
+- Create a file named autoconfig.sh in Notepad++ for Windows or text editor in Linux with the following content:( dont forget to change the bin file name if youre using a different one from the example above)
 ```
 #!/bin/sh
 cp /mnt/mmcblk0p1/imx335_greg15.bin /etc/sensors/imx335_greg15.bin
@@ -34,7 +34,7 @@ rm /mnt/mmcblk0p1/imx335_greg15.bin
 - Go to the OpenIPC repository [Builder](https://github.com/OpenIPC/builder/) and download the firmware you need, for example [mario-aio](https://github.com/OpenIPC/builder/releases/download/latest/ssc338q_fpv_openipc-mario-aio-nor.tgz).
 - Unzip the archive and extract two files from it - rootfs.squashfs.ssc338 and uImage.ssc338q.
 - Download a [file](https://github.com/OpenIPC/firmware/raw/master/general/scripts/boot.scr) with commands for the bootloader, which will perform an automatic update firmware.
-- Place three files on the SD card and insert it into the device and reboot it.
+- Place the three files on the SD card and insert it into the device and reboot it.
 - If you did everything correctly, you will be able to see in UART how U-Boot will start updating the firmware when it starts.
 - You can thank the project via [OpenCollective](https://opencollective.com/openipc#category-CONTRIBUTE).
 
