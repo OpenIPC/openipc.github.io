@@ -17,7 +17,7 @@ Thank you for your understanding.
 
 ### Statuses
 
-**Last updated - 2024.10.07**
+**Last updated - 2024.11.07**
 
 | Order | Country | Existing problem        | Current status                     | Actions taken or expected                                |
 |:-----:|:-------:|-------------------------|------------------------------------|----------------------------------------------------------|
