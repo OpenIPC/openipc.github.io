@@ -25,16 +25,14 @@ Thank you for your understanding.
 | 252   | LT      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Re-send SSC338Q+IMX335 (3) |
 | 248   | NL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
 | 243   | PL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
-| 238   | PL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
+| 238   | PL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Re-send SSC338Q+IMX415 (2) |
 | 233   | PL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
 | 226   | FR      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Re-send SSC338Q+IMX415 (1) |
 | 224   | PL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
 | 221   | NL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Refund (1) |
 | 209   | LV      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
 | 207   | DE      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
-| 199   | FR      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
-| 188   | US      | No movement / Aug 13th  | Potential risks of losing a parcel | The user must contact the delivery service               |
- 
+| 199   | FR      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Re-send SSC338Q+IMX415 (1) |
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [telegram]: https://openipc.org/our-channels
