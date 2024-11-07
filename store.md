@@ -30,7 +30,7 @@ Thank you for your understanding.
 | 226   | FR      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Re-send SSC338Q+IMX415 (1) |
 | 224   | PL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
 | 221   | NL      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Refund (1) |
-| 209   | LV      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
+| 209   | LV      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Re-send SSC338Q+IMX415 (1) |
 | 207   | DE      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | |
 | 199   | FR      | Waiting for customs clearance, customs inspection is expected to begin at the end of the month                      | | Re-send SSC338Q+IMX415 (1) |
 
