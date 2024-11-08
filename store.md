@@ -23,7 +23,7 @@ Thank you for your understanding.
 |:-----:|:-------:|-------------------------|------------------------------------|----------------------------------------------------------|
 |       |         |                         |                                    |                                                          |
 | 252   | LT      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX335 (3) |
-| 248   | NL      | The parcel was lost by the postal service or customs                      | | |
+| 248   | NL      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (1) |
 | 243   | PL      | The parcel was lost by the postal service or customs                      | | |
 | 238   | PL      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (2) |
 | 233   | PL      | The parcel was lost by the postal service or customs                      | | |
