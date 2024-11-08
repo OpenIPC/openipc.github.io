@@ -17,7 +17,7 @@ Thank you for your understanding.
 
 ### Statuses
 
-**Last updated - 2024.11.07**
+**Last updated - 2024.11.08**
 
 | Order | Country | Existing problem        | Current status                     | Actions taken or expected                                |
 |:-----:|:-------:|-------------------------|------------------------------------|----------------------------------------------------------|
@@ -28,7 +28,7 @@ Thank you for your understanding.
 | 238   | PL      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (2) |
 | 233   | PL      | The parcel was lost by the postal service or customs                      | | |
 | 226   | FR      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (1) |
-| 224   | PL      | The parcel was lost by the postal service or customs                      | | |
+| 224   | PL      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX335 (1) |
 | 221   | NL      | The parcel was lost by the postal service or customs                      | | Refund (1) |
 | 209   | LV      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (1) |
 | 207   | DE      | The parcel was lost by the postal service or customs                      | | |
