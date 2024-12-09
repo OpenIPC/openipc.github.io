@@ -17,22 +17,12 @@ Thank you for your understanding.
 
 ### Statuses
 
-**Last updated - 2024.11.08**
+**Last updated - 2024.12.09**
 
 | Order | Country | Existing problem        | Current status                     | Actions taken or expected                                |
 |:-----:|:-------:|-------------------------|------------------------------------|----------------------------------------------------------|
 |       |         |                         |                                    |                                                          |
-| 252   | LT      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX335 (3) |
-| 248   | NL      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (1) |
-| 243   | PL      | The parcel was lost by the postal service or customs | preparing for shipment | Re-send SSC338Q+IMX415 (1) |
-| 238   | PL      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (2) |
-| 233   | PL      | The parcel was lost by the postal service or customs                      | | |
-| 226   | FR      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (1) |
-| 224   | PL      | The parcel was lost by the postal service or customs | preparing for shipment | Re-send SSC338Q+IMX335 (1) |
-| 221   | NL      | The parcel was lost by the postal service or customs                      | | Refund (1) |
-| 209   | LV      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (1) |
-| 207   | DE      | The parcel was lost by the postal service or customs                      | | |
-| 199   | FR      | The parcel was lost by the postal service or customs                      | | Re-send SSC338Q+IMX415 (1) |
+| XYZ   | PG      | The parcel was lost by the postal service or customs         | | Re-send SSC338Q+IMX415 (1) |
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [telegram]: https://openipc.org/our-channels
