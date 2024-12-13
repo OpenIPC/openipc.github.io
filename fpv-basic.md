@@ -10,6 +10,7 @@ _(based on Buildroot)_
 - [OpenIPC FPV Experts Administrative Board](#openipc-fpv-experts-administrative-board)
 - [Enthusiasts who offer their help](#enthusiasts-who-offer-their-help)
 - [List of OpenIPC repositories used in FPV](#list-of-openipc-repositories-used-in-fpv)
+- [List of OpenIPC FPV supported devices](#list-of-openipc-fpv-supported-devices)
 
 
 ## OpenIPC FPV Experts Administrative Board
@@ -71,6 +72,24 @@ _(based on Buildroot)_
 |[sensor-profiles](https://github.com/OpenIPC/sensor-profiles)           |
 |[silicon_research](https://github.com/OpenIPC/silicon_research)         |
 |[urllc-webui](https://github.com/OpenIPC/urllc-webui)                   |
+
+
+## List of OpenIPC FPV supported devices
+
+| Device                   | Vendor   | Processor | Sensor(s)        | WiFi                         |
+|:-------------------------|:--------:|:---------:|:----------------:|:----------------------------:|
+|[AIO "Thinker"](#)        | OpenIPC  | SSC338Q   | IMX335, (IMX415) | RTL8731BU module or External |
+|[AIO "Mario"](#)          | OpenIPC  | SSC338Q   | IMX335, (IMX415) |                              |
+|[AIO "Optimus"](#)        | OpenIPC  | SSC338Q   | IMX415, (IMX335) |                              |
+|[AIO "UltraSight"](#)     | OpenIPC  | SSC338Q   | IMX415, (IMX335) |                              |
+|[one](#)                  | RunCam   | SSC338Q   | IMX415           |                              |
+|[two](#)                  | RunCam   | SSC338Q   | IMX415           |                              |
+|[one](#)                  | Emax USA | SSC338Q   | IMX415           |                              |
+|[two](#)                  | Emax USA | SSC338Q   | IMX415           |                              |
+
+
+
+
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [telegram]: https://openipc.org/our-channels
