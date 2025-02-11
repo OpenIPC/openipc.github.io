@@ -10,7 +10,7 @@ _(based on Buildroot)_
 There should be some text here explaining the principles of entering into this table.
 
 
-### Prototype of compatible devices table
+### List of OpenIPC FPV supported devices
 
 | Device name                   | Vendor    | Processor | Sensor(s)        | WiFi                         |
 |:------------------------------|:---------:|:---------:|:----------------:|:----------------------------:|
