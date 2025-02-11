@@ -74,21 +74,6 @@ _(based on Buildroot)_
 |[urllc-webui](https://github.com/OpenIPC/urllc-webui)                   |
 
 
-## List of OpenIPC FPV supported devices
-
-| Device                   | Vendor    | Processor | Sensor(s)        | WiFi                         |
-|:-------------------------|:---------:|:---------:|:----------------:|:----------------------------:|
-|[AIO "Thinker"](#)        | OpenIPC   | SSC338Q   | IMX335, (IMX415) | RTL8731BU module or External |
-|[AIO "Mario"](#)          | OpenIPC   | SSC338Q   | IMX335, (IMX415) |                              |
-|[AIO "Optimus"](#)        | OpenIPC   | SSC338Q   | IMX415, (IMX335) |                              |
-|[AIO "UltraSight"](#)     | OpenIPC   | SSC338Q   | IMX415, (IMX335) |                              |
-|[one](#)                  | RunCam    | SSC338Q   | IMX415           |                              |
-|[two](#)                  | RunCam    | SSC338Q   | IMX415           |                              |
-|[one](#)                  | Emax USA  | SSC338Q   | IMX415           |                              |
-|[two](#)                  | Emax USA  | SSC338Q   | IMX415           |                              |
-|[CrazyCat R2](#)          | PocketFPV | SSC338Q   | IMX335           |                              |
-|[BigRookie R1](#)         | PocketFPV | SSC338Q   | IMX415           |                              |
-
 
 
 
