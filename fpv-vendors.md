@@ -5,7 +5,7 @@ _(based on Buildroot)_
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
-### Description bla-bla-bla
+### Description 
 
 There should be some text here explaining the principles of entering into this table.
 
