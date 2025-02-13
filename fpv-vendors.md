@@ -5,7 +5,7 @@ _(based on Buildroot)_
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
-### Description bla-bla-bla
+### Description 
 
 This table aims to promote the unification of standards between different vendors in the FPV community. By standardizing MIPI compatibility across various devices, manufacturers can enhance interoperability, streamline development, and improve the overall user experience. OpenIPC encourages vendors to align with open standards, ensuring better compatibility and support for the FPV ecosystem.
 
