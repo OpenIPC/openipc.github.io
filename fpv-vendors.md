@@ -21,17 +21,17 @@ This table aims to promote the unification of standards between different vendor
 |[AIO Optimus v1.0](#)          | [OpenIPC](https://openipc.org)   | SSC338Q   | IMX415           | openIPC          |                              |
 |[AIO UltraSight v1.0](#)       | [OpenIPC](https://openipc.org)   | SSC338Q   | IMX415           | openIPC          |                              |
 |                               |           |           |                  |                    |                              |
-|[one](#)                       | RunCam    | SSC338Q   | IMX ?            | ?                  |                              |
-|[two](#)                       | RunCam    | SSC338Q   | IMX ?            | ?                  |                              |
+|[one](#)                       | [RunCam](https://www.runcam.com/)    | SSC338Q   | IMX ?            | proprietary        |                              |
+|[two](#)                       | [RunCam](https://www.runcam.com/)    | SSC338Q   | IMX ?            | proprietary        |                              |
 |                               |           |           |                  |                    |                              |
-|[one](#)                       | Emax USA  | SSC338Q   | IMX ?            | ?                  |                              |
-|[two](#)                       | Emax USA  | SSC338Q   | IMX ?            | ?                  |                              |
+|[one](#)                       | [Emax USA](https://emax-usa.com/)  | SSC338Q   | IMX ?            | proprietary        |                              |
+|[two](#)                       | [Emax USA](https://emax-usa.com/)  | SSC338Q   | IMX ?            | proprietary        |                              |
 |                               |           |           |                  |                    |                              |
-|[CrazyCat R2](#)               | PocketFPV | SSC338Q   | IMX ?            | ?                  |                              |
-|[BigRookie R1](#)              | PocketFPV | SSC338Q   | IMX ?            | ?                  |                              |
+|[CrazyCat R2](#)               | PocketFPV | SSC338Q   | IMX ?            | not compatible     |                              |
+|[BigRookie R1](#)              | PocketFPV | SSC338Q   | IMX ?            | not compatible     |                              |
 |                               |           |           |                  |                    |                              |
-|[OIPC S338](#)                 | ElfinRC   | SSC338Q   | IMX ?            | ?                  |                              |
-|[Mini IPC](https://www.youtube.com/watch?v=eQ_vbyScS4c) | ElfinRC   | SSC338Q   | IMX415            | ?   
+|[OIPC S338](#)                 | ElfinRC   | SSC338Q   | IMX ?            | not compatible                  |                              |
+|[Mini IPC](https://www.youtube.com/watch?v=eQ_vbyScS4c) | ElfinRC   | SSC338Q   | IMX415            | not compatible |  |   
 
 
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
