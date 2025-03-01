@@ -1,16 +1,16 @@
 ![OpenIPC logo][logo]
 
-# Alternative open firmware for your IP camera
+## Alternative open firmware for your IP camera
 _(based on Buildroot)_
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
-## A 2024 Year of Innovation
+### A 2024 Year of Innovation
 
 Welcome to a special edition highlighting the most impactful developments within the OpenIPC project over the past year.
 The community's dedication has driven significant progress, and we're excited to share these achievements with you.
 
-### Key Developments in FPV section
+#### Key Developments in FPV section
 
 - AIO Devices Take Flight: OpenIPC led the charge in bringing All-In-One (AIO) devices to the forefront. Our team was the first to release AIO devices based on OpenIPC firmware, setting the trend for others.
 - MSPOSD Enhanced with VTX Menu: The Mario unit's base firmware now supports the latest MSPOSD, complete with a VTX menu. Updates are ongoing, and the new vtxmenu.ini is already in the configurator.
