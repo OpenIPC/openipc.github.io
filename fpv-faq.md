@@ -1,17 +1,17 @@
 ![OpenIPC logo][logo]
 
-# Alternative open firmware for your IP camera
+## Alternative open firmware for your IP camera
 _(based on Buildroot)_
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
-## Table of contents
+### Table of contents
 
 - [Installing the calibration file for SSC338Q/SSC30KQ devices](#installing-the-calibration-file-for-ssc338qssc30kq-devices)
 - [Updating the device firmware from the SD card](#updating-the-device-firmware-from-the-sd-card)
 
 
-## Installing the calibration file for SSC338Q/SSC30KQ devices
+### Installing the calibration file for SSC338Q/SSC30KQ devices
 
 - Take an SD card, delete all partitions on it, create one partition of 1 Gigabyte and format it as FAT32/VFAT.
 - Go to the OpenIPC repository [sensor-profiles](https://github.com/OpenIPC/sensor-profiles/) and download the file you need, for example [imx335_greg15.bin](https://github.com/OpenIPC/sensor-profiles/raw/master/files/imx335_greg15.bin).
@@ -28,7 +28,7 @@ rm /mnt/mmcblk0p1/imx335_greg15.bin
 - You can thank the project via [OpenCollective](https://opencollective.com/openipc#category-CONTRIBUTE).
 
 
-## Updating the device firmware from the SD card
+### Updating the device firmware from the SD card
 
 - Take an SD card, delete all partitions on it, create one partition of 1 Gigabyte and format it as FAT32/VFAT.
 - Go to the OpenIPC repository [Builder](https://github.com/OpenIPC/builder/) and download the firmware you need, for example [mario-aio](https://github.com/OpenIPC/builder/releases/download/latest/ssc338q_fpv_openipc-mario-aio-nor.tgz).
@@ -39,5 +39,16 @@ rm /mnt/mmcblk0p1/imx335_greg15.bin
 - You can thank the project via [OpenCollective](https://opencollective.com/openipc#category-CONTRIBUTE).
 
 
+<p align="center">
+<a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="250" alt="Open Collective donate button"></a>
+</p>
+
+[firmware]: https://github.com/openipc/firmware
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
+[mit]: https://opensource.org/license/mit
+[opencollective]: https://opencollective.com/openipc
+[paypal]: https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS
+[project]: https://github.com/openipc
 [telegram]: https://openipc.org/our-channels
+[website]: https://openipc.org
+[wiki]: https://github.com/openipc/wiki
