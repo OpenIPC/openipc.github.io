@@ -9,6 +9,8 @@ _(based on Buildroot)_
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
+### Introduction
+
 OpenIPC is an open source operating system from the [open community][opencollective]
 targeting for IP cameras with ARM and MIPS processors from several manufacturers in
 order to replace that closed, opaque, insecure, often abandoned and unsupported
