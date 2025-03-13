@@ -22,7 +22,8 @@ further development and improvement by any capable programmer willing to
 contribute to the project. OpenIPC source code is released under one of the most
 simple open source license agreements, [MIT License][mit], giving users express
 permission to reuse code for any purpose, even as part of a proprietary software.
-We only ask you politely to contribute your improvements back to us. We would
+We only ask you politely to contribute your improvements back to us and also be 
+sure to contact us if you use our project for [commercial purposes][price]. We would
 be grateful for any feedback and suggestions.
 
 Historically, OpenIPC [firmware][firmware] only supported SoC manufactured by
@@ -38,6 +39,7 @@ and on the [wiki][wiki].
 <a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="250" alt="Open Collective donate button"></a>
 </p>
 
+[price]: https://openipc.org/support-open-source
 [firmware]: https://github.com/openipc/firmware
 [logo]: https://openipc.org/assets/openipc-logo-black.svg
 [mit]: https://opensource.org/license/mit
