@@ -24,7 +24,8 @@ simple open source license agreements, [MIT License][mit], giving users express
 permission to reuse code for any purpose, even as part of a proprietary software.
 We only ask you politely to contribute your improvements back to us and also be 
 sure to contact us if you use our project for [commercial purposes][price]. We would
-be grateful for any feedback and suggestions.
+be grateful for any feedback and suggestions. The use of the OpenIPC project and its 
+components for military purposes is not permitted.
 
 Historically, OpenIPC [firmware][firmware] only supported SoC manufactured by
 HiSilicon, but as the development continues, the list of supported processors
