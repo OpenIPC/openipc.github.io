@@ -1,0 +1,100 @@
+<!-- Copyright (c) OpenIPC  https://openipc.org  MIT License -->
+<!-- index.html — Docsify documentation site entry point -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="icon" href="assets/img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover" />
+    <meta name="description" content="Alternative open firmware for your IP camera" />
+    <title>Alternative open firmware for your IP camera</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" data-style-group="themeable" href="assets/css/theme-defaults.css" disabled />
+    <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: dark)" href="assets/css/theme-simple-dark.css" />
+    <link rel="stylesheet" data-style-group="themeable" media="(prefers-color-scheme: light)" href="assets/css/theme-simple.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+
+    <!-- Test Stylesheets (disabled) -->
+    <!-- <link rel="stylesheet" href="assets/css/theme-defaults.css" data-style-group="themeable"> -->
+  </head>
+
+  <body>
+    <div id="app"></div>
+
+    <script>
+      // Docsify
+      window.$docsify = {
+
+        // GENERAL
+        // -----------------------------------------------------------------
+        name: 'OpenIPC',
+        repo: 'https://github.com/openipc',
+        coverpage: 'coverpage.md',
+        homepage: 'about.md',
+        loadSidebar: 'sidebar.md',
+        logo: '/assets/img/openipc-logo-b-h.svg',
+
+        // NAVIGATION
+        // -----------------------------------------------------------------
+        alias: {
+          '.*?/changelog':
+            'docs/rnd-player-changelog.md'
+        },
+        auto2top: true,
+        maxLevel: 3,
+        subMaxLevel: 3,
+
+        // PLUGINS
+        // -----------------------------------------------------------------
+        executeScript: true,
+        search: {
+          depth: 3,
+          noData: 'No results!',
+          placeholder: 'Search...'
+        },
+        plugins: [
+          // Restores initial <title>
+          function persistTitle(hook, vm) {
+            var titleElm = document.querySelector('title');
+            var rootTitle = titleElm && titleElm.textContent;
+            var pageTitlePrefix = window.$docsify.name
+              ? window.$docsify.name + ' - '
+              : '';
+
+            if (rootTitle) {
+              hook.doneEach(function () {
+                var currentTitle = titleElm.textContent;
+                var isRoot = !/\/[a-z]/.test(location.hash);
+                var newTitle = isRoot
+                  ? rootTitle
+                  : pageTitlePrefix + currentTitle;
+
+                titleElm.textContent = newTitle;
+              });
+            }
+          }
+        ]
+      };
+    </script>
+    <script src="assets/js/main.js"></script>
+
+    <!-- Docsify core -->
+    <script src="assets/js/docsify.min.js"></script>
+    <script src="assets/js/external-script.min.js"></script>
+    <script src="assets/js/search.min.js"></script>
+    <script src="assets/js/zoom-image.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="assets/js/docsify-themeable.min.js"></script>
+    <script src="assets/js/docsify-tabs.min.js"></script>
+    <script src="assets/js/docsify-copy-code.min.js"></script>
+    <script src="assets/js/docsify-pagination.min.js"></script>
+    <script src="assets/js/prism-bash.min.js"></script>
+
+    <!-- Mermaid UML -->
+    <script src="assets/js/mermaid.min.js"></script>
+    <script src="assets/js/docsify-mermaid.js"></script>
+  </body>
+</html>

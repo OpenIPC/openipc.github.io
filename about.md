@@ -1,20 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://openipc.org/assets/openipc-logo-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://openipc.org/assets/openipc-logo-black.svg">
-  <img alt="OpenIPC logo" src="https://openipc.org/assets/openipc-logo-black.svg">
-</picture>
+# About <!-- markdownlint-disable-line first-line-heading -->
 
-## Alternative open firmware for your IP camera
-_(based on Buildroot)_
-
-[![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
-
-### Introduction
+## Introduction
 
 OpenIPC is an open source operating system from the [open community][opencollective]
 targeting for IP cameras with ARM and MIPS processors from several manufacturers in
 order to replace that closed, opaque, insecure, often abandoned and unsupported
 firmware pre-installed by a vendor.
+
+## Overview
 
 OpenIPC [firmware][firmware] comes as binary pre-compiled files for easy
 installation by end-user. Also, we provide full access to the source files for
@@ -26,6 +19,8 @@ We only ask you politely to contribute your improvements back to us and also be
 sure to contact us if you use our project for [commercial purposes][price]. We would
 be grateful for any feedback and suggestions. The use of the OpenIPC project and its 
 components for military purposes is not permitted.
+
+![image](/assets/img/openipc-informex-tree.jpg)
 
 Historically, OpenIPC [firmware][firmware] only supported SoC manufactured by
 HiSilicon, but as the development continues, the list of supported processors
@@ -39,6 +34,8 @@ and on the [wiki][wiki].
 <p align="center">
 <a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="250" alt="Open Collective donate button"></a>
 </p>
+
+
 
 [price]: https://openipc.org/support-open-source
 [firmware]: https://github.com/openipc/firmware
