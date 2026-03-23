@@ -2,9 +2,33 @@
 # News
 
 
-## Mar 12, 2026
+## Mar 23, 2026
 
-?> **The publication will be available soon...**
+**A large addition of new packages to the OpenIPC ecosystem.**
+
+- [faceter-agent](https://github.com/OpenIPC/firmware/pull/1957/changes) - A daemon from Faceter for infrastructure support.
+- [faceter-detector](https://github.com/OpenIPC/firmware/pull/1957/changes) - A daemon from Faceter for searching humanoids.
+- [herald](https://github.com/OpenIPC/firmware/pull/1956/changes) - A compact mDNS/DNS-SD stack (RFC 6762 / RFC 6763) built special for the OpenIPC project.
+- [matter](https://github.com/OpenIPC/firmware/pull/1959/changes) - Matter-compatible IP camera server for OpenIPC devises.
+- [mdnsd-openipc](https://github.com/OpenIPC/firmware/pull/1955/changes) - Small mDNS-SD daemon for advertising services and device discovery, similar to Avahi and Bonjour.
+- [mqtt-bot](https://github.com/OpenIPC/firmware/pull/1958/changes) - Lightweight MQTT command executor designed for routers and IP cameras.
+- [n3n](https://github.com/OpenIPC/firmware/pull/1966/changes) - A light VPN software which makes it easy to create virtual networks bypassing intermediate firewalls.
+- [netblink](https://github.com/OpenIPC/firmware/pull/1967/changes) - Unified network LED indicator: ping quality or traffic activity.
+- [ntfy](https://github.com/OpenIPC/firmware/pull/1964/changes) - Lightweight ntfy.sh notification client for embedded Linux.
+- [siproxd-openipc](https://github.com/OpenIPC/firmware/pull/1962/changes) - A small proxy/masquerading daemon for SIP  which is used in IP telephony.
+- [webface](https://github.com/OpenIPC/firmware/pull/1963/changes) - Example usage of Cookie-based Session Authentication.
+
+
+## Mar 15, 2026
+
+****
+
+- [decoder](https://github.com/OpenIPC/decoder) - Miniature and universal H.264 and H.265 decoder for Android devices.
+- [hass](https://github.com/OpenIPC/hass) - OpenIPC Ecosystem for Home Assistant.
+- [intercom](https://github.com/OpenIPC/intercom) - SIP Doorphone on OpenIPC.
+- [research](https://github.com/OpenIPC/research) - Simple streamer for the Sigmastar infinity6b0, infinity6c and infinity6e platform.
+- [rnd-player](https://github.com/OpenIPC/rnd-player) - A simple R&D player, entirely created by AI without human involvement.
+- [waybeam_venc](https://github.com/OpenIPC/waybeam_venc) - Standalone Video Encoder & Streamer.
 
 
 ## Aug 17, 2025
