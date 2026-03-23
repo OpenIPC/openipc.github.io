@@ -10,7 +10,7 @@
 - [faceter-detector](https://github.com/OpenIPC/firmware/pull/1957/changes) - A daemon from Faceter for searching humanoids.
 - [herald](https://github.com/OpenIPC/firmware/pull/1956/changes) - A compact mDNS/DNS-SD stack (RFC 6762 / RFC 6763) built special for the OpenIPC project.
 - [matter](https://github.com/OpenIPC/firmware/pull/1959/changes) - Matter-compatible IP camera server for OpenIPC devises.
-- [mdnsd-openipc](https://github.com/OpenIPC/firmware/pull/1955/changes) - Small mDNS-SD daemon for advertising services and device discovery, similar to Avahi and Bonjour.
+- [mdnsd-openipc](https://github.com/OpenIPC/firmware/pull/1955/changes) - Small mDNS-SD daemon for advertising services and device discovery.
 - [mqtt-bot](https://github.com/OpenIPC/firmware/pull/1958/changes) - Lightweight MQTT command executor designed for routers and IP cameras.
 - [n3n](https://github.com/OpenIPC/firmware/pull/1966/changes) - A light VPN software which makes it easy to create virtual networks bypassing intermediate firewalls.
 - [netblink](https://github.com/OpenIPC/firmware/pull/1967/changes) - Unified network LED indicator: ping quality or traffic activity.
@@ -21,7 +21,7 @@
 
 ## Mar 15, 2026
 
-****
+**Adding new repositories and projects to the OpenIPC organization.**
 
 - [decoder](https://github.com/OpenIPC/decoder) - Miniature and universal H.264 and H.265 decoder for Android devices.
 - [hass](https://github.com/OpenIPC/hass) - OpenIPC Ecosystem for Home Assistant.
