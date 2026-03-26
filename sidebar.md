@@ -1,6 +1,7 @@
 - **Organization**
 - [About](about)
 - [News](news)
+- [Statistics](statistics)
 - **Sandbox**
 - [Markdown](markdown)
 - [UML Diagrams](uml)
