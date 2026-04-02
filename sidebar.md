@@ -2,6 +2,8 @@
 - [About](about)
 - [News](news)
 - [Statistics](statistics)
+- **Tools**
+- [Defib](https://openipc.github.io/defib/)
 - **Sandbox**
 - [Markdown](markdown)
 - [UML Diagrams](uml)
