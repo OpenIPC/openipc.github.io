@@ -1,6 +1,14 @@
 
 # News
 
+## Apr 03, 2026
+
+**List of updates**
+
+- [defib](https://github.com/OpenIPC/defib) - Universal camera recovery tool - shocking dead devices back to life. [Launch](https://openipc.github.io/defib/) Web Recovery Tool.
+- [toolchains](https://github.com/OpenIPC/toolchains) - Cross-compiler toolchains extracted from HiSilicon SDKs, hosted as release assets for use in CI pipelines.
+- [uget](https://github.com/OpenIPC/uget) - Minimal HTTP download utility for constrained embedded Linux environments. Release [publication](https://github.com/OpenIPC/uget/releases).
+
 
 ## Mar 23, 2026
 
