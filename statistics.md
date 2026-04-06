@@ -4,45 +4,7 @@
 
 _Generated on 2026-04-06_
 
-### Top Repositories
-
-```mermaid
-xychart-beta
-    title Star Growth Over Time
-    x-axis ["2015-01", "2016-10", "2017-12", "2018-12", "2019-12", "2020-12", "2021-12", "2022-12", "2023-12", "2024-12", "2025-12", "2026-03", "2026-04"]
-    line [0, 0, 0, 0, 0, 0, 129, 337, 865, 1322, 1888, 1968, 1973]
-    line [0, 0, 0, 0, 0, 0, 0, 0, 2, 30, 66, 74, 74]
-    line [0, 0, 0, 0, 1, 120, 175, 185, 185, 187, 188, 189, 189]
-    line [0, 0, 0, 0, 0, 4, 11, 77, 126, 208, 444, 466, 467]
-    line [0, 0, 0, 0, 0, 0, 22, 57, 117, 167, 220, 229, 229]
-    line [0, 0, 0, 0, 0, 0, 11, 23, 55, 71, 106, 110, 110]
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 61, 65, 65]
-    line [0, 0, 0, 0, 11, 32, 42, 57, 81, 97, 108, 111, 111]
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 108, 122, 123]
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 92, 103, 103]
-    line [0, 0, 0, 0, 0, 0, 0, 17, 144, 314, 392, 406, 406]
-    line [0, 0, 0, 0, 0, 17, 42, 71, 100, 122, 145, 147, 147]
-    line [0, 0, 0, 0, 0, 0, 2, 10, 25, 40, 58, 61, 61]
-    line [1, 2, 17, 32, 49, 72, 91, 97, 109, 116, 121, 122, 122]
-```
-
-**Repository Legend** (in chart order):
-
-1. `firmware`
-2. `builder`
-3. `chaos_calmer`
-4. `smolrtsp`
-5. `ipctool`
-6. `coupler`
-7. `divinus`
-8. `mini`
-9. `pixelpilot`
-10. `sbc-groundstations`
-11. `wiki`
-12. `camerasrnd`
-13. `majestic`
-14. `glutinium`
-
+![image](/photo/general_2026-04-06_14-58-01.png)
 
 ## Repository Summary
 
@@ -50,7 +12,7 @@ _Generated on 2026-04-06 · 128 repositories_
 
 | Repository | Description | Stars | Forks | Contributors | Issues | PRs |
 |:-----------|:------------|------:|------:|-------------:|-------:|----:|
-| [firmware](https://github.com/OpenIPC/firmware) | Alternative IP Camera firmware from an open community | 1973 | 384 | 84 | [255](https://github.com/OpenIPC/firmware/issues) | [8](https://github.com/OpenIPC/firmware/pulls) |
+| [firmware](https://github.com/OpenIPC/firmware) | Alternative IP Camera firmware from an open community | 1973 | 384 | 84 | [255](https://github.com/OpenIPC/firmware/issues) | [7](https://github.com/OpenIPC/firmware/pulls) |
 | [majestic](https://github.com/OpenIPC/majestic) | Majestic Community edition integration kit | 61 | 7 | 4 | [73](https://github.com/OpenIPC/majestic/issues) | [0](https://github.com/OpenIPC/majestic/pulls) |
 | [PixelPilot](https://github.com/OpenIPC/PixelPilot) | PixelPilot is an Android app packaging multiple pieces to… | 124 | 41 | 12 | [29](https://github.com/OpenIPC/PixelPilot/issues) | [1](https://github.com/OpenIPC/PixelPilot/pulls) |
 | [PixelPilot_rk](https://github.com/OpenIPC/PixelPilot_rk) | Application that decodes an RTP Video Stream and displays… | 50 | 35 | 19 | [17](https://github.com/OpenIPC/PixelPilot_rk/issues) | [4](https://github.com/OpenIPC/PixelPilot_rk/pulls) |
@@ -190,7 +152,7 @@ _Generated on 2026-04-06 · 283 contributors_
 | 1 | [ZigFisher](https://github.com/ZigFisher) | yes | 2980 | 44 | aic8800, builder, burn, camerasrnd, composer, coupler, device-mjsxj02hl, device-mjsxj03hl, distributor, fancyweb, firmware, glutinium, hardware, hisi-trace, ipctool, linux, microsnander, mini, modding, motors, openhisilicon, openipc.github.io, packages, python-dvr, research, sandbox, sandbox-fpv, sensors, ssw101b, u-boot-gk7205v200, u-boot-hi3516av100, u-boot-hi3516cv100, u-boot-hi3516cv200, u-boot-hi3516cv300, u-boot-hi3516cv500, u-boot-hi3516ev200, u-boot-hi3519v101, u-boot-ingenic, u-boot-msc313e, u-boot-t20, website, webui, wiki, yaml-cli |
 | 2 | [flyrouter](https://github.com/flyrouter) | yes | 1385 | 84 | PixelPilot, PixelPilot_rk, adaptive-link, aic8800, atbm_60xx, br-cache, builder, burn, camerasrnd, capjpeg, companion, composer, configurator, coupler, debrick, decoder, device-cip-37210, device-ezviz, device-mjsxj02hl, device-mjsxj03hl, device-msc3xx, devourer, distributor, divinus, dms, docs, faceter, fancyweb, firmware, fpv, fpv-presets, gkrcparams, glutinium, hardware, hass, hisinad, improver, improver-legacy, intercom, interface, ipctool, linux, majestic, majestic-plugins, majestic-webui, mavfwd, mediantrading, mini, motors, msposd, opendrm, opendrm-web, openhisilicon, openingenic, openipc.github.io, osd, packages, pqtools, pristine, pyosd, python-dvr, research, sandbox, sandbox-fpv, sensor-profiles, sensors, smolrtsp, ssv6x5x, ssw101b, steam-groundstations, telkam, u-boot-gk7205v200, u-boot-grainmedia, u-boot-nt9856x, u-boot-t40, u-boot-t41, uget, urllc-webui, web-components, website, webui, wfb-ng-openwrt, wiki, yaml-cli-multi |
 | 3 | [viktorxda](https://github.com/viktorxda) | yes | 1140 | 36 | PixelPilot, PixelPilot_rk, atbm_60xx, br-cache, builder, composer, configurator, decoder, distributor, divinus, firmware, interface, ipctool, linux, majestic-plugins, majestic-webui, mavfwd, mini, msposd, mt7601u, openhisilicon, openingenic, osd, realtek-wlan, research, sensors, smolrtsp, snander-mstar, ssv6x5x, ssw101b, u-boot-allwinner, u-boot-ingenic, u-boot-sigmastar, webui, wiki, yaml-cli |
-| 4 | [widgetii](https://github.com/widgetii) | yes | 1092 | 28 | PixelPilot_rk, audioplayer, burn, camerasrnd, coupler, defib, devourer, firmware, gkrcparams, glutinium, ipctool, ipctool_tests, majestic, mavfwd, mini, motors, openhisilicon, openipc.github.io, openxiongmai, packages, pqtools, smolrtsp, smolrtsp-libevent, toolchains, uget, webui, wiki, yaml-cli |
+| 4 | [widgetii](https://github.com/widgetii) | yes | 1093 | 28 | PixelPilot_rk, audioplayer, burn, camerasrnd, coupler, defib, devourer, firmware, gkrcparams, glutinium, ipctool, ipctool_tests, majestic, mavfwd, mini, motors, openhisilicon, openipc.github.io, openxiongmai, packages, pqtools, smolrtsp, smolrtsp-libevent, toolchains, uget, webui, wiki, yaml-cli |
 | 5 | [dimerr](https://github.com/dimerr) | yes | 831 | 26 | burn, camerasrnd, coupler, dms, firmware, hi_osd, ipctool, microsnander, openhisilicon, openxiongmai, python-dvr, sandbox, sensors, u-boot-gk7205v200, u-boot-hi3516av100, u-boot-hi3516cv100, u-boot-hi3516cv200, u-boot-hi3516cv300, u-boot-hi3516cv500, u-boot-hi3516ev200, u-boot-hi3519v101, u-boot-ingenic, u-boot-msc313e, u-boot-nt9856x, u-boot-t20, u-boot-xmedia |
 | 6 | [mikecarr](https://github.com/mikecarr) | yes | 785 | 10 | PixelPilot_rk, companion, docs, fpv-presets, improver, improver-legacy, majestic-webui, msposd, research, wiki |
 | 7 | [wberube](https://github.com/wberube) | yes | 629 | 4 | divinus, firmware, osd, pristine |
