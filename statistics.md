@@ -9,22 +9,39 @@ _Generated on 2026-04-06_
 ```mermaid
 xychart-beta
     title Star Growth Over Time
-    x-axis ["2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10", "2024-11", "2024-12", "2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04"]
-    line [34, 64, 106, 139, 158, 200, 238, 281, 315, 343, 380, 412, 446, 475, 518, 729, 766, 789, 814, 847, 879, 902, 927, 932]
-    line [2, 2, 4, 5, 11, 11, 14, 18, 18, 22, 24, 27, 30, 38, 40, 43, 46, 49, 53, 54, 58, 59, 62, 62]
-    line [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4]
-    line [5, 9, 17, 21, 31, 40, 47, 53, 62, 66, 88, 98, 113, 123, 129, 171, 193, 202, 213, 289, 298, 302, 311, 312]
-    line [7, 8, 15, 20, 25, 27, 27, 32, 36, 38, 46, 51, 54, 57, 59, 71, 74, 75, 80, 85, 86, 89, 94, 94]
-    line [2, 2, 3, 4, 6, 7, 8, 11, 13, 16, 17, 19, 20, 22, 23, 35, 37, 41, 44, 46, 49, 50, 50, 50]
-    line [3, 4, 7, 10, 11, 16, 17, 20, 25, 27, 30, 34, 40, 44, 45, 47, 48, 54, 58, 61, 61, 62, 65, 65]
-    line [1, 1, 3, 4, 5, 8, 8, 9, 11, 13, 14, 14, 15, 17, 17, 18, 18, 19, 19, 20, 21, 23, 23, 23]
-    line [0, 0, 0, 2, 12, 18, 23, 27, 31, 35, 49, 58, 69, 76, 84, 87, 91, 97, 102, 108, 110, 114, 122, 123]
-    line [5, 8, 11, 16, 19, 22, 25, 32, 37, 41, 46, 52, 54, 58, 58, 59, 61, 64, 69, 75, 77, 82, 86, 86]
-    line [14, 28, 42, 54, 68, 80, 91, 100, 112, 121, 130, 137, 143, 147, 150, 163, 167, 171, 176, 178, 182, 189, 192, 192]
-    line [1, 3, 4, 6, 7, 7, 12, 14, 18, 21, 24, 24, 27, 28, 31, 33, 35, 35, 36, 37, 39, 39, 39, 39]
-    line [0, 1, 2, 2, 3, 6, 8, 10, 12, 12, 15, 15, 15, 17, 17, 23, 24, 27, 28, 28, 28, 29, 31, 31]
-    line [1, 1, 1, 2, 2, 5, 5, 5, 6, 6, 8, 8, 8, 8, 8, 8, 8, 9, 9, 10, 11, 11, 11, 11]
+    x-axis ["2015-01", "2016-10", "2017-12", "2018-12", "2019-12", "2020-12", "2021-12", "2022-12", "2023-12", "2024-12", "2025-12", "2026-03", "2026-04"]
+    line [0, 0, 0, 0, 0, 0, 129, 337, 865, 1322, 1888, 1968, 1973]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 2, 30, 66, 74, 74]
+    line [0, 0, 0, 0, 1, 120, 175, 185, 185, 187, 188, 189, 189]
+    line [0, 0, 0, 0, 0, 4, 11, 77, 126, 208, 444, 466, 467]
+    line [0, 0, 0, 0, 0, 0, 22, 57, 117, 167, 220, 229, 229]
+    line [0, 0, 0, 0, 0, 0, 11, 23, 55, 71, 106, 110, 110]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 61, 65, 65]
+    line [0, 0, 0, 0, 11, 32, 42, 57, 81, 97, 108, 111, 111]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 108, 122, 123]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 49, 92, 103, 103]
+    line [0, 0, 0, 0, 0, 0, 0, 17, 144, 314, 392, 406, 406]
+    line [0, 0, 0, 0, 0, 17, 42, 71, 100, 122, 145, 147, 147]
+    line [0, 0, 0, 0, 0, 0, 2, 10, 25, 40, 58, 61, 61]
+    line [1, 2, 17, 32, 49, 72, 91, 97, 109, 116, 121, 122, 122]
 ```
+
+**Repository Legend** (in chart order):
+
+1. `firmware`
+2. `builder`
+3. `chaos_calmer`
+4. `smolrtsp`
+5. `ipctool`
+6. `coupler`
+7. `divinus`
+8. `mini`
+9. `pixelpilot`
+10. `sbc-groundstations`
+11. `wiki`
+12. `camerasrnd`
+13. `majestic`
+14. `glutinium`
 
 
 ## Repository Summary
@@ -173,7 +190,7 @@ _Generated on 2026-04-06 · 283 contributors_
 | 1 | [ZigFisher](https://github.com/ZigFisher) | yes | 2980 | 44 | aic8800, builder, burn, camerasrnd, composer, coupler, device-mjsxj02hl, device-mjsxj03hl, distributor, fancyweb, firmware, glutinium, hardware, hisi-trace, ipctool, linux, microsnander, mini, modding, motors, openhisilicon, openipc.github.io, packages, python-dvr, research, sandbox, sandbox-fpv, sensors, ssw101b, u-boot-gk7205v200, u-boot-hi3516av100, u-boot-hi3516cv100, u-boot-hi3516cv200, u-boot-hi3516cv300, u-boot-hi3516cv500, u-boot-hi3516ev200, u-boot-hi3519v101, u-boot-ingenic, u-boot-msc313e, u-boot-t20, website, webui, wiki, yaml-cli |
 | 2 | [flyrouter](https://github.com/flyrouter) | yes | 1385 | 84 | PixelPilot, PixelPilot_rk, adaptive-link, aic8800, atbm_60xx, br-cache, builder, burn, camerasrnd, capjpeg, companion, composer, configurator, coupler, debrick, decoder, device-cip-37210, device-ezviz, device-mjsxj02hl, device-mjsxj03hl, device-msc3xx, devourer, distributor, divinus, dms, docs, faceter, fancyweb, firmware, fpv, fpv-presets, gkrcparams, glutinium, hardware, hass, hisinad, improver, improver-legacy, intercom, interface, ipctool, linux, majestic, majestic-plugins, majestic-webui, mavfwd, mediantrading, mini, motors, msposd, opendrm, opendrm-web, openhisilicon, openingenic, openipc.github.io, osd, packages, pqtools, pristine, pyosd, python-dvr, research, sandbox, sandbox-fpv, sensor-profiles, sensors, smolrtsp, ssv6x5x, ssw101b, steam-groundstations, telkam, u-boot-gk7205v200, u-boot-grainmedia, u-boot-nt9856x, u-boot-t40, u-boot-t41, uget, urllc-webui, web-components, website, webui, wfb-ng-openwrt, wiki, yaml-cli-multi |
 | 3 | [viktorxda](https://github.com/viktorxda) | yes | 1140 | 36 | PixelPilot, PixelPilot_rk, atbm_60xx, br-cache, builder, composer, configurator, decoder, distributor, divinus, firmware, interface, ipctool, linux, majestic-plugins, majestic-webui, mavfwd, mini, msposd, mt7601u, openhisilicon, openingenic, osd, realtek-wlan, research, sensors, smolrtsp, snander-mstar, ssv6x5x, ssw101b, u-boot-allwinner, u-boot-ingenic, u-boot-sigmastar, webui, wiki, yaml-cli |
-| 4 | [widgetii](https://github.com/widgetii) | yes | 1091 | 28 | PixelPilot_rk, audioplayer, burn, camerasrnd, coupler, defib, devourer, firmware, gkrcparams, glutinium, ipctool, ipctool_tests, majestic, mavfwd, mini, motors, openhisilicon, openipc.github.io, openxiongmai, packages, pqtools, smolrtsp, smolrtsp-libevent, toolchains, uget, webui, wiki, yaml-cli |
+| 4 | [widgetii](https://github.com/widgetii) | yes | 1092 | 28 | PixelPilot_rk, audioplayer, burn, camerasrnd, coupler, defib, devourer, firmware, gkrcparams, glutinium, ipctool, ipctool_tests, majestic, mavfwd, mini, motors, openhisilicon, openipc.github.io, openxiongmai, packages, pqtools, smolrtsp, smolrtsp-libevent, toolchains, uget, webui, wiki, yaml-cli |
 | 5 | [dimerr](https://github.com/dimerr) | yes | 831 | 26 | burn, camerasrnd, coupler, dms, firmware, hi_osd, ipctool, microsnander, openhisilicon, openxiongmai, python-dvr, sandbox, sensors, u-boot-gk7205v200, u-boot-hi3516av100, u-boot-hi3516cv100, u-boot-hi3516cv200, u-boot-hi3516cv300, u-boot-hi3516cv500, u-boot-hi3516ev200, u-boot-hi3519v101, u-boot-ingenic, u-boot-msc313e, u-boot-nt9856x, u-boot-t20, u-boot-xmedia |
 | 6 | [mikecarr](https://github.com/mikecarr) | yes | 785 | 10 | PixelPilot_rk, companion, docs, fpv-presets, improver, improver-legacy, majestic-webui, msposd, research, wiki |
 | 7 | [wberube](https://github.com/wberube) | yes | 629 | 4 | divinus, firmware, osd, pristine |
@@ -182,7 +199,7 @@ _Generated on 2026-04-06 · 283 contributors_
 | 10 | [cronyx](https://github.com/cronyx) | yes | 502 | 15 | atbm_60xx, builder, device-mjsxj02hl, device-mjsxj03hl, distributor, firmware, ipctool, linux, majestic-webui, openingenic, pqtools, research, sandbox-fpv, u-boot-gk7205v200, wiki |
 | 11 | [hirrolot](https://github.com/hirrolot) | yes | 481 | 2 | smolrtsp, smolrtsp-libevent |
 | 12 | [josephnef](https://github.com/josephnef) | yes | 453 | 2 | devourer, rnd-player |
-| 13 | [ystinia](https://github.com/ystinia) | yes | 269 | 41 | LoTool, audioplayer, builder, burn, ca813rf, camerasrnd, compact-presets, coupler, decoder, device-mjsxj02hl, divinus, docs, faceter, fancyweb-ng, firmware, gkrcparams, hardware, hi_osd, hisi-trace, interface, ipctool, ipctool_tests, linux, majestic, majestic-plugins, majestic-webui, mavfwd, microsnander, mini, motors, openhisilicon, openingenic, openipc.github.io, osd, research, sandbox, uget, website, webui, wiki, yaml-cli |
+| 13 | [ystinia](https://github.com/ystinia) | yes | 270 | 41 | LoTool, audioplayer, builder, burn, ca813rf, camerasrnd, compact-presets, coupler, decoder, device-mjsxj02hl, divinus, docs, faceter, fancyweb-ng, firmware, gkrcparams, hardware, hi_osd, hisi-trace, interface, ipctool, ipctool_tests, linux, majestic, majestic-plugins, majestic-webui, mavfwd, microsnander, mini, motors, openhisilicon, openingenic, openipc.github.io, osd, research, sandbox, uget, website, webui, wiki, yaml-cli |
 | 14 | [MarioFPVdev](https://github.com/MarioFPVdev) | yes | 179 | 12 | PixelPilot_rk, adaptive-link, configurator, docs, firmware, mavfwd, msposd, research, sandbox-fpv, sbc-groundstations, website, wiki |
 | 15 | [sickgreg](https://github.com/sickgreg) | yes | 178 | 5 | PixelPilot_rk, adaptive-link, sensor-profiles, waybeam_venc, wiki |
 | 16 | [snokvist](https://github.com/snokvist) | yes | 169 | 4 | firmware, steam-groundstations, waybeam_venc, wiki |
