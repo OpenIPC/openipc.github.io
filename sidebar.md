@@ -2,6 +2,7 @@
 - [About](about)
 - [News](news)
 - [Statistics](statistics)
+- [Certification programs](certification)
 - **Tools**
 - [Defib](https://openipc.github.io/defib/)
 - **Sandbox**
