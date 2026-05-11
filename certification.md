@@ -50,7 +50,11 @@ The **OpenIPC Trusted Partner** status will prove that your product is worthy of
 
 ## Verified Hardware
 
-OpenIPC Verified Hardware -
+### OpenIPC Verified Hardware - equipment tested for compatibility
+
+The OpenIPC Verified Hardware programme is an official quality mark for devices guaranteed to work
+with OpenIPC firmware out of the box. No tweaks, hacks or surprises - just reliable full-power operation.
+
 
 
 ## Marking options
