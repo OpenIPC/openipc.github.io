@@ -11,7 +11,7 @@ confirm the highest level of compatibility, security and reliability of their de
 The programme is administered by the non-profit OpenIPC Foundation. All certification fees go towards supporting and developing the project.
 
 - 📧 Applications and questions: partners@openipc.eu
-- 🌐 Trusted Partners Registry: https://openipc.org/#/trusted
+- 🌐 Trusted Partners Registry: https://openipc.github.io/#/trusted
 
 ### Why become a Trusted Partner?
 
@@ -40,7 +40,7 @@ The OpenIPC Trusted Partner status is more than just a certificate. It is public
 
 - **OpenIPC Trusted Partner Bronze** - automatic compatibility verification.
 - **OpenIPC Trusted Partner Silver** - basic security audit.
-- **OpenIPC Trusted Partner Gold** - full audit, priority technical support and placement on the project's main page.
+- **OpenIPC Trusted Partner Gold** - full audit, priority technical support, placement on the project's main page.
 
 ### Become part of the open ecosystem
 
