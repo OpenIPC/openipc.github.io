@@ -8,6 +8,11 @@
 The **OpenIPC Trusted Partner** programme is designed for equipment manufacturers and vendors who
 confirm the highest level of compatibility, security and reliability of their devices with the OpenIPC ecosystem.
 
+The programme is administered by the non-profit OpenIPC Foundation. All certification fees go towards supporting and developing the project.
+
+- 📧 Applications and questions: partners@openipc.eu
+- 🌐 Trusted Partners Registry: https://openipc.org/#/trusted
+
 ### Why become a Trusted Partner?
 
 The OpenIPC Trusted Partner status is more than just a certificate. It is public recognition that your hardware:
@@ -42,24 +47,11 @@ The OpenIPC Trusted Partner status is more than just a certificate. It is public
 OpenIPC is chosen by thousands of users worldwide who value freedom, security and control over their devices.
 The **Trusted Partner** status will prove that your product is worthy of their trust.
 
-
-## Verified Hardware
+### Verified Hardware
 
 OpenIPC Verified Hardware -
 
+### Marking options
 
-## Marking options
-
-OpenIPC Ready -
-
-
-OpenIPC Inside -
-
-
-## Explanations
-
-The programme is administered by the non-profit OpenIPC Foundation.
-All certification fees go towards supporting and developing the project.
-
-- 📧 Applications and questions: partners@openipc.eu
-- 🌐 Trusted Partners Registry: https://openipc.org/trusted
+- **OpenIPC Ready** -
+- **OpenIPC Inside** -
