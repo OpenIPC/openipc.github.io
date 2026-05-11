@@ -15,6 +15,11 @@ The OpenIPC Trusted Partner status is more than just a certificate. It is public
 - ✅ Has passed a security audit—no hidden backdoors, outdated components, or license violations.
 - ✅ Meets community quality standards: up-to-date SBOM, predictable driver behaviour, full update support.
 
+### Become part of the open ecosystem
+
+OpenIPC is chosen by thousands of users worldwide who value freedom, security and control over their devices.
+The **Trusted Partner** status will prove that your product is worthy of their trust.
+
 
 ## Verified Hardware
 
@@ -27,3 +32,12 @@ OpenIPC Ready -
 
 
 OpenIPC Inside -
+
+
+## Explanations
+
+The programme is administered by the non-profit OpenIPC Foundation.
+All certification fees go towards supporting and developing the project.
+
+- 📧 Applications and questions: partners@openipc.eu
+- 🌐 Trusted Partners Registry: https://openipc.org/trusted
