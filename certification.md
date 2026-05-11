@@ -15,6 +15,14 @@ The OpenIPC Trusted Partner status is more than just a certificate. It is public
 - ✅ Has passed a security audit - no hidden backdoors, outdated components, or license violations.
 - ✅ Meets community quality standards: up-to-date SBOM, predictable driver behaviour, full update support.
 
+### Advantages for the vendor 
+
+| For business                                      | For customers                                 |
+| ------------------------------------------------- | --------------------------------------------- |
+| Increased brand trust                             | Guaranteed device operation with OpenIPC      |
+| Priority support during integration               | Firmware transparency and security            |
+| Listing in the official Trusted Partners registry | Opportunity to receive timely updates         |
+| Marketing support from the community              | Reduced risk of backdoors and vulnerabilities |
 
 ### How to obtain the status?
 
