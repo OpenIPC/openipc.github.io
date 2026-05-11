@@ -38,20 +38,22 @@ The OpenIPC Trusted Partner status is more than just a certificate. It is public
 
 ### Participation formats
 
-- **Trusted Partner Bronze** - automatic compatibility verification.
-- **Trusted Partner Silver** - basic security audit.
-- **Trusted Partner Gold** - full audit, priority technical support and placement on the project's main page.
+- **OpenIPC Trusted Partner Bronze** - automatic compatibility verification.
+- **OpenIPC Trusted Partner Silver** - basic security audit.
+- **OpenIPC Trusted Partner Gold** - full audit, priority technical support and placement on the project's main page.
 
 ### Become part of the open ecosystem
 
 OpenIPC is chosen by thousands of users worldwide who value freedom, security and control over their devices.
-The **Trusted Partner** status will prove that your product is worthy of their trust.
+The **OpenIPC Trusted Partner** status will prove that your product is worthy of their trust.
 
-### Verified Hardware
+
+## Verified Hardware
 
 OpenIPC Verified Hardware -
 
-### Marking options
+
+## Marking options
 
 - **OpenIPC Ready** -
 - **OpenIPC Inside** -
