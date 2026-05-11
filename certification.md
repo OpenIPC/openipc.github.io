@@ -15,6 +15,20 @@ The OpenIPC Trusted Partner status is more than just a certificate. It is public
 - ✅ Has passed a security audit - no hidden backdoors, outdated components, or license violations.
 - ✅ Meets community quality standards: up-to-date SBOM, predictable driver behaviour, full update support.
 
+
+### How to obtain the status?
+
+- Submit an application - fill out the form on this page, indicating device models and technical specifications.
+- Pass automatic testing - our CI systems will check compatibility and correct functioning.
+- Audit (optional) - expert review of firmware security and licensing compliance.
+- Receive a certificate and a mark for placement on packaging, website and documentation.
+
+### Participation formats
+
+- **Trusted Partner Bronze** - automatic compatibility verification.
+- **Trusted Partner Silver** - basic security audit.
+- **Trusted Partner Gold** - full audit, priority technical support and placement on the project's main page.
+
 ### Become part of the open ecosystem
 
 OpenIPC is chosen by thousands of users worldwide who value freedom, security and control over their devices.
