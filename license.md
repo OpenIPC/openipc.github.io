@@ -1,6 +1,25 @@
-MIT License
+# License
 
-Copyright (c) 2019-2026 OpenIPC
+## Introduction
+
+With the exceptions below, OpenIPC is distributed under the terms of
+the MIT License.
+
+Some files/repos in OpenIPC contain a different license statement. Those 
+files are licensed under the license contained in the file/repo itself.
+
+OpenIPC also bundles patch files, which are applied to the sources
+of the various packages. Those patches are not covered by the license
+of OpenIPC. Instead, they are covered by the license of the software
+to which the patches are applied. When said software is available
+under multiple licenses, the OpenIPC patches are only provided under
+the publicly accessible licenses.
+
+-----------------------------------------------------------------
+
+## MIT License
+
+### Copyright (c) 2019-2026 OpenIPC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
