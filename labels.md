@@ -18,7 +18,7 @@
 
 > **OpenIPC Inside** - freedom already inside the box. You don't need to reflash anything.
 > Right from the moment you turn it on, you get a clean, secure camera with open source code, no backdoors,
-> no cloud lock-ins. Full control over your device from the very first start. Look for the "OpenIPC Inside" logo on the box.
+> no cloud lock-ins. Full control over your device from the very first start. Look for the **OpenIPC Inside** logo on the box.
 
 ### Brief definition (for a sticker or icon):
 
@@ -26,17 +26,17 @@
 
 ### Detailed description (for the product card):
 
-> Devices marked with OpenIPC Inside come pre-installed with fully configured OpenIPC firmware.
+> Devices marked with **OpenIPC Inside** come pre-installed with fully configured OpenIPC firmware.
 > You don’t need to flash anything - you get a clean, secure system immediately, without backdoors,
 > with OTA update capability and access to the full source code.
 
 ### For packing (briefly):
 
-> OpenIPC Inside - free firmware already included.
+> **OpenIPC Inside** - free firmware already included.
 
 ### For the partner catalogue:
 
-> The OpenIPC Inside mark guarantees that the manufacturer has integrated the open ecosystem at the factory image level.
+> The **OpenIPC Inside** mark guarantees that the manufacturer has integrated the open ecosystem at the factory image level.
 > This represents the highest degree of trust and readiness for use in corporate and private networks.
 
 
@@ -44,18 +44,18 @@
 
 ### Option A (technical, for documentation and specifications):
 
-> OpenIPC Ready - hardware-level compatibility certification.
+> **OpenIPC Ready** - hardware-level compatibility certification.
 > The device has successfully passed a set of automated tests (booting, network operation, sensors, video and audio
 > streams) with the reference OpenIPC image without any driver or kernel modifications.
-> The vendor provided a technical sample for verification. 
+> The vendor provided a technical sample for verification.
 
 ### Option B (marketing, for product cards and packaging):
 
-> OpenIPC Ready - simply install freedom.
+> **OpenIPC Ready** - simply install freedom.
 > This device has been tested and is ready to work with OpenIPC.
 > No soldering, no 'hacks', no surprises.
-> Loaded, flashed, started — everything works.
-> The 'OpenIPC Ready' badge is your ticket to the world of secure and open IP cameras.
+> Loaded, flashed, started - everything works.
+> The **OpenIPC Ready** badge is your ticket to the world of secure and open IP cameras.
 
 ### Brief definition (for a sticker or icon):
 
@@ -63,13 +63,13 @@
 
 ### Detailed description (for the product card):
 
-> The OpenIPC Ready labelled product has passed official testing for compatibility with reference OpenIPC builds.
+> The **OpenIPC Ready** labelled product has passed official testing for compatibility with reference OpenIPC builds.
 > You can install alternative firmware without modifications, soldering or 'workarounds'.
 > All drivers work, all interfaces (network, video, audio, PTZ) are utilised.
 
 ### For packaging (briefly):
 
-> OpenIPC Ready — installs in 5 minutes.
+> **OpenIPC Ready** - installs in 5 minutes.
 
 ### For the technical specialist:
 
