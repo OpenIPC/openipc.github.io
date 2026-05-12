@@ -12,7 +12,7 @@ The programme is administered by the non-profit OpenIPC Foundation.
 All certification fees go towards supporting and developing the project.
 
 - 📧 Applications and questions: partners@openipc.eu
-- 🌐 Trusted Partners Registry: https://openipc.github.io/#/trusted
+- 🌐 Public Certification Registry: https://openipc.github.io/#/certified
 
 ### Why become a Trusted Partner?
 
@@ -60,7 +60,7 @@ The programme is non-commercial. Certification funds are used for the developmen
 support of the OpenIPC project, and driver developers.
 
 - 📧 Applications and questions: partners@openipc.eu
-- 🌐 Public register: https://openipc.github.io/#/trusted
+- 🌐 Public Certification Registry: https://openipc.github.io/#/certified
 
 ### What does "Verified" mean?
 
