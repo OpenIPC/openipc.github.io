@@ -1,18 +1,22 @@
 # Certification programs  <!-- markdownlint-disable-line first-line-heading -->
 
 
+## Introduction
+
+The programme is administered by the non-profit OpenIPC Foundation.
+Certification funds are used for the development of the testing infrastructure,
+support of the OpenIPC project and driver developers.
+
+- 📧 Applications and questions: partners@openipc.eu
+- 🌐 Public Certification Registry: https://openipc.github.io/#/certified
+
+
 ## Trusted Partner
 
 ### OpenIPC Trusted Partner - a mark of trust for your equipment
 
 The **OpenIPC Trusted Partner** programme is designed for equipment manufacturers and vendors who
 confirm the highest level of compatibility, security and reliability of their devices with the OpenIPC ecosystem.
-
-The programme is administered by the non-profit OpenIPC Foundation.
-All certification fees go towards supporting and developing the project.
-
-- 📧 Applications and questions: partners@openipc.eu
-- 🌐 Public Certification Registry: https://openipc.github.io/#/certified
 
 ### Why become a Trusted Partner?
 
@@ -55,12 +59,6 @@ The **OpenIPC Trusted Partner** status will prove that your product is worthy of
 
 The OpenIPC Verified Hardware programme is an official quality mark for devices guaranteed to work
 with OpenIPC firmware out of the box. No tweaks, hacks or surprises - just reliable full-power operation.
-
-The programme is non-commercial. Certification funds are used for the development of the testing infrastructure,
-support of the OpenIPC project, and driver developers.
-
-- 📧 Applications and questions: partners@openipc.eu
-- 🌐 Public Certification Registry: https://openipc.github.io/#/certified
 
 ### What does "Verified" mean?
 
