@@ -2,10 +2,9 @@
 - [About](about)
 - [News](news)
 - [Statistics](statistics)
-- [Trademark Usage Policy](trademark)
-- [Certification Registry](certified)
+- [Trademark and Labels](trademark)
 - [Certification Programs](certification)
-- [Approved Labels](labels)
+- [Certification Registry](certified)
 - **Tools**
 - [Defib](https://openipc.github.io/defib/)
 - **Links**
