@@ -1,11 +1,9 @@
 # Trademark and Labels  <!-- markdownlint-disable-line first-line-heading -->
 
 
-
 ## Introduction
 
 ?> Content is in the process of creation and approval.
-
 
 
 ## Trademark Usage Policy
@@ -15,22 +13,20 @@ trademarks of the OpenIPC project. Their use is only permitted under **valid cer
 
 ### Who can obtain the right to labelling
 
-Equipment manufacturers (OEM/ODM):
-- After confirming the compatibility of a specific model (or series) through the verification programme.
-- For the OpenIPC Ready label, successful completion of automated tests is sufficient.
-- For the OpenIPC Inside label, a security audit must also be passed and a license agreement for preinstalling OpenIPC signed.
-
-Assemblers and integrators:
-- Provided they use certified components and do not critically alter the reference OpenIPC firmware.
-- Labelling can only be applied to the final product, not individual modules.
-
-Retailers and distributors:
-- Only for reselling devices already certified by the manufacturer.
-- Cannot apply labels independently without the owner's consent.
+- **Equipment manufacturers (OEM/ODM)**
+  - After confirming the compatibility of a specific model (or series) through the verification programme.
+  - For the OpenIPC Ready label, successful completion of automated tests is sufficient.
+  - For the OpenIPC Inside label, a security audit must also be passed and a license agreement for preinstalling OpenIPC signed.
+- **Assemblers and integrators**
+  - Provided they use certified components and do not critically alter the reference OpenIPC firmware.
+  - Labelling can only be applied to the final product, not individual modules.
+- **Retailers and distributors**
+  - Only for reselling devices already certified by the manufacturer.
+  - Cannot apply labels independently without the owner's consent.
 
 ### Who is prohibited from use
 
-- Projects using OpenIPC forks without explicit approval. 
+- Projects using OpenIPC forks without explicit approval.
 - Devices containing proprietary modules that are not disclosed in SBOM.
 - Any products that may give the impression of official OpenIPC support but have not passed verification.
 
@@ -44,7 +40,7 @@ Retailers and distributors:
 ### Validity and Revocation
 
 Certification is issued for **12 months**.
-Renewal requires confirmation of compatibility with the current version of OpenIPC.
+Renewal requires confirmation of compatibility with the current version of OpenIPC firmware.
 
 The OpenIPC project reserves the right to **revoke the right to use labels** without refund if the device no
 longer meets the standards or the vendor breaches the terms of the agreement.
@@ -52,7 +48,6 @@ longer meets the standards or the vendor breaches the terms of the agreement.
 ### Brand contacts
 
 For all questions regarding the use of trademarks: brand@openipc.eu
-
 
 
 ## OpenIPC Inside
