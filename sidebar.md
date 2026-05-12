@@ -2,9 +2,9 @@
 - [About](about)
 - [News](news)
 - [Statistics](statistics)
+- **Rights and responsibilities**
 - [Trademark and Labels](trademark)
 - [Certification Programs](certification)
-- [Certification Registry](certified)
 - **Tools**
 - [Defib](https://openipc.github.io/defib/)
 - **Links**
