@@ -1,4 +1,8 @@
-# Creating Labels  <!-- markdownlint-disable-line first-line-heading -->
+# Approved Labels  <!-- markdownlint-disable-line first-line-heading -->
+
+## Introduction
+
+?> Content is in the process of creation and approval.
 
 
 ## OpenIPC Ready

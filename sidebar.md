@@ -3,8 +3,8 @@
 - [News](news)
 - [Statistics](statistics)
 - [Certification Registry](certified)
-- [Certification programs](certification)
-- [Creating Labels](labels)
+- [Certification Programs](certification)
+- [Approved Labels](labels)
 - **Tools**
 - [Defib](https://openipc.github.io/defib/)
 - **Links**

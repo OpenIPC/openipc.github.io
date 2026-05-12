@@ -1,41 +1,50 @@
 # Public Certification Registry  <!-- markdownlint-disable-line first-line-heading -->
 
 
+## Introduction
+
+?> Content is in the process of creation and approval.
+
+
 ## Trusted Partner
 
-### OpenIPC Trusted Partner Gold
+### Gold
 
 - As of May 2026, RunCam company is in the process of obtaining certification.
 
-### OpenIPC Trusted Partner Silver
+### Silver
 
 - As of May 2026, CCDCAM company is in the process of obtaining certification.
 - As of May 2026, Anjoy company is in the process of obtaining certification.
 
-### OpenIPC Trusted Partner Bronze
+### Bronze
 
 - At the moment, there are no candidates or participants.
 
 
 ## Verified Hardware
 
-### OpenIPC Verified Pro
+### Pro
 
 - As of May 2026, RunCam company is in the process of obtaining certification.
 
-### OpenIPC Verified Full
+### Full
 
 - At the moment, there are no candidates or participants.
 
-### OpenIPC Verified Ready
+### Ready
 
 - As of May 2026, CCDCAM company is in the process of obtaining certification.
 - As of May 2026, Anjoy company is in the process of obtaining certification.
 
 
-## Creating Labels
+## Approved Labels
 
 ### OpenIPC Ready
 
+- As of May 2026, CCDCAM company is in the process of obtaining certification.
+- As of May 2026, Anjoy company is in the process of obtaining certification.
+
 ### OpenIPC Inside
 
+- As of May 2026, RunCam company is in the process of obtaining certification.
