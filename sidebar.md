@@ -2,6 +2,7 @@
 - [About](about)
 - [News](news)
 - [Statistics](statistics)
+- [Trademark Usage Policy](trademark)
 - [Certification Registry](certified)
 - [Certification Programs](certification)
 - [Approved Labels](labels)
