@@ -1,31 +1,35 @@
-# Certification page  <!-- markdownlint-disable-line first-line-heading -->
+# Public Certification Registry  <!-- markdownlint-disable-line first-line-heading -->
+
 
 ## Trusted Partner
 
-_OpenIPC Trusted Partner - a mark of trust for your equipment_
+### OpenIPC Trusted Partner Gold
 
-### OpenIPC Trusted Partner Bronze
-_utomatic compatibility verification.
+- As of May 2026, RunCam is in the process of obtaining certification.
 
 ### OpenIPC Trusted Partner Silver
-_asic security audit._
 
-### OpenIPC Trusted Partner Gold
-_Fll audit, priority technical support, placement on the project's main page._
+- As of May 2026, CCDCAM is in the process of obtaining certification.
+- As of May 2026, Anjoy is in the process of obtaining certification.
+
+### OpenIPC Trusted Partner Bronze
+
+- At the moment, there are no candidates or participants.
 
 
 ## Verified Hardware
 
-_OpenIPC Verified Hardware - equipment tested for compatibility_
+### OpenIPC Verified Pro
 
-### OpenIPC Verified Ready**
-
-_Basic compatibility (the device boots up, network and video work)._
+- As of May 2026, RunCam is in the process of obtaining certification.
 
 ### OpenIPC Verified Full
 
-_Full compatibility of all interfaces and sensors._
+- At the moment, there are no candidates or participants.
 
-### OpenIPC Verified Pro
+### OpenIPC Verified Ready
 
-_An extended report with recommendations for driver improvement._
+- As of May 2026, CCDCAM is in the process of obtaining certification.
+- As of May 2026, Anjoy is in the process of obtaining certification.
+
+
