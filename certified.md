@@ -5,12 +5,12 @@
 
 ### OpenIPC Trusted Partner Gold
 
-- As of May 2026, RunCam is in the process of obtaining certification.
+- As of May 2026, RunCam company is in the process of obtaining certification.
 
 ### OpenIPC Trusted Partner Silver
 
-- As of May 2026, CCDCAM is in the process of obtaining certification.
-- As of May 2026, Anjoy is in the process of obtaining certification.
+- As of May 2026, CCDCAM company is in the process of obtaining certification.
+- As of May 2026, Anjoy company is in the process of obtaining certification.
 
 ### OpenIPC Trusted Partner Bronze
 
@@ -21,7 +21,7 @@
 
 ### OpenIPC Verified Pro
 
-- As of May 2026, RunCam is in the process of obtaining certification.
+- As of May 2026, RunCam company is in the process of obtaining certification.
 
 ### OpenIPC Verified Full
 
@@ -29,7 +29,13 @@
 
 ### OpenIPC Verified Ready
 
-- As of May 2026, CCDCAM is in the process of obtaining certification.
-- As of May 2026, Anjoy is in the process of obtaining certification.
+- As of May 2026, CCDCAM company is in the process of obtaining certification.
+- As of May 2026, Anjoy company is in the process of obtaining certification.
 
+
+## Creating Labels
+
+### OpenIPC Ready
+
+### OpenIPC Inside
 

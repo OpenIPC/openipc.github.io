@@ -6,9 +6,6 @@
 - [Certification programs](certification)
 - **Tools**
 - [Defib](https://openipc.github.io/defib/)
-- **Sandbox**
-- [Markdown](markdown)
-- [UML Diagrams](uml)
 - **Links**
 - [![Website](assets/img/favicon.ico)Website](https://openipc.org)
 - [![GitHub](assets/img/srv-github.svg)GitHub](https://github.com/openipc)
@@ -17,3 +14,6 @@
 - [![YouTube](assets/img/srv-youtube.svg)YouTube](http://youtube.com/@openipc)
 - [![Twitter](assets/img/srv-twitter.svg)Twitter](http://twitter.com/openipc)
 - [![Instagram](assets/img/srv-instagram.svg)Instagram](https://www.instagram.com/openipc/)
+- **Sandbox**
+- [Markdown](markdown)
+- [UML Diagrams](uml)
