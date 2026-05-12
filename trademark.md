@@ -1,15 +1,14 @@
 # Trademark and Labels  <!-- markdownlint-disable-line first-line-heading -->
 
-
-## Introduction
-
 ?> Content is in the process of creation and approval.
-
 
 ## Trademark Usage Policy
 
 The **OpenIPC**, **OpenIPC Ready** and **OpenIPC Inside** marks, as well as their associated logos, are official
 trademarks of the OpenIPC project. Their use is only permitted under **valid certification and a written agreement**.
+
+- 📧 Applications and questions: brand@openipc.eu
+- 🌐 Public Certification Registry: https://openipc.github.io/#/certification?id=certification-registry
 
 ### Who can obtain the right to labelling
 
@@ -44,10 +43,6 @@ Renewal requires confirmation of compatibility with the current version of OpenI
 
 The OpenIPC project reserves the right to **revoke the right to use labels** without refund if the device no
 longer meets the standards or the vendor breaches the terms of the agreement.
-
-### Brand contacts
-
-For all questions regarding the use of trademarks: brand@openipc.eu
 
 
 ## OpenIPC Inside

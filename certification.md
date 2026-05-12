@@ -1,5 +1,6 @@
 # Certification Programs  <!-- markdownlint-disable-line first-line-heading -->
 
+?> Content is in the process of creation and approval.
 
 ## Introduction
 
@@ -7,8 +8,8 @@ The programme is administered by the non-profit OpenIPC Foundation.
 Certification funds are used for the development of the testing infrastructure,
 support of the OpenIPC project and driver developers.
 
-- 📧 Applications and questions: partners@openipc.eu
-- 🌐 Public Certification Registry: https://openipc.github.io/#/certified
+- 📧 Applications and questions: brand@openipc.eu
+- 🌐 Public Certification Registry: https://openipc.github.io/#/certification?id=certification-registry
 
 
 ## Trusted Partner
@@ -94,3 +95,10 @@ We have personally tested your device (or you have completed a remote verificati
 
 Customers are looking for devices that don’t turn into a 'brick' and don’t send traffic to China.
 The OpenIPC Verified Hardware mark serves as a signal for them to 'buy with confidence'.
+
+
+## Certification Registry
+
+- As of May 2026, RunCam company is in the process of obtaining certification.
+- As of May 2026, CCDCAM company is in the process of obtaining certification.
+- As of May 2026, Anjoy company is in the process of obtaining certification.
