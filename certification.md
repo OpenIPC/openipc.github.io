@@ -63,10 +63,10 @@ with OpenIPC firmware out of the box. No tweaks, hacks or surprises - just relia
 ### What does "Verified" mean?
 
 We have personally tested your device (or you have completed a remote verification) and confirmed:
-- 🧩 Full support for all peripheral interfaces — Ethernet, Wi-Fi, audio, video, GPIO, IR backlight.
+- 🧩 Full support for all peripheral interfaces  - Ethernet, Wi-Fi, audio, video, GPIO, IR backlight.
 - ⚡ Proper driver functionality on all supported kernel and rootfs versions.
 - 🔄 Ability to update over the air (OTA) without the risk of "bricking".
-- 📦 Clean licensing compliance — all built-in components have approved open-source and other compatible licenses.
+- 📦 Clean licensing compliance - all built-in components have approved open-source and other compatible licenses.
 
 ### Advantages for vendors and manufacturers
 
@@ -98,5 +98,24 @@ The OpenIPC Verified Hardware mark serves as a signal for them to 'buy with conf
 
 ## Marking options
 
-- **OpenIPC Ready** -
-- **OpenIPC Inside** -
+### OpenIPC Ready
+
+### OpenIPC Inside
+
+#### Brief definition (for a sticker or icon):
+
+> Powered by OpenIPC technology. Freedom, security, open source.
+
+#### Detailed description (for the product card):
+
+> Devices marked with OpenIPC Inside come pre-installed with fully configured OpenIPC firmware.
+> You don’t need to flash anything - you get a clean, secure system immediately, without backdoors,
+> with OTA update capability and access to the full source code.
+
+#### For packing (briefly):
+
+?> OpenIPC Inside - free firmware already included.
+
+#### For the partner catalogue:
+?> The OpenIPC Inside mark guarantees that the manufacturer has integrated the open ecosystem at the factory image level.
+?> This represents the highest degree of trust and readiness for use in corporate and private networks.
