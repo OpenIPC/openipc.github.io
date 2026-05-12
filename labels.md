@@ -42,6 +42,21 @@
 
 ## OpenIPC Ready
 
+### Option A (technical, for documentation and specifications):
+
+> OpenIPC Ready - hardware-level compatibility certification.
+> The device has successfully passed a set of automated tests (booting, network operation, sensors, video and audio
+> streams) with the reference OpenIPC image without any driver or kernel modifications.
+> The vendor provided a technical sample for verification. 
+
+### Option B (marketing, for product cards and packaging):
+
+> OpenIPC Ready - simply install freedom.
+> This device has been tested and is ready to work with OpenIPC.
+> No soldering, no 'hacks', no surprises.
+> Loaded, flashed, started — everything works.
+> The 'OpenIPC Ready' badge is your ticket to the world of secure and open IP cameras.
+
 ### Brief definition (for a sticker or icon):
 
 > The device is fully compatible with OpenIPC and ready to flash out of the box.
