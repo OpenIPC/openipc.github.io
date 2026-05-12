@@ -71,12 +71,12 @@ We have personally tested your device (or you have completed a remote verificati
 
 ### Advantages for vendors and manufacturers
 
-| For the vendor                                           | For the client                                |
-| -------------------------------------------------------- | --------------------------------------------- |
+| For the vendor                                             | For the client                                |
+| ---------------------------------------------------------- | --------------------------------------------- |
 | The **OpenIPC Verified** mark on the packaging and website | Purchase of a device with known compatibility |
-| Priority inclusion in OpenIPC images                     | Ability to instantly reflash to OpenIPC       |
-| Technical support during certification                   | Access to community updates                   |
-| Promotion in the **Verified Hardware** registry           | No hidden backdoors in the factory firmware   |
+| Priority inclusion in OpenIPC images                       | Ability to instantly reflash to OpenIPC       |
+| Technical support during certification                     | Access to community updates                   |
+| Promotion in the **Verified Hardware** registry            | No hidden backdoors in the factory firmware   |
 
 ### How to get verification?
 
@@ -99,6 +99,7 @@ The OpenIPC Verified Hardware mark serves as a signal for them to 'buy with conf
 
 ## Certification Registry
 
-- As of May 2026, RunCam company is in the process of obtaining certification.
-- As of May 2026, CCDCAM company is in the process of obtaining certification.
-- As of May 2026, Anjoy company is in the process of obtaining certification.
+- As of May 2026
+  - RunCam company is in the process of obtaining certification.
+  - CCDCAM company is in the process of obtaining certification.
+  - Anjoy company is in the process of obtaining certification.
