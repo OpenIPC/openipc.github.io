@@ -2,7 +2,8 @@
 - [About](about)
 - [News](news)
 - [Statistics](statistics)
-- **Rights and responsibilities**
+- [License](license)
+- **Rights and usage**
 - [Trademark and Labels](trademark)
 - [Certification Programs](certification)
 - **Tools**
