@@ -4,6 +4,7 @@
 - [Statistics](statistics)
 - [Certification Registry](certified)
 - [Certification programs](certification)
+- [Creating Labels](labels)
 - **Tools**
 - [Defib](https://openipc.github.io/defib/)
 - **Links**
