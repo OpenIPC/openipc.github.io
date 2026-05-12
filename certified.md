@@ -40,11 +40,11 @@
 
 ## Approved Labels
 
+### OpenIPC Inside
+
+- As of May 2026, RunCam company is in the process of obtaining certification.
+
 ### OpenIPC Ready
 
 - As of May 2026, CCDCAM company is in the process of obtaining certification.
 - As of May 2026, Anjoy company is in the process of obtaining certification.
-
-### OpenIPC Inside
-
-- As of May 2026, RunCam company is in the process of obtaining certification.
