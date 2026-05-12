@@ -8,7 +8,8 @@
 The **OpenIPC Trusted Partner** programme is designed for equipment manufacturers and vendors who
 confirm the highest level of compatibility, security and reliability of their devices with the OpenIPC ecosystem.
 
-The programme is administered by the non-profit OpenIPC Foundation. All certification fees go towards supporting and developing the project.
+The programme is administered by the non-profit OpenIPC Foundation.
+All certification fees go towards supporting and developing the project.
 
 - 📧 Applications and questions: partners@openipc.eu
 - 🌐 Trusted Partners Registry: https://openipc.github.io/#/trusted
@@ -55,6 +56,46 @@ The **OpenIPC Trusted Partner** status will prove that your product is worthy of
 The OpenIPC Verified Hardware programme is an official quality mark for devices guaranteed to work
 with OpenIPC firmware out of the box. No tweaks, hacks or surprises - just reliable full-power operation.
 
+The programme is non-commercial. Certification funds are used for the development of the testing infrastructure,
+support of the OpenIPC project, and driver developers.
+
+- 📧 Applications and questions: partners@openipc.eu
+- 🌐 Public register: https://openipc.github.io/#/trusted
+
+### What does "Verified" mean?
+
+We have personally tested your device (or you have completed a remote verification) and confirmed:
+- 🧩 Full support for all peripheral interfaces — Ethernet, Wi-Fi, audio, video, GPIO, IR backlight.
+- ⚡ Proper driver functionality on all supported kernel and rootfs versions.
+- 🔄 Ability to update over the air (OTA) without the risk of "bricking".
+- 📦 Clean licensing compliance — all built-in components have approved open-source and other compatible licenses.
+
+### Advantages for vendors and manufacturers
+
+| For the vendor                                           | For the client                                |
+| -------------------------------------------------------- | --------------------------------------------- |
+| The 'OpenIPC Verified' mark on the packaging and website | Purchase of a device with known compatibility |
+| Priority inclusion in OpenIPC images                     | Ability to instantly reflash to OpenIPC       |
+| Technical support during certification                   | Access to community updates                   |
+| Promotion in the Verified Hardware registry              | No hidden backdoors in the factory firmware   |
+
+### How to get verification?
+
+- Submit an application specifying the equipment model and technical documentation.
+- Send a sample (or provide remote access) to our testing laboratory.
+- Run automated tests - a set of 200+ checks for all subsystems.
+- Receive a report and the right to use the Verified Hardware mark.
+
+### Verification levels
+
+- **OpenIPC Verified Ready** - basic compatibility (the device boots up, network and video work).
+- **OpenIPC Verified Full** - full compatibility of all interfaces and sensors.
+- **OpenIPC Verified Pro** - an extended report with recommendations for driver improvement.
+
+### Start selling more.
+
+Customers are looking for devices that don’t turn into a 'brick' and don’t send traffic to China.
+The OpenIPC Verified Hardware mark serves as a signal for them to 'buy with confidence'.
 
 
 ## Marking options
