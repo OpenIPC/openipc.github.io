@@ -99,7 +99,7 @@ The OpenIPC Verified Hardware mark serves as a signal for them to 'buy with conf
 
 ## Certification Registry
 
-- As of May 2026
+- **As of May 2026**
   - RunCam company is in the process of obtaining certification.
   - CCDCAM company is in the process of obtaining certification.
   - Anjoy company is in the process of obtaining certification.

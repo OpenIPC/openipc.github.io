@@ -13,6 +13,7 @@
 - [![GitHub](assets/img/srv-github.svg)GitHub](https://github.com/openipc)
 - [![Open Collective](assets/img/srv-opencollective.svg)Open Collective](https://opencollective.com/openipc)
 - [![Telegram](assets/img/srv-telegram.svg)Telegram](https://openipc.org/our-channels)
+- [![WeChat](assets/img/srv-wechat.svg)WeChat](https://www.google.com/search?q=WeChat+ID%3A+OpenIPC)
 - [![YouTube](assets/img/srv-youtube.svg)YouTube](http://youtube.com/@openipc)
 - [![Twitter](assets/img/srv-twitter.svg)Twitter](http://twitter.com/openipc)
 - [![Instagram](assets/img/srv-instagram.svg)Instagram](https://www.instagram.com/openipc/)
