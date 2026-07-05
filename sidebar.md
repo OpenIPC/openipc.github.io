@@ -8,6 +8,8 @@
 - [Certification Programs](certification)
 - **Tools**
 - [Defib](https://openipc.github.io/defib/)
+- **Integrators**
+- [Faceter](i_faceter)
 - **Links**
 - [![Website](assets/img/favicon.ico)Website](https://openipc.org)
 - [![GitHub](assets/img/srv-github.svg)GitHub](https://github.com/openipc)
