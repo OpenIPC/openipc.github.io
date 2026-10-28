@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.openipc.camex",
+      "sha256_cert_fingerprints": [
+        "16:68:27:DA:A0:78:15:24:21:1E:40:BC:4F:D4:AD:F7:B9:7E:FF:00:6F:41:8A:4D:A9:06:9B:E2:EF:AC:15:0E"
+      ]
+    }
+  }
+]
